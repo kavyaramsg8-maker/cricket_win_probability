@@ -1,0 +1,18 @@
+{
+  "matches": 70,
+  "wins": 37,
+  "posterior_mean": 0.5277777777777778,
+  "credible_interval_95": [
+    0.41287215435691205,
+    0.6412208135344315
+  ],
+  "p_value": 0.7202027723528612,
+  "confidence_interval_95": [
+    0.40552760075502886,
+    0.6491215447843341
+  ],
+  "toss_decision_chi_square": {
+    "p_value": 0.01463046059722327,
+    "minimum_expected_count": 5.6571428571428575
+  }
+}

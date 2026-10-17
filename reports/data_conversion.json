@@ -1,0 +1,324 @@
+{
+  "source_filename": "ipl_male_json.zip",
+  "source_sha256": "6fe9142db9e139e4f77a5634ddc61c1c72a26a56bee2fe5affe5921867de04b3",
+  "json_matches": 1243,
+  "included_matches": 1172,
+  "excluded_matches": 71,
+  "delivery_rows": 282000,
+  "years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "exclusion_counts": {
+    "tie_no_result_or_eliminator": 25,
+    "adjusted_result_method": 23,
+    "miscounted_overs": 7,
+    "unusual_innings_ending": 6,
+    "shortened_target": 10
+  },
+  "excluded": [
+    {
+      "match_id": "1082625",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1082648",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "1136564",
+      "reason": "miscounted_overs"
+    },
+    {
+      "match_id": "1136566",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "1136578",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "1136592",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "1175358",
+      "reason": "unusual_innings_ending"
+    },
+    {
+      "match_id": "1175365",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1178424",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1178426",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1216493",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1216512",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1216517",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1216547",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1254077",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1359476",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "1359519",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1370353",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "1426298",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "1473469",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1473471",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "1473481",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1473492",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1473493",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "1473495",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1527685",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1527686",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "1529281",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "1529293",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "335987",
+      "reason": "miscounted_overs"
+    },
+    {
+      "match_id": "335994",
+      "reason": "miscounted_overs"
+    },
+    {
+      "match_id": "336010",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "336012",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "336015",
+      "reason": "miscounted_overs"
+    },
+    {
+      "match_id": "336022",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "336025",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "392183",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "392186",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "392190",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "392197",
+      "reason": "unusual_innings_ending"
+    },
+    {
+      "match_id": "392198",
+      "reason": "miscounted_overs"
+    },
+    {
+      "match_id": "392202",
+      "reason": "unusual_innings_ending"
+    },
+    {
+      "match_id": "392214",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "419114",
+      "reason": "unusual_innings_ending"
+    },
+    {
+      "match_id": "419121",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "419155",
+      "reason": "miscounted_overs"
+    },
+    {
+      "match_id": "501202",
+      "reason": "miscounted_overs"
+    },
+    {
+      "match_id": "501215",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "501245",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "501255",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "501265",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "548307",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "598004",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "598017",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "598066",
+      "reason": "unusual_innings_ending"
+    },
+    {
+      "match_id": "598068",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "729293",
+      "reason": "unusual_innings_ending"
+    },
+    {
+      "match_id": "729315",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "733971",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "733993",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "829741",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "829743",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "829763",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "829771",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "829803",
+      "reason": "shortened_target"
+    },
+    {
+      "match_id": "829807",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "829813",
+      "reason": "tie_no_result_or_eliminator"
+    },
+    {
+      "match_id": "980943",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "980989",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "980997",
+      "reason": "adjusted_result_method"
+    },
+    {
+      "match_id": "980999",
+      "reason": "adjusted_result_method"
+    }
+  ],
+  "season_policy": "Calendar year of first match date; original season preserved in source_season",
+  "source_url": "https://cricsheet.org/downloads/"
+}

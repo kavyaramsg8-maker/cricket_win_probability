@@ -1,0 +1,50 @@
+{
+  "synthetic_demo": false,
+  "model": "Bayesian context plus calibrated Markov chase",
+  "transition_training_years": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "calibration_year": 2025,
+  "test_year": 2026,
+  "train_matches": 1034,
+  "calibration_matches": 68,
+  "test_matches": 70,
+  "sample_stride_deliveries": 24,
+  "raw_markov": {
+    "brier_score": 0.21982073160726867,
+    "log_loss": 0.7841522058167458,
+    "predictions": 374
+  },
+  "adjusted_model": {
+    "brier_score": 0.12705682466712215,
+    "log_loss": 0.3975728780940322,
+    "predictions": 374
+  },
+  "constant_50_percent_baseline": {
+    "brier_score": 0.25,
+    "log_loss": 0.6931471805599454,
+    "predictions": 374
+  },
+  "parameters": {
+    "intercept": 0.8899305980120542,
+    "markov_log_odds_slope": 0.5128984208579572,
+    "bayesian_context_weight": 0.5128984208579572
+  },
+  "disclosure": "2026 was previously inspected. This is a reused test set, not new independent confirmation."
+}

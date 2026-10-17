@@ -1,0 +1,3292 @@
+[
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Arun Jaitley Stadium",
+    "posterior_mean": 0.5702143385070214,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.5889006716154118,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Barabati Stadium",
+    "posterior_mean": 0.5497483546264034,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.5497483546264034,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Brabourne Stadium",
+    "posterior_mean": 0.597367402245451,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.481029810298103,
+    "venue_matches": 4,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Buffalo Park",
+    "posterior_mean": 0.597367402245451,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "De Beers Diamond Oval",
+    "posterior_mean": 0.597367402245451,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dr DY Patil Sports Academy",
+    "posterior_mean": 0.606029810298103,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.606029810298103,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "posterior_mean": 0.6156688839615669,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "posterior_mean": 0.5497483546264034,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dubai International Cricket Stadium",
+    "posterior_mean": 0.604256336681014,
+    "venue_matches": 14,
+    "venue_wins": 9
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.5360246705915335,
+    "venue_matches": 9,
+    "venue_wins": 4
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Eden Gardens, Kolkata",
+    "posterior_mean": 0.597367402245451,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.6363352095059412,
+    "venue_matches": 6,
+    "venue_wins": 5
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "posterior_mean": 0.5702143385070214,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "posterior_mean": 0.597367402245451,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "JSCA International Stadium Complex",
+    "posterior_mean": 0.5643631436314364,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Kingsmead",
+    "posterior_mean": 0.5226964769647696,
+    "venue_matches": 4,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.5978736710444028,
+    "venue_matches": 6,
+    "venue_wins": 4
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.5702143385070214,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "M.Chinnaswamy Stadium",
+    "posterior_mean": 0.5702143385070214,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "MA Chidambaram Stadium",
+    "posterior_mean": 0.6394729464536025,
+    "venue_matches": 9,
+    "venue_wins": 7
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.6853033145716073,
+    "venue_matches": 45,
+    "venue_wins": 33
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.6155632984901278,
+    "venue_matches": 15,
+    "venue_wins": 10
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.6363352095059412,
+    "venue_matches": 6,
+    "venue_wins": 5
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.5454224107458466,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.524759793052476,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "New Wanderers Stadium",
+    "posterior_mean": 0.5702143385070214,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Newlands",
+    "posterior_mean": 0.5497483546264034,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "posterior_mean": 0.524759793052476,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.606029810298103,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Rajiv Gandhi International Stadium",
+    "posterior_mean": 0.5454224107458466,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.5889006716154118,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "posterior_mean": 0.5497483546264034,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sardar Patel Stadium, Motera",
+    "posterior_mean": 0.524759793052476,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.5594121325828643,
+    "venue_matches": 6,
+    "venue_wins": 3
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "posterior_mean": 0.5497483546264034,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "posterior_mean": 0.5497483546264034,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sharjah Cricket Stadium",
+    "posterior_mean": 0.5594121325828643,
+    "venue_matches": 6,
+    "venue_wins": 3
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sheikh Zayed Stadium",
+    "posterior_mean": 0.5417886178861788,
+    "venue_matches": 5,
+    "venue_wins": 2
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "St George's Park",
+    "posterior_mean": 0.6156688839615669,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Subrata Roy Sahara Stadium",
+    "posterior_mean": 0.5702143385070214,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "SuperSport Park",
+    "posterior_mean": 0.5497483546264034,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "posterior_mean": 0.5497483546264034,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.5454328072692493,
+    "venue_matches": 14,
+    "venue_wins": 7
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.5659585628114346,
+    "venue_matches": 11,
+    "venue_wins": 6
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "posterior_mean": 0.5702143385070214,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Barabati Stadium",
+    "posterior_mean": 0.4618794326241134,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Brabourne Stadium",
+    "posterior_mean": 0.38500506585612965,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Buffalo Park",
+    "posterior_mean": 0.38500506585612965,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "De Beers Diamond Oval",
+    "posterior_mean": 0.4129593810444874,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Dr DY Patil Sports Academy",
+    "posterior_mean": 0.3634042553191489,
+    "venue_matches": 5,
+    "venue_wins": 1
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "posterior_mean": 0.3675048355899419,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.35152636447733576,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.4202127659574468,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "posterior_mean": 0.45841392649903284,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Kingsmead",
+    "posterior_mean": 0.4384828862164662,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.39500462534690095,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.4202127659574468,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Nehru Stadium",
+    "posterior_mean": 0.43262411347517726,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "New Wanderers Stadium",
+    "posterior_mean": 0.4384828862164662,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Newlands",
+    "posterior_mean": 0.45841392649903284,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.3675048355899419,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.2917133258678611,
+    "venue_matches": 18,
+    "venue_wins": 3
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Sardar Patel Stadium, Motera",
+    "posterior_mean": 0.38500506585612965,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.3675048355899419,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "St George's Park",
+    "posterior_mean": 0.38500506585612965,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Subrata Roy Sahara Stadium",
+    "posterior_mean": 0.43262411347517726,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "SuperSport Park",
+    "posterior_mean": 0.4202127659574468,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "posterior_mean": 0.4384828862164662,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.4129593810444874,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Arun Jaitley Stadium",
+    "posterior_mean": 0.4765316205533597,
+    "venue_matches": 12,
+    "venue_wins": 6
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.4765316205533597,
+    "venue_matches": 12,
+    "venue_wins": 6
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Barabati Stadium",
+    "posterior_mean": 0.44042913608131,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "posterior_mean": 0.44042913608131,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.46586417535034136,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Brabourne Stadium",
+    "posterior_mean": 0.4204096298957959,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.5520421607378129,
+    "venue_matches": 4,
+    "venue_wins": 4
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Buffalo Park",
+    "posterior_mean": 0.48804818370035763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Dr DY Patil Sports Academy",
+    "posterior_mean": 0.46586417535034136,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.46870882740447956,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "posterior_mean": 0.46870882740447956,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "posterior_mean": 0.46586417535034136,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Dubai International Cricket Stadium",
+    "posterior_mean": 0.44850034875610323,
+    "venue_matches": 14,
+    "venue_wins": 6
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.3660361377752682,
+    "venue_matches": 8,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Eden Gardens, Kolkata",
+    "posterior_mean": 0.44042913608131,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.4479029424681598,
+    "venue_matches": 52,
+    "venue_wins": 23
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Green Park",
+    "posterior_mean": 0.48804818370035763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "posterior_mean": 0.44560921120467434,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "posterior_mean": 0.48804818370035763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Kingsmead",
+    "posterior_mean": 0.5325657329438048,
+    "venue_matches": 3,
+    "venue_wins": 3
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.48996047430830036,
+    "venue_matches": 5,
+    "venue_wins": 3
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.4204096298957959,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "M.Chinnaswamy Stadium",
+    "posterior_mean": 0.44560921120467434,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "MA Chidambaram Stadium",
+    "posterior_mean": 0.44042913608131,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.3941927637579811,
+    "venue_matches": 6,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.46586417535034136,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "posterior_mean": 0.44042913608131,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.4890874720742396,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.44042913608131,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.5299604743083004,
+    "venue_matches": 5,
+    "venue_wins": 4
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Nehru Stadium",
+    "posterior_mean": 0.48804818370035763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "New Wanderers Stadium",
+    "posterior_mean": 0.44560921120467434,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "OUTsurance Oval",
+    "posterior_mean": 0.46586417535034136,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "posterior_mean": 0.4204096298957959,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "posterior_mean": 0.4204096298957959,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.44560921120467434,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Rajiv Gandhi International Stadium",
+    "posterior_mean": 0.46586417535034136,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.5095773791425965,
+    "venue_matches": 6,
+    "venue_wins": 4
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "posterior_mean": 0.48804818370035763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Sardar Patel Stadium, Motera",
+    "posterior_mean": 0.46586417535034136,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "posterior_mean": 0.48804818370035763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.46870882740447956,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "posterior_mean": 0.44042913608131,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "posterior_mean": 0.5095773791425965,
+    "venue_matches": 6,
+    "venue_wins": 4
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Sharjah Cricket Stadium",
+    "posterior_mean": 0.508893280632411,
+    "venue_matches": 8,
+    "venue_wins": 5
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Sheikh Zayed Stadium",
+    "posterior_mean": 0.4499604743083004,
+    "venue_matches": 5,
+    "venue_wins": 2
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "St George's Park",
+    "posterior_mean": 0.48804818370035763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Subrata Roy Sahara Stadium",
+    "posterior_mean": 0.44560921120467434,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "SuperSport Park",
+    "posterior_mean": 0.4890874720742396,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.4017504234895539,
+    "venue_matches": 8,
+    "venue_wins": 2
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.4223797192312934,
+    "venue_matches": 9,
+    "venue_wins": 3
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "posterior_mean": 0.48804818370035763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.5176252319109462,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.4516415261756877,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Green Park",
+    "posterior_mean": 0.4744897959183674,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.4516415261756877,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.47217068645640076,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "posterior_mean": 0.5176252319109462,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.42671614100185534,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "posterior_mean": 0.42716396903589027,
+    "venue_matches": 9,
+    "venue_wins": 3
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.47217068645640076,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.5852272727272727,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.5852272727272727,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.6032608695652174,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.578125,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Eden Gardens, Kolkata",
+    "posterior_mean": 0.6306818181818182,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.5852272727272727,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.5397727272727273,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "posterior_mean": 0.6130952380952381,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.6467391304347826,
+    "venue_matches": 3,
+    "venue_wins": 3
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.5964285714285714,
+    "venue_matches": 15,
+    "venue_wins": 9
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "posterior_mean": 0.6130952380952381,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "posterior_mean": 0.6306818181818182,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.595,
+    "venue_matches": 5,
+    "venue_wins": 3
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Dr DY Patil Sports Academy",
+    "posterior_mean": 0.43290043290043284,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.48051948051948046,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.48051948051948046,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Holkar Cricket Stadium",
+    "posterior_mean": 0.4586776859504132,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.43290043290043284,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.43290043290043284,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Nehru Stadium",
+    "posterior_mean": 0.4204545454545454,
+    "venue_matches": 4,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.43290043290043284,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.48051948051948046,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Arun Jaitley Stadium",
+    "posterior_mean": 0.5064247921390779,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.5064247921390779,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Barabati Stadium",
+    "posterior_mean": 0.5928226363008972,
+    "venue_matches": 3,
+    "venue_wins": 3
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.5540438397581254,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Brabourne Stadium",
+    "posterior_mean": 0.4834054834054834,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.4623878536922015,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Buffalo Park",
+    "posterior_mean": 0.5064247921390779,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Dr DY Patil Sports Academy",
+    "posterior_mean": 0.5743145743145743,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.48478835978835977,
+    "venue_matches": 4,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "posterior_mean": 0.5540438397581254,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Dubai International Cricket Stadium",
+    "posterior_mean": 0.5049970605526161,
+    "venue_matches": 7,
+    "venue_wins": 3
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.5981240981240981,
+    "venue_matches": 68,
+    "venue_wins": 42
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Eden Gardens, Kolkata",
+    "posterior_mean": 0.504088504088504,
+    "venue_matches": 13,
+    "venue_wins": 6
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.5583900226757369,
+    "venue_matches": 8,
+    "venue_wins": 5
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Green Park",
+    "posterior_mean": 0.5064247921390779,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Holkar Cricket Stadium",
+    "posterior_mean": 0.5540438397581254,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "JSCA International Stadium Complex",
+    "posterior_mean": 0.5288600288600288,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Kingsmead",
+    "posterior_mean": 0.5058661145617667,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.5583900226757369,
+    "venue_matches": 8,
+    "venue_wins": 5
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.5743145743145743,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "M.Chinnaswamy Stadium",
+    "posterior_mean": 0.5743145743145743,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "MA Chidambaram Stadium",
+    "posterior_mean": 0.4834054834054834,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.467960023515579,
+    "venue_matches": 7,
+    "venue_wins": 2
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.5244200244200244,
+    "venue_matches": 6,
+    "venue_wins": 3
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.5928226363008972,
+    "venue_matches": 3,
+    "venue_wins": 3
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.549344375431332,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.5681216931216931,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Nehru Stadium",
+    "posterior_mean": 0.5064247921390779,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "New Wanderers Stadium",
+    "posterior_mean": 0.4834054834054834,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Newlands",
+    "posterior_mean": 0.5064247921390779,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "posterior_mean": 0.5540438397581254,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "posterior_mean": 0.5288600288600288,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.5264550264550264,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Rajiv Gandhi International Stadium",
+    "posterior_mean": 0.5288600288600288,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.5628815628815629,
+    "venue_matches": 6,
+    "venue_wins": 4
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "posterior_mean": 0.5540438397581254,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Sardar Patel Stadium, Motera",
+    "posterior_mean": 0.4834054834054834,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "posterior_mean": 0.5540438397581254,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.5244200244200244,
+    "venue_matches": 6,
+    "venue_wins": 3
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "posterior_mean": 0.5064247921390779,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Sharjah Cricket Stadium",
+    "posterior_mean": 0.5583900226757369,
+    "venue_matches": 8,
+    "venue_wins": 5
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Sheikh Zayed Stadium",
+    "posterior_mean": 0.539135194307608,
+    "venue_matches": 9,
+    "venue_wins": 5
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "St George's Park",
+    "posterior_mean": 0.5064247921390779,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Subrata Roy Sahara Stadium",
+    "posterior_mean": 0.5928226363008972,
+    "venue_matches": 3,
+    "venue_wins": 3
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "SuperSport Park",
+    "posterior_mean": 0.5288600288600288,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.40120415982484947,
+    "venue_matches": 9,
+    "venue_wins": 1
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.5226757369614512,
+    "venue_matches": 8,
+    "venue_wins": 4
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "posterior_mean": 0.549344375431332,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.5139833711262283,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.5392015392015391,
+    "venue_matches": 13,
+    "venue_wins": 7
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.5562456866804693,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.5747354497354497,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Eden Gardens, Kolkata",
+    "posterior_mean": 0.5127674258109041,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.5815295815295815,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.5127674258109041,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.5562456866804693,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.5139833711262283,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "posterior_mean": 0.5616024187452758,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "posterior_mean": 0.536075036075036,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "posterior_mean": 0.536075036075036,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.5517460317460317,
+    "venue_matches": 5,
+    "venue_wins": 3
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Arun Jaitley Stadium",
+    "posterior_mean": 0.5471380471380471,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.5848765432098765,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Barabati Stadium",
+    "posterior_mean": 0.5255731922398589,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.5016835016835016,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Brabourne Stadium",
+    "posterior_mean": 0.5939643347050755,
+    "venue_matches": 7,
+    "venue_wins": 5
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.5432098765432098,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Buffalo Park",
+    "posterior_mean": 0.5471380471380471,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Dr DY Patil Sports Academy",
+    "posterior_mean": 0.6168091168091169,
+    "venue_matches": 6,
+    "venue_wins": 5
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.5015432098765432,
+    "venue_matches": 4,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "posterior_mean": 0.5432098765432098,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Dubai International Cricket Stadium",
+    "posterior_mean": 0.5013227513227513,
+    "venue_matches": 8,
+    "venue_wins": 3
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.6374859708193041,
+    "venue_matches": 13,
+    "venue_wins": 10
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.4656084656084656,
+    "venue_matches": 8,
+    "venue_wins": 2
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Green Park",
+    "posterior_mean": 0.5255731922398589,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Holkar Cricket Stadium",
+    "posterior_mean": 0.5925925925925926,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Kingsmead",
+    "posterior_mean": 0.4798711755233494,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.6219667943805876,
+    "venue_matches": 9,
+    "venue_wins": 7
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.5255731922398589,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "M.Chinnaswamy Stadium",
+    "posterior_mean": 0.5471380471380471,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "MA Chidambaram Stadium",
+    "posterior_mean": 0.5925925925925926,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.5398860398860399,
+    "venue_matches": 6,
+    "venue_wins": 3
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.5198902606310013,
+    "venue_matches": 7,
+    "venue_wins": 3
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "posterior_mean": 0.5731922398589064,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.5668276972624798,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.4798711755233494,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.4798711755233494,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "New Wanderers Stadium",
+    "posterior_mean": 0.5255731922398589,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Newlands",
+    "posterior_mean": 0.5731922398589064,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "posterior_mean": 0.5255731922398589,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "posterior_mean": 0.5731922398589064,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "posterior_mean": 0.5731922398589064,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.5398860398860399,
+    "venue_matches": 6,
+    "venue_wins": 3
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Rajiv Gandhi International Stadium",
+    "posterior_mean": 0.5668276972624798,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.5727513227513228,
+    "venue_matches": 8,
+    "venue_wins": 5
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "posterior_mean": 0.5471380471380471,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sardar Patel Stadium, Motera",
+    "posterior_mean": 0.5471380471380471,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.4828532235939643,
+    "venue_matches": 7,
+    "venue_wins": 2
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "posterior_mean": 0.5255731922398589,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sharjah Cricket Stadium",
+    "posterior_mean": 0.5398860398860399,
+    "venue_matches": 6,
+    "venue_wins": 3
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sheikh Zayed Stadium",
+    "posterior_mean": 0.5874840357598978,
+    "venue_matches": 9,
+    "venue_wins": 6
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "St George's Park",
+    "posterior_mean": 0.5471380471380471,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Subrata Roy Sahara Stadium",
+    "posterior_mean": 0.5925925925925926,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "SuperSport Park",
+    "posterior_mean": 0.5233494363929146,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.6122004357298475,
+    "venue_matches": 65,
+    "venue_wins": 41
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.5536062378167642,
+    "venue_matches": 18,
+    "venue_wins": 10
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "posterior_mean": 0.5668276972624798,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Barabati Stadium",
+    "posterior_mean": 0.3125,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Dr DY Patil Sports Academy",
+    "posterior_mean": 0.29086538461538464,
+    "venue_matches": 6,
+    "venue_wins": 1
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.3125,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.3601190476190476,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "JSCA International Stadium Complex",
+    "posterior_mean": 0.3601190476190476,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.28532608695652173,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.328804347826087,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.3125,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.328804347826087,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.34375,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.28532608695652173,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "posterior_mean": 0.3125,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Subrata Roy Sahara Stadium",
+    "posterior_mean": 0.30178571428571427,
+    "venue_matches": 15,
+    "venue_wins": 4
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.328804347826087,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Arun Jaitley Stadium",
+    "posterior_mean": 0.45834842448388263,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.4801745399354961,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Barabati Stadium",
+    "posterior_mean": 0.4384202321150181,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "posterior_mean": 0.5038029699384281,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.45834842448388263,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Brabourne Stadium",
+    "posterior_mean": 0.43255549231644846,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.46181938911022574,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "De Beers Diamond Oval",
+    "posterior_mean": 0.4801745399354961,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.46181938911022574,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "posterior_mean": 0.45834842448388263,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Dubai International Cricket Stadium",
+    "posterior_mean": 0.520126390987773,
+    "venue_matches": 9,
+    "venue_wins": 6
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.3694555112881806,
+    "venue_matches": 10,
+    "venue_wins": 2
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Eden Gardens, Kolkata",
+    "posterior_mean": 0.45834842448388263,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.4315594763801935,
+    "venue_matches": 8,
+    "venue_wins": 3
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "posterior_mean": 0.4672737620944792,
+    "venue_matches": 8,
+    "venue_wins": 4
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "posterior_mean": 0.37848605577689237,
+    "venue_matches": 4,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Holkar Cricket Stadium",
+    "posterior_mean": 0.4672737620944792,
+    "venue_matches": 8,
+    "venue_wins": 4
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Kingsmead",
+    "posterior_mean": 0.44334661354581667,
+    "venue_matches": 5,
+    "venue_wins": 2
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.48564363236708336,
+    "venue_matches": 9,
+    "venue_wins": 5
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.43255549231644846,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "M.Chinnaswamy Stadium",
+    "posterior_mean": 0.41289387902933716,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "MA Chidambaram Stadium",
+    "posterior_mean": 0.43255549231644846,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.42015272244355906,
+    "venue_matches": 4,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.5034860557768924,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "posterior_mean": 0.4033466135458167,
+    "venue_matches": 5,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.3633466135458167,
+    "venue_matches": 5,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.45834842448388263,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.46181938911022574,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "New Wanderers Stadium",
+    "posterior_mean": 0.4801745399354961,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Newlands",
+    "posterior_mean": 0.4801745399354961,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "OUTsurance Oval",
+    "posterior_mean": 0.4801745399354961,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "posterior_mean": 0.5694555112881806,
+    "venue_matches": 10,
+    "venue_wins": 8
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "posterior_mean": 0.42205372060146507,
+    "venue_matches": 11,
+    "venue_wins": 4
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "posterior_mean": 0.37848605577689237,
+    "venue_matches": 4,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.4830308396045448,
+    "venue_matches": 34,
+    "venue_wins": 17
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Rajiv Gandhi International Stadium",
+    "posterior_mean": 0.41289387902933716,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.4672737620944792,
+    "venue_matches": 8,
+    "venue_wins": 4
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "posterior_mean": 0.41289387902933716,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "posterior_mean": 0.5038029699384281,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.4033466135458167,
+    "venue_matches": 5,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Sharjah Cricket Stadium",
+    "posterior_mean": 0.521617234764645,
+    "venue_matches": 7,
+    "venue_wins": 5
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Sheikh Zayed Stadium",
+    "posterior_mean": 0.42629482071713143,
+    "venue_matches": 6,
+    "venue_wins": 2
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "St George's Park",
+    "posterior_mean": 0.4801745399354961,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Subrata Roy Sahara Stadium",
+    "posterior_mean": 0.45834842448388263,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "SuperSport Park",
+    "posterior_mean": 0.43255549231644846,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.4543117851175941,
+    "venue_matches": 11,
+    "venue_wins": 5
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.4672737620944792,
+    "venue_matches": 8,
+    "venue_wins": 4
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "posterior_mean": 0.43255549231644846,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Arun Jaitley Stadium",
+    "posterior_mean": 0.48242877937201073,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.48395671160053155,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "posterior_mean": 0.48395671160053155,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.5300478269910583,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Brabourne Stadium",
+    "posterior_mean": 0.5054585152838428,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.570913233339662,
+    "venue_matches": 3,
+    "venue_wins": 3
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "De Beers Diamond Oval",
+    "posterior_mean": 0.4605001984914648,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Dr DY Patil Sports Academy",
+    "posterior_mean": 0.5059547439460103,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.4637918486171761,
+    "venue_matches": 4,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "posterior_mean": 0.5300478269910583,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Dubai International Cricket Stadium",
+    "posterior_mean": 0.4043668122270742,
+    "venue_matches": 10,
+    "venue_wins": 2
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.41831049540731813,
+    "venue_matches": 9,
+    "venue_wins": 2
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Eden Gardens, Kolkata",
+    "posterior_mean": 0.5274349724700967,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.5233705321041565,
+    "venue_matches": 7,
+    "venue_wins": 4
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "posterior_mean": 0.5300478269910583,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Holkar Cricket Stadium",
+    "posterior_mean": 0.4605001984914648,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "JSCA International Stadium Complex",
+    "posterior_mean": 0.48242877937201073,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Kingsmead",
+    "posterior_mean": 0.5274349724700967,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.5252401746724891,
+    "venue_matches": 5,
+    "venue_wins": 3
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.48242877937201073,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "M.Chinnaswamy Stadium",
+    "posterior_mean": 0.5300478269910583,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "MA Chidambaram Stadium",
+    "posterior_mean": 0.48242877937201073,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.428115552569701,
+    "venue_matches": 6,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.48395671160053155,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "posterior_mean": 0.5300478269910583,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.48395671160053155,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.5514092894005557,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.5471251819505094,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Newlands",
+    "posterior_mean": 0.4605001984914648,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "OUTsurance Oval",
+    "posterior_mean": 0.48242877937201073,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "posterior_mean": 0.48242877937201073,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.5050386294927779,
+    "venue_matches": 6,
+    "venue_wins": 3
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Rajiv Gandhi International Stadium",
+    "posterior_mean": 0.48242877937201073,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.5054585152838428,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "posterior_mean": 0.5059547439460103,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sardar Patel Stadium, Motera",
+    "posterior_mean": 0.552613044090717,
+    "venue_matches": 11,
+    "venue_wins": 7
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.6114219432314411,
+    "venue_matches": 44,
+    "venue_wins": 29
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "posterior_mean": 0.5043668122270742,
+    "venue_matches": 10,
+    "venue_wins": 5
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sharjah Cricket Stadium",
+    "posterior_mean": 0.46657709103123945,
+    "venue_matches": 6,
+    "venue_wins": 2
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sheikh Zayed Stadium",
+    "posterior_mean": 0.5604075691411935,
+    "venue_matches": 7,
+    "venue_wins": 5
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "St George's Park",
+    "posterior_mean": 0.5300478269910583,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Subrata Roy Sahara Stadium",
+    "posterior_mean": 0.5059547439460103,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "SuperSport Park",
+    "posterior_mean": 0.5300478269910583,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "posterior_mean": 0.5300478269910583,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.5046787273861509,
+    "venue_matches": 8,
+    "venue_wins": 4
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.5040938864628821,
+    "venue_matches": 12,
+    "venue_wins": 6
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "posterior_mean": 0.5059547439460103,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "posterior_mean": 0.4903288201160541,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.5136778115501519,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.4903288201160541,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Holkar Cricket Stadium",
+    "posterior_mean": 0.46605876393110435,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.4903288201160541,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.4770075497597804,
+    "venue_matches": 11,
+    "venue_wins": 5
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "posterior_mean": 0.46605876393110435,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.4903288201160541,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "posterior_mean": 0.4448742746615087,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.5559666975023126,
+    "venue_matches": 3,
+    "venue_wins": 3
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Arun Jaitley Stadium",
+    "posterior_mean": 0.4843260188087774,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.45977011494252873,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.5073891625615763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Brabourne Stadium",
+    "posterior_mean": 0.5073891625615763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.4197901049475262,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Dr DY Patil Sports Academy",
+    "posterior_mean": 0.4843260188087774,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.48563218390804597,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Dubai International Cricket Stadium",
+    "posterior_mean": 0.5372636262513905,
+    "venue_matches": 11,
+    "venue_wins": 7
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.4708680142687277,
+    "venue_matches": 9,
+    "venue_wins": 4
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Eden Gardens, Kolkata",
+    "posterior_mean": 0.46326836581709147,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.5427841634738186,
+    "venue_matches": 7,
+    "venue_wins": 5
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "posterior_mean": 0.45977011494252873,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "posterior_mean": 0.5073891625615763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Holkar Cricket Stadium",
+    "posterior_mean": 0.4843260188087774,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "JSCA International Stadium Complex",
+    "posterior_mean": 0.46326836581709147,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Kingsmead",
+    "posterior_mean": 0.5272988505747126,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.4610297590930562,
+    "venue_matches": 53,
+    "venue_wins": 24
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.4898580121703854,
+    "venue_matches": 14,
+    "venue_wins": 7
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "M.Chinnaswamy Stadium",
+    "posterior_mean": 0.5192697768762677,
+    "venue_matches": 14,
+    "venue_wins": 8
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "MA Chidambaram Stadium",
+    "posterior_mean": 0.45977011494252873,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.41625615763546797,
+    "venue_matches": 8,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.5272988505747126,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.48563218390804597,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.5067466266866567,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.46620689655172415,
+    "venue_matches": 5,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Nehru Stadium",
+    "posterior_mean": 0.5073891625615763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "New Wanderers Stadium",
+    "posterior_mean": 0.5272988505747126,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Newlands",
+    "posterior_mean": 0.4843260188087774,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "posterior_mean": 0.5073891625615763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "posterior_mean": 0.5073891625615763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "posterior_mean": 0.5073891625615763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.48563218390804597,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Rajiv Gandhi International Stadium",
+    "posterior_mean": 0.438871473354232,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.40981432360742703,
+    "venue_matches": 6,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "posterior_mean": 0.5297805642633229,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Sardar Patel Stadium, Motera",
+    "posterior_mean": 0.5073891625615763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "posterior_mean": 0.4843260188087774,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.46871008939974457,
+    "venue_matches": 7,
+    "venue_wins": 3
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "posterior_mean": 0.4843260188087774,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "posterior_mean": 0.5073891625615763,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Sharjah Cricket Stadium",
+    "posterior_mean": 0.45197044334975367,
+    "venue_matches": 8,
+    "venue_wins": 3
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Sheikh Zayed Stadium",
+    "posterior_mean": 0.4482758620689655,
+    "venue_matches": 6,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "St George's Park",
+    "posterior_mean": 0.4197901049475262,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Subrata Roy Sahara Stadium",
+    "posterior_mean": 0.5297805642633229,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "SuperSport Park",
+    "posterior_mean": 0.5067466266866567,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "posterior_mean": 0.45977011494252873,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.4218390804597701,
+    "venue_matches": 10,
+    "venue_wins": 3
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.5233990147783251,
+    "venue_matches": 8,
+    "venue_wins": 5
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "posterior_mean": 0.438871473354232,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Arun Jaitley Stadium",
+    "posterior_mean": 0.5359848484848485,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "posterior_mean": 0.4913194444444444,
+    "venue_matches": 4,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "posterior_mean": 0.4662698412698412,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Brabourne Stadium",
+    "posterior_mean": 0.5138888888888888,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Brabourne Stadium, Mumbai",
+    "posterior_mean": 0.5126811594202898,
+    "venue_matches": 3,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "posterior_mean": 0.532986111111111,
+    "venue_matches": 4,
+    "venue_wins": 3
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "posterior_mean": 0.4716666666666666,
+    "venue_matches": 5,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Dubai International Cricket Stadium",
+    "posterior_mean": 0.5088383838383838,
+    "venue_matches": 13,
+    "venue_wins": 7
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Eden Gardens",
+    "posterior_mean": 0.4211309523809524,
+    "venue_matches": 8,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Eden Gardens, Kolkata",
+    "posterior_mean": 0.490530303030303,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Feroz Shah Kotla",
+    "posterior_mean": 0.5116666666666666,
+    "venue_matches": 5,
+    "venue_wins": 3
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Green Park",
+    "posterior_mean": 0.5138888888888888,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "JSCA International Stadium Complex",
+    "posterior_mean": 0.5138888888888888,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "M Chinnaswamy Stadium",
+    "posterior_mean": 0.4716666666666666,
+    "venue_matches": 5,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "posterior_mean": 0.5138888888888888,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "M.Chinnaswamy Stadium",
+    "posterior_mean": 0.44507575757575757,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "MA Chidambaram Stadium",
+    "posterior_mean": 0.4662698412698412,
+    "venue_matches": 1,
+    "venue_wins": 0
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "posterior_mean": 0.44507575757575757,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "posterior_mean": 0.4211309523809524,
+    "venue_matches": 8,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "posterior_mean": 0.5138888888888888,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "posterior_mean": 0.4692028985507246,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "posterior_mean": 0.42572463768115937,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "posterior_mean": 0.42572463768115937,
+    "venue_matches": 3,
+    "venue_wins": 0
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "posterior_mean": 0.44507575757575757,
+    "venue_matches": 2,
+    "venue_wins": 0
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "posterior_mean": 0.5359848484848485,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "posterior_mean": 0.5359848484848485,
+    "venue_matches": 2,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Rajiv Gandhi International Stadium",
+    "posterior_mean": 0.5694444444444444,
+    "venue_matches": 13,
+    "venue_wins": 9
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "posterior_mean": 0.6125886524822695,
+    "venue_matches": 27,
+    "venue_wins": 19
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "posterior_mean": 0.47853535353535354,
+    "venue_matches": 13,
+    "venue_wins": 6
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sardar Patel Stadium, Motera",
+    "posterior_mean": 0.5138888888888888,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "posterior_mean": 0.5138888888888888,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sawai Mansingh Stadium",
+    "posterior_mean": 0.4692028985507246,
+    "venue_matches": 3,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "posterior_mean": 0.5138888888888888,
+    "venue_matches": 1,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "posterior_mean": 0.490530303030303,
+    "venue_matches": 2,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sharjah Cricket Stadium",
+    "posterior_mean": 0.4367283950617284,
+    "venue_matches": 7,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sheikh Zayed Stadium",
+    "posterior_mean": 0.4716666666666666,
+    "venue_matches": 5,
+    "venue_wins": 2
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Wankhede Stadium",
+    "posterior_mean": 0.41506410256410253,
+    "venue_matches": 6,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Wankhede Stadium, Mumbai",
+    "posterior_mean": 0.41506410256410253,
+    "venue_matches": 6,
+    "venue_wins": 1
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "posterior_mean": 0.490530303030303,
+    "venue_matches": 2,
+    "venue_wins": 1
+  }
+]

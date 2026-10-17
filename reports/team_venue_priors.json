@@ -1,0 +1,5579 @@
+[
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Arun Jaitley Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Arun Jaitley Stadium",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Arun Jaitley Stadium",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Arun Jaitley Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Arun Jaitley Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Arun Jaitley Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Arun Jaitley Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Arun Jaitley Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Arun Jaitley Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 16,
+    "wins": 6,
+    "posterior_mean": 0.3888888888888889,
+    "credible_interval_95": [
+      0.18443696178394667,
+      0.6167163365565971
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 5,
+    "wins": 4,
+    "posterior_mean": 0.7142857142857143,
+    "credible_interval_95": [
+      0.35876542100232517,
+      0.9567281317072583
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 5,
+    "wins": 3,
+    "posterior_mean": 0.5714285714285714,
+    "credible_interval_95": [
+      0.22277809550351213,
+      0.8818827512429748
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Barabati Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Barabati Stadium",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Barabati Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Barabati Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Barabati Stadium",
+    "matches": 3,
+    "wins": 3,
+    "posterior_mean": 0.8,
+    "credible_interval_95": [
+      0.3976353643835253,
+      0.9936905367902902
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Barabati Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Barabati Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "matches": 5,
+    "wins": 2,
+    "posterior_mean": 0.42857142857142855,
+    "credible_interval_95": [
+      0.11811724875702521,
+      0.7772219044964879
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 20,
+    "wins": 9,
+    "posterior_mean": 0.45454545454545453,
+    "credible_interval_95": [
+      0.25713062640640744,
+      0.6597936907197254
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Brabourne Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Brabourne Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Brabourne Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Brabourne Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Brabourne Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Brabourne Stadium",
+    "matches": 7,
+    "wins": 5,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.3491442055871758,
+      0.9147665858627465
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Brabourne Stadium",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Brabourne Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Brabourne Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 4,
+    "wins": 0,
+    "posterior_mean": 0.16666666666666666,
+    "credible_interval_95": [
+      0.0050507633794680575,
+      0.5218237501049814
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 4,
+    "wins": 4,
+    "posterior_mean": 0.8333333333333334,
+    "credible_interval_95": [
+      0.4781762498950185,
+      0.9949492366205319
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 3,
+    "wins": 3,
+    "posterior_mean": 0.8,
+    "credible_interval_95": [
+      0.3976353643835253,
+      0.9936905367902902
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Buffalo Park",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Buffalo Park",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Buffalo Park",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Buffalo Park",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Buffalo Park",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "De Beers Diamond Oval",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "De Beers Diamond Oval",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "De Beers Diamond Oval",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "De Beers Diamond Oval",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 5,
+    "wins": 1,
+    "posterior_mean": 0.2857142857142857,
+    "credible_interval_95": [
+      0.043271868292741676,
+      0.6412345789976748
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 6,
+    "wins": 5,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.4212768029568048,
+      0.9633074338239145
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 6,
+    "wins": 1,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.03669256617608555,
+      0.5787231970431952
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 1,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.052744950526316906,
+      0.7164179361180895
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 1,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.052744950526316906,
+      0.7164179361180895
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 1,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.052744950526316906,
+      0.7164179361180895
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 5,
+    "wins": 2,
+    "posterior_mean": 0.42857142857142855,
+    "credible_interval_95": [
+      0.11811724875702521,
+      0.7772219044964879
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 14,
+    "wins": 9,
+    "posterior_mean": 0.625,
+    "credible_interval_95": [
+      0.38380373254115413,
+      0.8366356761404865
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 12,
+    "wins": 5,
+    "posterior_mean": 0.42857142857142855,
+    "credible_interval_95": [
+      0.19223244180128798,
+      0.6842223970859369
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 6,
+    "wins": 4,
+    "posterior_mean": 0.625,
+    "credible_interval_95": [
+      0.2904208637373427,
+      0.9010117215574921
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 7,
+    "wins": 3,
+    "posterior_mean": 0.4444444444444444,
+    "credible_interval_95": [
+      0.15701277048705795,
+      0.7551367836334484
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 8,
+    "wins": 3,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.1369956622651665,
+      0.7007049437914596
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 10,
+    "wins": 2,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.06021773417290665,
+      0.5177558523601726
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 11,
+    "wins": 7,
+    "posterior_mean": 0.6153846153846154,
+    "credible_interval_95": [
+      0.34887550641881554,
+      0.8483477701915698
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 13,
+    "wins": 7,
+    "posterior_mean": 0.5333333333333333,
+    "credible_interval_95": [
+      0.28860940003830743,
+      0.7696394585519376
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Eden Gardens",
+    "matches": 9,
+    "wins": 4,
+    "posterior_mean": 0.45454545454545453,
+    "credible_interval_95": [
+      0.18708602844739855,
+      0.7376219233930549
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Eden Gardens",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Eden Gardens",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Eden Gardens",
+    "matches": 7,
+    "wins": 0,
+    "posterior_mean": 0.1111111111111111,
+    "credible_interval_95": [
+      0.0031597235312519063,
+      0.3694166475528192
+    ]
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Eden Gardens",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Eden Gardens",
+    "matches": 10,
+    "wins": 2,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.06021773417290665,
+      0.5177558523601726
+    ]
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Eden Gardens",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Eden Gardens",
+    "matches": 68,
+    "wins": 42,
+    "posterior_mean": 0.6142857142857143,
+    "credible_interval_95": [
+      0.49834962625920504,
+      0.7240336777774962
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Eden Gardens",
+    "matches": 13,
+    "wins": 10,
+    "posterior_mean": 0.7333333333333333,
+    "credible_interval_95": [
+      0.4920243229515281,
+      0.9161106816928725
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Eden Gardens",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Eden Gardens",
+    "matches": 9,
+    "wins": 2,
+    "posterior_mean": 0.2727272727272727,
+    "credible_interval_95": [
+      0.06673951117773447,
+      0.5560954623076415
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiant",
+    "venue": "Eden Gardens",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Eden Gardens",
+    "matches": 9,
+    "wins": 4,
+    "posterior_mean": 0.45454545454545453,
+    "credible_interval_95": [
+      0.18708602844739855,
+      0.7376219233930549
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Eden Gardens",
+    "matches": 8,
+    "wins": 2,
+    "posterior_mean": 0.3,
+    "credible_interval_95": [
+      0.07485463141969183,
+      0.600093573716312
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 3,
+    "wins": 3,
+    "posterior_mean": 0.8,
+    "credible_interval_95": [
+      0.3976353643835253,
+      0.9936905367902902
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 19,
+    "wins": 8,
+    "posterior_mean": 0.42857142857142855,
+    "credible_interval_95": [
+      0.2305778967759241,
+      0.6394574126925103
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Feroz Shah Kotla",
+    "matches": 6,
+    "wins": 5,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.4212768029568048,
+      0.9633074338239145
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Feroz Shah Kotla",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Feroz Shah Kotla",
+    "matches": 52,
+    "wins": 23,
+    "posterior_mean": 0.4444444444444444,
+    "credible_interval_95": [
+      0.3156152838640986,
+      0.5771741676209701
+    ]
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Feroz Shah Kotla",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Feroz Shah Kotla",
+    "matches": 8,
+    "wins": 3,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.1369956622651665,
+      0.7007049437914596
+    ]
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Feroz Shah Kotla",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Feroz Shah Kotla",
+    "matches": 8,
+    "wins": 5,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.29929505620854036,
+      0.8630043377348335
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Feroz Shah Kotla",
+    "matches": 8,
+    "wins": 2,
+    "posterior_mean": 0.3,
+    "credible_interval_95": [
+      0.07485463141969183,
+      0.600093573716312
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Feroz Shah Kotla",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Feroz Shah Kotla",
+    "matches": 7,
+    "wins": 4,
+    "posterior_mean": 0.5555555555555556,
+    "credible_interval_95": [
+      0.2448632163665516,
+      0.842987229512942
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiant",
+    "venue": "Feroz Shah Kotla",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Feroz Shah Kotla",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Feroz Shah Kotla",
+    "matches": 7,
+    "wins": 5,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.3491442055871758,
+      0.9147665858627465
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Feroz Shah Kotla",
+    "matches": 5,
+    "wins": 3,
+    "posterior_mean": 0.5714285714285714,
+    "credible_interval_95": [
+      0.22277809550351213,
+      0.8818827512429748
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Green Park",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Green Park",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Green Park",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Green Park",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Green Park",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "matches": 8,
+    "wins": 4,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.21200850677886798,
+      0.787991493221132
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "matches": 5,
+    "wins": 1,
+    "posterior_mean": 0.2857142857142857,
+    "credible_interval_95": [
+      0.043271868292741676,
+      0.6412345789976748
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Holkar Cricket Stadium",
+    "matches": 8,
+    "wins": 4,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.21200850677886798,
+      0.787991493221132
+    ]
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Holkar Cricket Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Holkar Cricket Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Holkar Cricket Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Holkar Cricket Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiant",
+    "venue": "Holkar Cricket Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Holkar Cricket Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "JSCA International Stadium Complex",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "JSCA International Stadium Complex",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "JSCA International Stadium Complex",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "JSCA International Stadium Complex",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "JSCA International Stadium Complex",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "JSCA International Stadium Complex",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Kingsmead",
+    "matches": 4,
+    "wins": 1,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.052744950526316906,
+      0.7164179361180895
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Kingsmead",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Kingsmead",
+    "matches": 3,
+    "wins": 3,
+    "posterior_mean": 0.8,
+    "credible_interval_95": [
+      0.3976353643835253,
+      0.9936905367902902
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Kingsmead",
+    "matches": 5,
+    "wins": 2,
+    "posterior_mean": 0.42857142857142855,
+    "credible_interval_95": [
+      0.11811724875702521,
+      0.7772219044964879
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Kingsmead",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Kingsmead",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Kingsmead",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Kingsmead",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 6,
+    "wins": 4,
+    "posterior_mean": 0.625,
+    "credible_interval_95": [
+      0.2904208637373427,
+      0.9010117215574921
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 5,
+    "wins": 3,
+    "posterior_mean": 0.5714285714285714,
+    "credible_interval_95": [
+      0.22277809550351213,
+      0.8818827512429748
+    ]
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 9,
+    "wins": 5,
+    "posterior_mean": 0.5454545454545454,
+    "credible_interval_95": [
+      0.26237807660694507,
+      0.8129139715526015
+    ]
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 8,
+    "wins": 5,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.29929505620854036,
+      0.8630043377348335
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 9,
+    "wins": 7,
+    "posterior_mean": 0.7272727272727273,
+    "credible_interval_95": [
+      0.4439045376923585,
+      0.9332604888222655
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 5,
+    "wins": 3,
+    "posterior_mean": 0.5714285714285714,
+    "credible_interval_95": [
+      0.22277809550351213,
+      0.8818827512429748
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiant",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 53,
+    "wins": 24,
+    "posterior_mean": 0.45454545454545453,
+    "credible_interval_95": [
+      0.32622463010427954,
+      0.5859996719630802
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 5,
+    "wins": 2,
+    "posterior_mean": 0.42857142857142855,
+    "credible_interval_95": [
+      0.11811724875702521,
+      0.7772219044964879
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 7,
+    "wins": 3,
+    "posterior_mean": 0.4444444444444444,
+    "credible_interval_95": [
+      0.15701277048705795,
+      0.7551367836334484
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 11,
+    "wins": 6,
+    "posterior_mean": 0.5384615384615384,
+    "credible_interval_95": [
+      0.2766696856821058,
+      0.7890553617607033
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 14,
+    "wins": 8,
+    "posterior_mean": 0.5625,
+    "credible_interval_95": [
+      0.3228697662062816,
+      0.7873332704806921
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "MA Chidambaram Stadium",
+    "matches": 9,
+    "wins": 7,
+    "posterior_mean": 0.7272727272727273,
+    "credible_interval_95": [
+      0.4439045376923585,
+      0.9332604888222655
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "MA Chidambaram Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "MA Chidambaram Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "MA Chidambaram Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "MA Chidambaram Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "MA Chidambaram Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "MA Chidambaram Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "MA Chidambaram Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 45,
+    "wins": 33,
+    "posterior_mean": 0.723404255319149,
+    "credible_interval_95": [
+      0.5886811523956377,
+      0.8401332980750974
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 6,
+    "wins": 1,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.03669256617608555,
+      0.5787231970431952
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 4,
+    "wins": 1,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.052744950526316906,
+      0.7164179361180895
+    ]
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 7,
+    "wins": 2,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.08523341413725354,
+      0.6508557944128242
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 6,
+    "wins": 1,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.03669256617608555,
+      0.5787231970431952
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 8,
+    "wins": 2,
+    "posterior_mean": 0.3,
+    "credible_interval_95": [
+      0.07485463141969183,
+      0.600093573716312
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 21,
+    "wins": 11,
+    "posterior_mean": 0.5217391304347826,
+    "credible_interval_95": [
+      0.3221047545531717,
+      0.717789479061907
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 7,
+    "wins": 4,
+    "posterior_mean": 0.5555555555555556,
+    "credible_interval_95": [
+      0.2448632163665516,
+      0.842987229512942
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 8,
+    "wins": 3,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.1369956622651665,
+      0.7007049437914596
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 5,
+    "wins": 4,
+    "posterior_mean": 0.7142857142857143,
+    "credible_interval_95": [
+      0.35876542100232517,
+      0.9567281317072583
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 3,
+    "wins": 3,
+    "posterior_mean": 0.8,
+    "credible_interval_95": [
+      0.3976353643835253,
+      0.9936905367902902
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 9,
+    "wins": 3,
+    "posterior_mean": 0.36363636363636365,
+    "credible_interval_95": [
+      0.12155225811982719,
+      0.6524528500599973
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 10,
+    "wins": 3,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.10926344381909811,
+      0.6097425595724212
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 6,
+    "wins": 5,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.4212768029568048,
+      0.9633074338239145
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 5,
+    "wins": 0,
+    "posterior_mean": 0.14285714285714285,
+    "credible_interval_95": [
+      0.00421074451448947,
+      0.45925812643990044
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 3,
+    "wins": 3,
+    "posterior_mean": 0.8,
+    "credible_interval_95": [
+      0.3976353643835253,
+      0.9936905367902902
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiant",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 7,
+    "wins": 5,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.3491442055871758,
+      0.9147665858627465
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 4,
+    "wins": 0,
+    "posterior_mean": 0.16666666666666666,
+    "credible_interval_95": [
+      0.0050507633794680575,
+      0.5218237501049814
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 3,
+    "wins": 3,
+    "posterior_mean": 0.8,
+    "credible_interval_95": [
+      0.3976353643835253,
+      0.9936905367902902
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 6,
+    "wins": 4,
+    "posterior_mean": 0.625,
+    "credible_interval_95": [
+      0.2904208637373427,
+      0.9010117215574921
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 22,
+    "wins": 13,
+    "posterior_mean": 0.5833333333333334,
+    "credible_interval_95": [
+      0.3854189573888496,
+      0.7680858004617686
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 5,
+    "wins": 0,
+    "posterior_mean": 0.14285714285714285,
+    "credible_interval_95": [
+      0.00421074451448947,
+      0.45925812643990044
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 7,
+    "wins": 4,
+    "posterior_mean": 0.5555555555555556,
+    "credible_interval_95": [
+      0.2448632163665516,
+      0.842987229512942
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 5,
+    "wins": 3,
+    "posterior_mean": 0.5714285714285714,
+    "credible_interval_95": [
+      0.22277809550351213,
+      0.8818827512429748
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 4,
+    "wins": 0,
+    "posterior_mean": 0.16666666666666666,
+    "credible_interval_95": [
+      0.0050507633794680575,
+      0.5218237501049814
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Nehru Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Nehru Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Nehru Stadium",
+    "matches": 4,
+    "wins": 1,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.052744950526316906,
+      0.7164179361180895
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Nehru Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Nehru Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "New Wanderers Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "New Wanderers Stadium",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "New Wanderers Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "New Wanderers Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "New Wanderers Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "New Wanderers Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "New Wanderers Stadium",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Newlands",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Newlands",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Newlands",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Newlands",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Newlands",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Newlands",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Newlands",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "OUTsurance Oval",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "OUTsurance Oval",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "OUTsurance Oval",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 10,
+    "wins": 8,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.4822441476398273,
+      0.9397822658270933
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "matches": 11,
+    "wins": 4,
+    "posterior_mean": 0.38461538461538464,
+    "credible_interval_95": [
+      0.15165222980843013,
+      0.6511244935811844
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "matches": 4,
+    "wins": 0,
+    "posterior_mean": 0.16666666666666666,
+    "credible_interval_95": [
+      0.0050507633794680575,
+      0.5218237501049814
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 4,
+    "wins": 3,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.2835820638819105,
+      0.9472550494736831
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 34,
+    "wins": 17,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.33989141539097784,
+      0.6601085846090222
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 13,
+    "wins": 9,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.4189647428163391,
+      0.8724015701408404
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 18,
+    "wins": 3,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.060524537709289755,
+      0.3957845512666743
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 6,
+    "wins": 4,
+    "posterior_mean": 0.625,
+    "credible_interval_95": [
+      0.2904208637373427,
+      0.9010117215574921
+    ]
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 8,
+    "wins": 4,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.21200850677886798,
+      0.787991493221132
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 6,
+    "wins": 4,
+    "posterior_mean": 0.625,
+    "credible_interval_95": [
+      0.2904208637373427,
+      0.9010117215574921
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 8,
+    "wins": 5,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.29929505620854036,
+      0.8630043377348335
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiant",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 6,
+    "wins": 1,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.03669256617608555,
+      0.5787231970431952
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 27,
+    "wins": 19,
+    "posterior_mean": 0.6896551724137931,
+    "credible_interval_95": [
+      0.5133316845510592,
+      0.8412239621138461
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 18,
+    "wins": 8,
+    "posterior_mean": 0.45,
+    "credible_interval_95": [
+      0.24447468946619608,
+      0.6650021559882646
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sardar Patel Stadium, Motera",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Sardar Patel Stadium, Motera",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Sardar Patel Stadium, Motera",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Sardar Patel Stadium, Motera",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sardar Patel Stadium, Motera",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sardar Patel Stadium, Motera",
+    "matches": 11,
+    "wins": 7,
+    "posterior_mean": 0.6153846153846154,
+    "credible_interval_95": [
+      0.34887550641881554,
+      0.8483477701915698
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Sardar Patel Stadium, Motera",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sardar Patel Stadium, Motera",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "matches": 9,
+    "wins": 3,
+    "posterior_mean": 0.36363636363636365,
+    "credible_interval_95": [
+      0.12155225811982719,
+      0.6524528500599973
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiant",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Saurashtra Cricket Association Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 5,
+    "wins": 1,
+    "posterior_mean": 0.2857142857142857,
+    "credible_interval_95": [
+      0.043271868292741676,
+      0.6412345789976748
+    ]
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 7,
+    "wins": 2,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.08523341413725354,
+      0.6508557944128242
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 44,
+    "wins": 29,
+    "posterior_mean": 0.6521739130434783,
+    "credible_interval_95": [
+      0.5104963621416386,
+      0.7813159892644141
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 7,
+    "wins": 3,
+    "posterior_mean": 0.4444444444444444,
+    "credible_interval_95": [
+      0.15701277048705795,
+      0.7551367836334484
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 15,
+    "wins": 6,
+    "posterior_mean": 0.4117647058823529,
+    "credible_interval_95": [
+      0.19753414053266788,
+      0.6456539056979218
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "matches": 6,
+    "wins": 4,
+    "posterior_mean": 0.625,
+    "credible_interval_95": [
+      0.2904208637373427,
+      0.9010117215574921
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 6,
+    "wins": 4,
+    "posterior_mean": 0.625,
+    "credible_interval_95": [
+      0.2904208637373427,
+      0.9010117215574921
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 5,
+    "wins": 4,
+    "posterior_mean": 0.7142857142857143,
+    "credible_interval_95": [
+      0.35876542100232517,
+      0.9567281317072583
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 8,
+    "wins": 5,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.29929505620854036,
+      0.8630043377348335
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 6,
+    "wins": 2,
+    "posterior_mean": 0.375,
+    "credible_interval_95": [
+      0.09898827844250786,
+      0.7095791362626572
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 8,
+    "wins": 3,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.1369956622651665,
+      0.7007049437914596
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 7,
+    "wins": 2,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.08523341413725354,
+      0.6508557944128242
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Sheikh Zayed Stadium",
+    "matches": 5,
+    "wins": 2,
+    "posterior_mean": 0.42857142857142855,
+    "credible_interval_95": [
+      0.11811724875702521,
+      0.7772219044964879
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Sheikh Zayed Stadium",
+    "matches": 5,
+    "wins": 2,
+    "posterior_mean": 0.42857142857142855,
+    "credible_interval_95": [
+      0.11811724875702521,
+      0.7772219044964879
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Sheikh Zayed Stadium",
+    "matches": 6,
+    "wins": 2,
+    "posterior_mean": 0.375,
+    "credible_interval_95": [
+      0.09898827844250786,
+      0.7095791362626572
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Sheikh Zayed Stadium",
+    "matches": 9,
+    "wins": 5,
+    "posterior_mean": 0.5454545454545454,
+    "credible_interval_95": [
+      0.26237807660694507,
+      0.8129139715526015
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Sheikh Zayed Stadium",
+    "matches": 9,
+    "wins": 6,
+    "posterior_mean": 0.6363636363636364,
+    "credible_interval_95": [
+      0.3475471499400027,
+      0.8784477418801728
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Sheikh Zayed Stadium",
+    "matches": 7,
+    "wins": 5,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.3491442055871758,
+      0.9147665858627465
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Sheikh Zayed Stadium",
+    "matches": 6,
+    "wins": 2,
+    "posterior_mean": 0.375,
+    "credible_interval_95": [
+      0.09898827844250786,
+      0.7095791362626572
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Sheikh Zayed Stadium",
+    "matches": 5,
+    "wins": 2,
+    "posterior_mean": 0.42857142857142855,
+    "credible_interval_95": [
+      0.11811724875702521,
+      0.7772219044964879
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "St George's Park",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "St George's Park",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "St George's Park",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "St George's Park",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "St George's Park",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "St George's Park",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "St George's Park",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "St George's Park",
+    "matches": 3,
+    "wins": 0,
+    "posterior_mean": 0.2,
+    "credible_interval_95": [
+      0.006309463209709866,
+      0.6023646356164746
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 3,
+    "wins": 3,
+    "posterior_mean": 0.8,
+    "credible_interval_95": [
+      0.3976353643835253,
+      0.9936905367902902
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 15,
+    "wins": 4,
+    "posterior_mean": 0.29411764705882354,
+    "credible_interval_95": [
+      0.11016995471711757,
+      0.5237708198961273
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "SuperSport Park",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "SuperSport Park",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "SuperSport Park",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "SuperSport Park",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "SuperSport Park",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "SuperSport Park",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "SuperSport Park",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "SuperSport Park",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Wankhede Stadium",
+    "matches": 14,
+    "wins": 7,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.2658613472773966,
+      0.7341386527226034
+    ]
+  },
+  {
+    "team": "Deccan Chargers",
+    "venue": "Wankhede Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Delhi Daredevils",
+    "venue": "Wankhede Stadium",
+    "matches": 8,
+    "wins": 2,
+    "posterior_mean": 0.3,
+    "credible_interval_95": [
+      0.07485463141969183,
+      0.600093573716312
+    ]
+  },
+  {
+    "team": "Gujarat Lions",
+    "venue": "Wankhede Stadium",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Kings XI Punjab",
+    "venue": "Wankhede Stadium",
+    "matches": 11,
+    "wins": 5,
+    "posterior_mean": 0.46153846153846156,
+    "credible_interval_95": [
+      0.21094463823929666,
+      0.7233303143178942
+    ]
+  },
+  {
+    "team": "Kochi Tuskers Kerala",
+    "venue": "Wankhede Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Wankhede Stadium",
+    "matches": 9,
+    "wins": 1,
+    "posterior_mean": 0.18181818181818182,
+    "credible_interval_95": [
+      0.02521072632683336,
+      0.4450161170281954
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Wankhede Stadium",
+    "matches": 65,
+    "wins": 41,
+    "posterior_mean": 0.6268656716417911,
+    "credible_interval_95": [
+      0.5087394315103153,
+      0.7378154230046877
+    ]
+  },
+  {
+    "team": "Pune Warriors",
+    "venue": "Wankhede Stadium",
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
+    "credible_interval_95": [
+      0.06758598648854294,
+      0.8058795503167565
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Wankhede Stadium",
+    "matches": 8,
+    "wins": 4,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.21200850677886798,
+      0.787991493221132
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiant",
+    "venue": "Wankhede Stadium",
+    "matches": 2,
+    "wins": 2,
+    "posterior_mean": 0.75,
+    "credible_interval_95": [
+      0.2924017738212866,
+      0.9915962413403874
+    ]
+  },
+  {
+    "team": "Rising Pune Supergiants",
+    "venue": "Wankhede Stadium",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Wankhede Stadium",
+    "matches": 10,
+    "wins": 3,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.10926344381909811,
+      0.6097425595724212
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Wankhede Stadium",
+    "matches": 6,
+    "wins": 1,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.03669256617608555,
+      0.5787231970431952
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 12,
+    "wins": 6,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.25134548227030357,
+      0.7486545177296964
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 10,
+    "wins": 3,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.10926344381909811,
+      0.6097425595724212
+    ]
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 5,
+    "wins": 3,
+    "posterior_mean": 0.5714285714285714,
+    "credible_interval_95": [
+      0.22277809550351213,
+      0.8818827512429748
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 9,
+    "wins": 4,
+    "posterior_mean": 0.45454545454545453,
+    "credible_interval_95": [
+      0.18708602844739855,
+      0.7376219233930549
+    ]
+  },
+  {
+    "team": "Lucknow Super Giants",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.184051567640083,
+      0.8159484323599169
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 24,
+    "wins": 15,
+    "posterior_mean": 0.6153846153846154,
+    "credible_interval_95": [
+      0.42520634955384945,
+      0.788745193534858
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 8,
+    "wins": 4,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.21200850677886798,
+      0.787991493221132
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 12,
+    "wins": 6,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.25134548227030357,
+      0.7486545177296964
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 7,
+    "wins": 5,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.3491442055871758,
+      0.9147665858627465
+    ]
+  },
+  {
+    "team": "Royal Challengers Bengaluru",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 7,
+    "wins": 1,
+    "posterior_mean": 0.2222222222222222,
+    "credible_interval_95": [
+      0.031854026249944226,
+      0.5265096708752065
+    ]
+  },
+  {
+    "team": "Chennai Super Kings",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ]
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Mumbai Indians",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ]
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ]
+  },
+  {
+    "team": "Rajasthan Royals",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  },
+  {
+    "team": "Royal Challengers Bangalore",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
+    "credible_interval_95": [
+      0.008403758659612636,
+      0.7075982261787133
+    ]
+  },
+  {
+    "team": "Sunrisers Hyderabad",
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.09429932405024609,
+      0.9057006759497539
+    ]
+  }
+]
