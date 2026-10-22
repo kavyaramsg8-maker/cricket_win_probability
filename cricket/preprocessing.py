@@ -32,8 +32,8 @@ def prepare(raw):
     df.loc[df.innings==1,'runs_required']=0
     return df
 
-def split_seasons(df):
+def split_seasons(df,test_season=2024):
     seasons=sorted(df.season.unique())
     if len(seasons)<2: raise ValueError('At least two seasons required for chronological holdout')
-    cutoff=seasons[-1]
+    cutoff=test_season if test_season in seasons else seasons[-1]
     return df[df.season<cutoff].copy(),df[df.season==cutoff].copy()

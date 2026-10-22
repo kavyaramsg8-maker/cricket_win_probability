@@ -1,7 +1,6 @@
 {
   "synthetic_demo": false,
-  "model": "Bayesian context plus calibrated Markov chase",
-  "transition_training_years": [
+  "train_seasons": [
     2008,
     2009,
     2010,
@@ -17,34 +16,42 @@
     2020,
     2021,
     2022,
-    2023,
+    2023
+  ],
+  "test_seasons": [
     2024
   ],
-  "calibration_year": 2025,
-  "test_year": 2026,
-  "train_matches": 1034,
-  "calibration_matches": 68,
+  "train_matches": 964,
   "test_matches": 70,
-  "sample_stride_deliveries": 24,
+  "test_predictions_count": 709,
   "raw_markov": {
-    "brier_score": 0.21982073160726867,
-    "log_loss": 0.7841522058167458,
-    "predictions": 374
+    "brier_score": 0.15540539401962666,
+    "brier_skill_score": 0.37837842392149335,
+    "log_loss": 0.5882878964501753,
+    "accuracy": 0.8025387870239774,
+    "predictions": 709,
+    "expected_calibration_error": 0.1596331284601754,
+    "max_calibration_error": 0.29771613872624153
   },
-  "adjusted_model": {
-    "brier_score": 0.12705682466712215,
-    "log_loss": 0.3975728780940322,
-    "predictions": 374
+  "calibrated_hybrid": {
+    "brier_score": 0.13189867999224514,
+    "brier_skill_score": 0.47240528003101945,
+    "log_loss": 0.4253593499700334,
+    "accuracy": 0.8251057827926658,
+    "predictions": 709,
+    "expected_calibration_error": 0.09241646116390814,
+    "max_calibration_error": 0.18826284453965236
   },
   "constant_50_percent_baseline": {
     "brier_score": 0.25,
-    "log_loss": 0.6931471805599454,
-    "predictions": 374
+    "brier_skill_score": 0.0,
+    "log_loss": 0.6931471805599453,
+    "accuracy": 0.4823695345557123,
+    "predictions": 709
   },
-  "parameters": {
-    "intercept": 0.8899305980120542,
-    "markov_log_odds_slope": 0.5128984208579572,
-    "bayesian_context_weight": 0.5128984208579572
-  },
-  "disclosure": "2026 was previously inspected. This is a reused test set, not new independent confirmation."
+  "calibrator_parameters": {
+    "intercept": 0.46645382245603084,
+    "markov_log_odds_slope": 0.5970012805308273,
+    "bayesian_context_weight": 0.5970012805308273
+  }
 }

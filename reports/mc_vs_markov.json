@@ -1,0 +1,103 @@
+{
+  "total_cases": 8,
+  "consistent_cases": 8,
+  "all_consistent": true,
+  "comparisons": [
+    {
+      "balls_left": 12,
+      "wickets_lost": 2,
+      "runs_required": 15,
+      "exact_markov": 0.8532509703394404,
+      "monte_carlo": 0.8476,
+      "standard_error": 0.0035940818020740706,
+      "ci_lower_95": 0.8405555996679348,
+      "ci_upper_95": 0.8546444003320652,
+      "abs_difference": 0.005650970339440398,
+      "consistent_95_ci": true
+    },
+    {
+      "balls_left": 18,
+      "wickets_lost": 4,
+      "runs_required": 30,
+      "exact_markov": 0.5150497375407794,
+      "monte_carlo": 0.5171,
+      "standard_error": 0.004997075044463511,
+      "ci_lower_95": 0.5073057329128515,
+      "ci_upper_95": 0.5268942670871485,
+      "abs_difference": 0.0020502624592205754,
+      "consistent_95_ci": true
+    },
+    {
+      "balls_left": 30,
+      "wickets_lost": 4,
+      "runs_required": 45,
+      "exact_markov": 0.6411644400487075,
+      "monte_carlo": 0.6482,
+      "standard_error": 0.004775319465753051,
+      "ci_lower_95": 0.638840373847124,
+      "ci_upper_95": 0.657559626152876,
+      "abs_difference": 0.007035559951292458,
+      "consistent_95_ci": true
+    },
+    {
+      "balls_left": 48,
+      "wickets_lost": 3,
+      "runs_required": 65,
+      "exact_markov": 0.6986007966976501,
+      "monte_carlo": 0.7064,
+      "standard_error": 0.004554108474773081,
+      "ci_lower_95": 0.6974739473894448,
+      "ci_upper_95": 0.7153260526105553,
+      "abs_difference": 0.007799203302349955,
+      "consistent_95_ci": true
+    },
+    {
+      "balls_left": 60,
+      "wickets_lost": 5,
+      "runs_required": 85,
+      "exact_markov": 0.2389192075647038,
+      "monte_carlo": 0.2337,
+      "standard_error": 0.004231835417404605,
+      "ci_lower_95": 0.22540560258188697,
+      "ci_upper_95": 0.24199439741811302,
+      "abs_difference": 0.005219207564703815,
+      "consistent_95_ci": true
+    },
+    {
+      "balls_left": 6,
+      "wickets_lost": 6,
+      "runs_required": 12,
+      "exact_markov": 0.2543916729409297,
+      "monte_carlo": 0.261,
+      "standard_error": 0.004391799175736523,
+      "ci_lower_95": 0.25239207361555643,
+      "ci_upper_95": 0.2696079263844436,
+      "abs_difference": 0.006608327059070329,
+      "consistent_95_ci": true
+    },
+    {
+      "balls_left": 24,
+      "wickets_lost": 7,
+      "runs_required": 28,
+      "exact_markov": 0.5363592675294949,
+      "monte_carlo": 0.5395,
+      "standard_error": 0.004984373079936935,
+      "ci_lower_95": 0.5297306287633236,
+      "ci_upper_95": 0.5492693712366764,
+      "abs_difference": 0.0031407324705050588,
+      "consistent_95_ci": true
+    },
+    {
+      "balls_left": 60,
+      "wickets_lost": 1,
+      "runs_required": 70,
+      "exact_markov": 0.946270396835305,
+      "monte_carlo": 0.9525,
+      "standard_error": 0.002127057827140578,
+      "ci_lower_95": 0.9483309666588045,
+      "ci_upper_95": 0.9566690333411956,
+      "abs_difference": 0.006229603164695008,
+      "consistent_95_ci": true
+    }
+  ]
+}

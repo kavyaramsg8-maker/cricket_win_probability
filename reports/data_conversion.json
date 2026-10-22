@@ -2,9 +2,9 @@
   "source_filename": "ipl_male_json.zip",
   "source_sha256": "6fe9142db9e139e4f77a5634ddc61c1c72a26a56bee2fe5affe5921867de04b3",
   "json_matches": 1243,
-  "included_matches": 1172,
-  "excluded_matches": 71,
-  "delivery_rows": 282000,
+  "included_matches": 1034,
+  "excluded_matches": 209,
+  "delivery_rows": 248833,
   "years": [
     2008,
     2009,
@@ -22,16 +22,15 @@
     2021,
     2022,
     2023,
-    2024,
-    2025,
-    2026
+    2024
   ],
   "exclusion_counts": {
-    "tie_no_result_or_eliminator": 25,
-    "adjusted_result_method": 23,
+    "tie_no_result_or_eliminator": 19,
+    "adjusted_result_method": 21,
     "miscounted_overs": 7,
     "unusual_innings_ending": 6,
-    "shortened_target": 10
+    "shortened_target": 8,
+    "after_max_year": 148
   },
   "excluded": [
     {
@@ -111,44 +110,596 @@
       "reason": "shortened_target"
     },
     {
+      "match_id": "1473438",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473439",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473440",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473441",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473442",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473443",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473444",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473445",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473446",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473447",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473448",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473449",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473450",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473451",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473452",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473453",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473454",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473455",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473456",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473457",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473458",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473459",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473460",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473461",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473462",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473463",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473464",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473465",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473466",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473467",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473468",
+      "reason": "after_max_year"
+    },
+    {
       "match_id": "1473469",
-      "reason": "tie_no_result_or_eliminator"
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473470",
+      "reason": "after_max_year"
     },
     {
       "match_id": "1473471",
-      "reason": "shortened_target"
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473472",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473473",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473474",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473475",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473476",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473477",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473478",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473479",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473480",
+      "reason": "after_max_year"
     },
     {
       "match_id": "1473481",
-      "reason": "tie_no_result_or_eliminator"
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473482",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473483",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473484",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473485",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473486",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473487",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473488",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473489",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473490",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473491",
+      "reason": "after_max_year"
     },
     {
       "match_id": "1473492",
-      "reason": "tie_no_result_or_eliminator"
+      "reason": "after_max_year"
     },
     {
       "match_id": "1473493",
-      "reason": "adjusted_result_method"
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473494",
+      "reason": "after_max_year"
     },
     {
       "match_id": "1473495",
-      "reason": "tie_no_result_or_eliminator"
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473497",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473498",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473499",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473500",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473501",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473502",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473503",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473504",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473505",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473506",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473507",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473508",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473509",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473510",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1473511",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1485779",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527674",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527675",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527676",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527677",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527678",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527679",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527680",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527681",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527682",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527683",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527684",
+      "reason": "after_max_year"
     },
     {
       "match_id": "1527685",
-      "reason": "tie_no_result_or_eliminator"
+      "reason": "after_max_year"
     },
     {
       "match_id": "1527686",
-      "reason": "shortened_target"
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527687",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527688",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527689",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527690",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527691",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527692",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1527693",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529264",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529265",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529266",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529267",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529268",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529269",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529270",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529271",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529272",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529273",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529274",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529275",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529276",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529277",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529278",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529279",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529280",
+      "reason": "after_max_year"
     },
     {
       "match_id": "1529281",
-      "reason": "tie_no_result_or_eliminator"
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529282",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529283",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529284",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529285",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529286",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529287",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529288",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529289",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529290",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529291",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529292",
+      "reason": "after_max_year"
     },
     {
       "match_id": "1529293",
-      "reason": "adjusted_result_method"
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529294",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529295",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529296",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529297",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529298",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529299",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529300",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529301",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529302",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529303",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529304",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529305",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529306",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529307",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529308",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529309",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529310",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529311",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529312",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1529313",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1535462",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1535463",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1535464",
+      "reason": "after_max_year"
+    },
+    {
+      "match_id": "1535465",
+      "reason": "after_max_year"
     },
     {
       "match_id": "335987",

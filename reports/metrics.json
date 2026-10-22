@@ -1,12 +1,4 @@
 {
-  "brier_score": 0.2129967884934305,
-  "log_loss": 0.7467456401465554,
-  "predictions": 374,
-  "constant_50_percent_baseline": {
-    "brier_score": 0.25,
-    "log_loss": 0.6931471805599454,
-    "predictions": 374
-  },
   "synthetic_demo": false,
   "train_seasons": [
     2008,
@@ -24,12 +16,42 @@
     2020,
     2021,
     2022,
-    2023,
-    2024,
-    2025
+    2023
   ],
   "test_seasons": [
-    2026
+    2024
   ],
-  "test_matches": 70
+  "train_matches": 964,
+  "test_matches": 70,
+  "test_predictions_count": 709,
+  "raw_markov": {
+    "brier_score": 0.15540539401962666,
+    "brier_skill_score": 0.37837842392149335,
+    "log_loss": 0.5882878964501753,
+    "accuracy": 0.8025387870239774,
+    "predictions": 709,
+    "expected_calibration_error": 0.1596331284601754,
+    "max_calibration_error": 0.29771613872624153
+  },
+  "calibrated_hybrid": {
+    "brier_score": 0.13189867999224514,
+    "brier_skill_score": 0.47240528003101945,
+    "log_loss": 0.4253593499700334,
+    "accuracy": 0.8251057827926658,
+    "predictions": 709,
+    "expected_calibration_error": 0.09241646116390814,
+    "max_calibration_error": 0.18826284453965236
+  },
+  "constant_50_percent_baseline": {
+    "brier_score": 0.25,
+    "brier_skill_score": 0.0,
+    "log_loss": 0.6931471805599453,
+    "accuracy": 0.4823695345557123,
+    "predictions": 709
+  },
+  "calibrator_parameters": {
+    "intercept": 0.46645382245603084,
+    "markov_log_odds_slope": 0.5970012805308273,
+    "bayesian_context_weight": 0.5970012805308273
+  }
 }

@@ -1,375 +1,710 @@
-match_id,ball_index,probability,actual,context,chasing_team,bowling_team,venue,terminal,adjusted_probability
-1527674,1,0.054447622570446455,1,-0.04807168380098857,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.35461616082347236
-1527674,25,0.22105857699709874,1,-0.04807168380098857,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.5546001480689225
-1527674,49,0.6599936037229146,1,-0.04807168380098857,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.7694951318013286
-1527674,73,0.9857204136135433,1,-0.04807168380098857,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.9542251349760025
-1527674,97,0.9958184583673458,1,-0.04807168380098857,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.9752123276211117
-1527675,1,0.00694805309588735,1,0.062243512646349905,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.16474865853752335
-1527675,25,0.0499854191370711,1,0.062243512646349905,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.35697901316037606
-1527675,49,0.2203808118508264,1,0.062243512646349905,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.5680340068094643
-1527675,73,0.7984618736767032,1,0.062243512646349905,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.8358909322016614
-1527675,97,0.8671733017171188,1,0.062243512646349905,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.8680872975959298
-1527676,1,0.9259173520779804,1,-0.18781567439743102,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",,0.8898273089930347
-1527676,25,0.9904593201520784,1,-0.18781567439743102,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",,0.9598742695433087
-1527676,49,0.99977711497243,1,-0.18781567439743102,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",,0.993978469569508
-1527676,73,0.9999999992543581,1,-0.18781567439743102,Rajasthan Royals,Chennai Super Kings,"Barsapara Cricket Stadium, Guwahati",,0.9987688275197069
-1527677,1,0.5546095875334168,1,-0.28163604956926674,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.7022353724996732
-1527677,25,0.6840282032866712,1,-0.28163604956926674,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.75797604155965
-1527677,49,0.872309275856541,1,-0.28163604956926674,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.8495442629427447
-1527677,73,0.9604367038919753,1,-0.28163604956926674,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.9153950060897478
-1527677,97,0.5084778798817775,1,-0.28163604956926674,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.6819775463617369
-1527678,1,0.8371167597036905,1,-0.14694234128036618,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8394501866995104
-1527678,25,0.8048838990880471,1,-0.14694234128036618,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8236672998068413
-1527678,49,0.3333420455675134,1,-0.14694234128036618,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.6127935588663772
-1527678,73,0.8246535556037624,1,-0.14694234128036618,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8332215470809777
-1527678,97,0.9511331397690431,1,-0.14694234128036618,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.911905885653308
-1527679,1,0.003174654522707329,0,0.02711884938316443,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",,0.1145579251798976
-1527679,25,0.04324191108607812,0,0.02711884938316443,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",,0.3352636089767646
-1527679,49,0.0035020452846328655,0,0.02711884938316443,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",,0.1197818256687221
-1527679,73,0.00663649908301157,0,0.02711884938316443,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",,0.1590895229451407
-1527679,97,0.0029032171430520975,0,0.02711884938316443,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",,0.10997577072213813
-1527680,1,0.024735829880710165,1,-0.22840709105523585,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.24752773464877922
-1527680,25,0.21928036586200358,1,-0.22840709105523585,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.530330020922175
-1527680,49,0.18974046943383077,1,-0.22840709105523585,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5070514447686989
-1527680,73,0.34045952533423673,1,-0.22840709105523585,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.6067397566253586
-1527680,97,0.7403468747315416,1,-0.22840709105523585,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7875435556609096
-1527681,1,0.5546095875334168,1,-0.2183836854215785,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",,0.7089742261232119
-1527681,25,0.2817584651736271,1,-0.2183836854215785,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",,0.573947248555062
-1527681,49,0.40656823292865657,1,-0.2183836854215785,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",,0.6419778425925143
-1527681,73,0.9042095233131937,1,-0.2183836854215785,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",,0.8731748554695732
-1527681,97,0.9983467840937232,1,-0.2183836854215785,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",,0.9830801731098991
-1527682,1,0.022235519446362317,0,0.10077205654173882,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",,0.2691430608907644
-1527682,25,0.065571035009609,0,0.10077205654173882,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",,0.3962648294571415
-1527682,49,0.123568105275492,0,0.10077205654173882,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",,0.4842088269002685
-1527682,73,0.19564047510565424,0,0.10077205654173882,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",,0.5539138856036325
-1527682,97,0.13284938717989792,0,0.10077205654173882,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",,0.4948553623048269
-1527682,121,0.3123934300509014,0,0.10077205654173882,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",,0.6311057571103253
-1527683,1,0.6523766028090223,1,0.11523135417937302,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.7810683900854619
-1527683,25,0.8087939189096496,1,0.11523135417937302,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8440571686693679
-1527683,49,0.8847445337704634,1,0.11523135417937302,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.880207371969239
-1527683,73,0.9542462193828198,1,0.11523135417937302,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9246336756011979
-1527683,97,0.8921488628494963,1,0.11523135417937302,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8841905014388635
-1527684,1,7.324210841953065e-05,0,0.16164960814583146,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.019631224020839496
-1527684,25,1.0366335688612146e-06,0,0.16164960814583146,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.007159600553706993
-1527684,49,7.37178590090536e-05,0,0.16164960814583146,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.019695242436367236
-1527684,73,2.830524909731812e-05,0,0.16164960814583146,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.012146960837023577
-1527684,97,0.0002518218748261932,0,0.16164960814583146,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.036357804725729255
-1527684,121,1.0723196427693211e-13,0,0.16164960814583146,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.007159600553706993
-1527687,1,0.022235519446362317,0,-0.2191060462219073,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",,0.2381154045368677
-1527687,25,0.04809748117217502,0,-0.2191060462219073,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",,0.32004396852886535
-1527687,49,0.09070253016385348,0,-0.2191060462219073,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",,0.400177867463087
-1527687,73,0.06459310635400994,0,-0.2191060462219073,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",,0.35586397417737337
-1527687,97,0.07807396827382966,0,-0.2191060462219073,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",,0.38020070380972615
-1527687,121,0.14267148028420268,0,-0.2191060462219073,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",,0.46450549252133244
-1527688,1,0.24163484569066476,1,0.017363213180244873,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.57742584909453
-1527688,25,0.3957722029589594,1,0.017363213180244873,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.6641453263684102
-1527688,49,0.4079324931751205,1,0.017363213180244873,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.6699086173140127
-1527688,73,0.17038940433919741,1,0.017363213180244873,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.5217324589429979
-1527688,97,0.1196188951231734,1,0.017363213180244873,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.4688076376073352
-1527688,121,0.04116170727920393,1,0.017363213180244873,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.3283013529410809
-1527689,1,0.054447622570446455,1,0.002398840575988888,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",,0.3605626272634234
-1527689,25,0.30304740146097675,1,0.002398840575988888,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",,0.6139637731266914
-1527689,49,0.9819171563105721,1,0.002398840575988888,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",,0.9497866245180765
-1527689,73,0.8004588587715912,1,0.002398840575988888,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",,0.8325294860789945
-1527689,97,0.9893609151559816,1,0.002398840575988888,Rajasthan Royals,Royal Challengers Bengaluru,"Barsapara Cricket Stadium, Guwahati",,0.9614277285051399
-1527690,1,0.007867832523099876,1,-0.07105489051653083,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.16418124568796896
-1527690,25,0.10019042028590197,1,-0.07105489051653083,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.4323223877568157
-1527690,49,0.4289075974301826,1,-0.07105489051653083,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.6696580674067736
-1527690,73,0.37138912133770774,1,-0.07105489051653083,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.6418879135095109
-1527690,97,0.7878371838670569,1,-0.07105489051653083,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.8214756533849878
-1527691,1,0.01787229824086949,0,-0.30375733431426905,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.2106889012951754
-1527691,25,0.11500717557660252,0,-0.30375733431426905,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.4225097854204566
-1527691,49,0.010777365778932214,0,-0.30375733431426905,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.17024446006318375
-1527691,73,0.020803260322265326,0,-0.30375733431426905,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.22419980900069
-1527691,97,0.03345887911965247,0,-0.30375733431426905,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.2707240773728381
-1527691,121,0.002196114611039008,0,-0.30375733431426905,Delhi Capitals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.08285121520945123
-1527692,1,0.5203397582582168,1,0.09357045098997276,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7270436639506963
-1527692,25,0.5151741944411962,1,0.09357045098997276,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7249328098551825
-1527692,49,0.799452484693963,1,0.09357045098997276,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8385119380069976
-1527692,73,0.9570032293176175,1,0.09357045098997276,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9261693610812811
-1527692,97,0.9441575415160717,1,0.09357045098997276,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.91592888149079
-1527693,1,0.00039831885973185113,0,0.06079387935616595,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.043364346752818805
-1527693,25,0.0021836740451464847,0,0.06079387935616595,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.09795416365098414
-1527693,49,0.0002722768837486105,0,0.06079387935616595,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.03595141229947151
-1527693,73,0.0005181849547980089,0,0.06079387935616595,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.04932268915287643
-1527693,97,6.50122131791754e-05,0,0.06079387935616595,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.017572773638119453
-1527693,121,2.3713445533185408e-07,0,0.06079387935616595,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.00680111420950449
-1529264,1,0.011303088457032316,0,0.05486574494356479,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.20177172670788243
-1529264,25,3.324526355706067e-06,0,0.05486574494356479,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0067806066213401215
-1529264,49,4.372162712642539e-05,0,0.05486574494356479,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.014340682822334975
-1529264,73,4.2556627235499234e-05,0,0.05486574494356479,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.01414618766399635
-1529264,97,0.0002891301508725368,0,0.05486574494356479,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.03692644428070793
-1529264,121,8.466501771568089e-14,0,0.05486574494356479,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0067806066213401215
-1529265,1,0.11575291079360608,0,-0.1865003775277988,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.4381704348625858
-1529265,25,0.06998015330346685,0,-0.1865003775277988,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.36991291751960276
-1529265,49,0.03941245534245675,0,-0.1865003775277988,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.30076715604290727
-1529265,73,0.00553175539008766,0,-0.1865003775277988,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.1337105841686282
-1529265,97,0.0002487167192431184,0,-0.1865003775277988,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.030405864001794576
-1529265,121,3.753703723142551e-09,0,-0.1865003775277988,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.005995805336130514
-1529266,1,0.7866239876180786,1,-0.18481457770666476,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.8121917871087379
-1529266,25,0.9155783975835762,1,-0.18481457770666476,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.882648383396825
-1529266,49,0.9211588998616383,1,-0.18481457770666476,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.8865469936490865
-1529266,73,0.992000684448465,1,-0.18481457770666476,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.9632968321827924
-1529267,1,0.09142828404371796,1,-0.17317230081606536,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.40693089196068294
-1529267,25,0.1437784321736046,1,-0.17317230081606536,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.47152306314375947
-1529267,49,0.34355783809278534,1,-0.17317230081606536,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.615151726139552
-1529267,73,0.747560636260404,1,-0.17317230081606536,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.795424049962291
-1529267,97,0.9989398463383186,1,-0.17317230081606536,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.986791303792056
-1529268,1,0.255842764076877,1,0.058207100498295083,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",,0.5919829263056265
-1529268,25,0.5984467501690475,1,0.058207100498295083,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",,0.7548095227127694
-1529268,49,0.9059075763726029,1,0.058207100498295083,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",,0.8890748069813874
-1529268,73,0.8761198335732608,1,0.058207100498295083,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",,0.8724849219893027
-1529268,97,0.8718395749419507,1,0.058207100498295083,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",,0.870250640702807
-1529268,121,0.8903164602516128,1,0.058207100498295083,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",,0.8801427612432052
-1529269,1,0.3325624809579786,1,-0.14025926694312027,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.6131796427187807
-1529269,25,0.08130975729043231,1,-0.14025926694312027,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.3951717075118327
-1529269,49,0.30148115173036233,1,-0.14025926694312027,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.5955666976944357
-1529269,73,0.2879308982177873,1,-0.14025926694312027,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.5874868276236539
-1529269,97,0.5419362136180172,1,-0.14025926694312027,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.7118180974681841
-1529269,121,0.3231986025893193,1,-0.14025926694312027,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.6079976169281569
-1529270,1,0.099077099824756,0,0.1427826929776241,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.457832748031647
-1529270,25,0.43721168570982344,0,0.1427826929776241,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6971290855754252
-1529270,49,0.29605096716359003,0,0.1427826929776241,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6268914887254372
-1529270,73,0.34915316528768375,0,0.1427826929776241,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6556004634473115
-1529270,97,0.30335934489496924,0,0.1427826929776241,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6310594753955474
-1529270,121,0.02175597064140737,0,0.1427826929776241,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.2711369971414467
-1529271,1,0.6676273364824241,1,-0.0467479200413347,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",,0.7727116765449802
-1529271,25,0.5327512519014177,1,-0.0467479200413347,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",,0.7177326088172055
-1529271,49,0.31383178626128355,1,-0.0467479200413347,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",,0.6141358594297958
-1529271,73,0.18166958684914628,1,-0.0467479200413347,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",,0.5234832728961115
-1529271,97,0.1483370817657424,1,-0.0467479200413347,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",,0.49239040589055455
-1529271,121,0.5053807499759065,1,-0.0467479200413347,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",,0.706198751525546
-1529272,1,3.543544428265033e-05,0,0.1714235860316585,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.01367781686327141
-1529272,25,9.007496376559484e-05,0,0.1714235860316585,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.02188808743465717
-1529272,49,0.0005597802438652726,0,0.1714235860316585,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.0540425749727368
-1529272,73,1.7286755624742695e-05,0,0.1714235860316585,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.009505241933491696
-1529272,97,5.292947834294126e-08,0,0.1714235860316585,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.007195323259572784
-1529272,121,2.6571792327402607e-14,0,0.1714235860316585,Lucknow Super Giants,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.007195323259572784
-1529273,1,0.06516686194664066,0,0.23558241521083337,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",,0.4120973153426795
-1529273,25,0.03083600670565687,0,0.23558241521083337,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",,0.31917071305978606
-1529273,49,0.0024905333843961426,0,0.23558241521083337,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",,0.1127534701159214
-1529273,73,3.557470912786851e-05,0,0.23558241521083337,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",,0.014156985915727229
-1529273,97,1.71065257828288e-07,0,0.23558241521083337,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",,0.007434248833861451
-1529274,1,0.00028787655978399363,0,0.019047507063613925,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.03620078327929705
-1529274,25,0.0002686684866521394,0,0.019047507063613925,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.03498482110807544
-1529274,49,0.0003796899630508705,0,0.019047507063613925,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.04149615038988105
-1529274,73,0.00024587174550465605,0,0.019047507063613925,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.033481123891901235
-1529274,97,0.0004174977049816692,0,0.019047507063613925,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.04347723416330086
-1529274,121,1.0180492171323992e-10,0,0.019047507063613925,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.006657998342284775
-1529275,1,0.6046718124676242,0,0.018396166495757767,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7534935294848585
-1529275,25,0.16202980866028707,0,0.018396166495757767,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.514138766152003
-1529275,49,0.13187120227877183,0,0.018396166495757767,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.4832066969073755
-1529275,73,0.13669661383466303,0,0.018396166495757767,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.4885252756803208
-1529275,97,0.1604358769976002,0,0.018396166495757767,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.5126285555403287
-1529276,1,0.03044950494268662,0,-0.025064311699975153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.2894730588445384
-1529276,25,7.808903103311712e-05,0,-0.025064311699975153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.0184566006408405
-1529276,49,5.39783599192849e-05,0,-0.025064311699975153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.015320677009597761
-1529276,73,0.0002991725808402039,0,-0.025064311699975153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.03610049496439754
-1529276,97,2.643179806212203e-10,0,-0.025064311699975153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.00651002283712791
-1529277,1,0.037219224085617356,1,-0.19242153176420557,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.2937540207302348
-1529277,25,0.0634701470452328,1,-0.19242153176420557,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.3567988089986873
-1529277,49,0.21096009202439403,1,-0.19242153176420557,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.5286308986169995
-1529277,73,0.7543389312472705,1,-0.19242153176420557,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.7968388530325347
-1529277,97,0.8073233721343861,1,-0.19242153176420557,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.8214310375617273
-1529278,1,5.115335381437667e-06,1,0.007299553262789013,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.006618265861731261
-1529278,25,0.009240659129939792,1,0.007299553262789013,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.1818218132634103
-1529278,49,0.1077566372146723,1,0.007299553262789013,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.4525128639919845
-1529278,73,0.04768243658584356,1,0.007299553262789013,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.34476851013586157
-1529278,97,0.17784165351205877,1,0.007299553262789013,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.5270751929338826
-1529278,121,0.8996457397677879,1,0.007299553262789013,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.8827373931769065
-1529279,1,0.0024106598170141867,1,0.019051079057209833,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.10058536120270548
-1529279,25,0.015930127181513713,1,0.019051079057209833,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.22877750508781058
-1529279,49,0.27161089309835473,1,0.019051079057209833,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.5971840457042882
-1529279,73,0.7109164384883152,1,0.019051079057209833,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.795959195183608
-1529279,97,0.791681945221002,1,0.019051079057209833,Sunrisers Hyderabad,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.8298365516480178
-1529280,1,0.620873554364513,1,-0.15566544712050132,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7432789097616365
-1529280,25,0.7479222493245069,1,-0.15566544712050132,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7970404266810891
-1529280,49,0.8841030529313747,1,-0.15566544712050132,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8643891974671699
-1529280,73,0.9638069848115299,1,-0.15566544712050132,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.92368033563693
-1529280,97,0.9999935939675183,1,-0.15566544712050132,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9987889384535944
-1529282,1,0.9975316870914531,1,-0.03366280111677616,Royal Challengers Bengaluru,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.9811266855621901
-1529282,25,0.9998792496812172,1,-0.03366280111677616,Royal Challengers Bengaluru,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.995929305547633
-1529283,1,0.005389670231616275,1,0.10499242491382683,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.1502738773466965
-1529283,25,0.11236776028075296,1,0.10499242491382683,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.4709658547469602
-1529283,49,0.13888492747230421,1,0.10499242491382683,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.501988891403235
-1529283,73,0.05610474951899786,1,0.10499242491382683,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.37659503240093123
-1529283,97,0.3188551803855226,1,0.10499242491382683,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.6351724349840265
-1529283,121,0.9989342241584128,1,0.10499242491382683,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.9884965449127927
-1529284,1,0.00024409157272459894,1,-0.2791607632449603,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.028765323718857125
-1529284,25,0.00420485328009785,1,-0.2791607632449603,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.11330465934353587
-1529284,49,0.2861363972447268,1,-0.2791607632449603,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.56901801319936
-1529284,73,0.20854371527663024,1,-0.2791607632449603,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.5156657567111665
-1529284,97,0.5969012935249336,1,-0.2791607632449603,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.7207325440310026
-1529285,1,0.6676273364824241,1,0.26299239562558874,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.7994005412626766
-1529285,25,0.9376131145501923,1,0.26299239562558874,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.9179462739890101
-1529285,49,0.9443733921499676,1,0.26299239562558874,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.9225333136299902
-1529285,73,0.9543602384195169,1,0.26299239562558874,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.9298354549912738
-1529285,97,0.9952752970555505,1,0.26299239562558874,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.9774439063550228
-1529286,1,0.0036334594235905753,1,-0.1284441538433707,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.11351552138787571
-1529286,25,0.029664792490203946,1,-0.1284441538433707,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.275923355452193
-1529286,49,0.04322527372051957,1,-0.1284441538433707,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.31767705484566133
-1529286,73,0.20936182160656078,1,-0.1284441538433707,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.5355709159503094
-1529286,97,0.44400198699638793,1,-0.1284441538433707,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.6701100056026631
-1529286,121,0.754152664613454,1,-0.1284441538433707,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.8020174485753376
-1529287,1,0.6046718124676242,1,0.19557779028506905,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7699817860307697
-1529287,25,0.7309571047482979,1,0.19557779028506905,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8180030113541511
-1529287,49,0.8688105736842543,1,0.19557779028506905,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8765186446804056
-1529287,73,0.9704515986754424,1,0.19557779028506905,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9416484401856994
-1529287,97,0.9896623218413804,1,0.19557779028506905,Chennai Super Kings,Mumbai Indians,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9654392127905053
-1529288,1,0.5030388132670537,1,0.1514672764327463,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.7258866988661337
-1529288,25,0.8966408170352712,1,0.1514672764327463,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8885194960067847
-1529288,49,0.9666238015659852,1,0.1514672764327463,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9366726617954734
-1529288,73,0.9853868995476547,1,0.1514672764327463,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9580126515860041
-1529288,97,0.9770717456197425,1,0.1514672764327463,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9474550405331399
-1529289,1,0.5375417589773163,1,0.27181316175832393,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",,0.7514776714030247
-1529289,25,0.5930931552771896,1,0.27181316175832393,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",,0.7725183948975595
-1529289,49,0.8160256672150046,1,0.27181316175832393,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",,0.8573414247773036
-1529289,73,0.6482805065353344,1,0.27181316175832393,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",,0.7929787776957754
-1529289,97,0.7456214315562603,1,0.27181316175832393,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",,0.829333533157072
-1529289,121,0.5352252326239957,1,0.27181316175832393,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",,0.7505842879385771
-1529290,1,0.0024106598170141867,1,0.0037621734174085736,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.09987816135331148
-1529290,25,0.010320196629080684,1,0.0037621734174085736,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.1902112366755307
-1529290,49,0.13196826560290015,1,0.0037621734174085736,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.4814411518837492
-1529290,73,0.7543389312472705,1,0.0037621734174085736,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.8126428898436219
-1529290,97,0.6848884099649212,1,0.0037621734174085736,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.7841536506169609
-1529291,1,0.6676273364824241,1,0.22668260778534682,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.796397474661546
-1529291,25,0.714041550607726,1,0.22668260778534682,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.8138989395511359
-1529291,49,0.5459531376301989,1,0.22668260778534682,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.7503986803554156
-1529291,73,0.9176420231894615,1,0.22668260778534682,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.904015206918988
-1529291,97,0.999209204411414,1,0.22668260778534682,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.9907069512993469
-1529292,1,0.000869838601413921,0,-0.13305179623426433,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.05773818925025093
-1529292,25,2.9527708718398927e-06,0,-0.13305179623426433,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.006161419443041096
-1529292,49,1.4680325960997945e-05,0,-0.13305179623426433,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.007492354243602008
-1529292,73,0.0004431646146227669,0,-0.13305179623426433,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.041548211254738225
-1529292,97,6.888826067017145e-08,0,-0.13305179623426433,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.006161419443041096
-1529292,121,9.334458659251707e-12,0,-0.13305179623426433,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.006161419443041096
-1529294,1,0.8279136451681617,1,0.059821564235575386,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.8489425764737561
-1529294,25,0.7699913563972871,1,0.059821564235575386,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.8235125268326728
-1529294,49,0.935716797948986,1,0.059821564235575386,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.9083924159131449
-1529294,73,0.9965194231916096,1,0.059821564235575386,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.9785870855289939
-1529295,1,0.002095077300397611,0,-0.2588376191881532,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",,0.08276236759942619
-1529295,25,0.0016740115007718938,0,-0.2588376191881532,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",,0.07442058978308273
-1529295,49,0.0018764458357846863,0,-0.2588376191881532,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",,0.0785630755610896
-1529295,73,5.948953049185134e-05,0,-0.2588376191881532,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",,0.014299199531480474
-1529295,97,1.64202306578797e-05,0,-0.2588376191881532,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",,0.007439986482895614
-1529296,1,0.04517484170199633,1,0.20983891197229385,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",,0.3618623233289548
-1529296,25,0.141815382791377,1,0.20983891197229385,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5185387793912425
-1529296,49,0.9439905194040563,1,0.20983891197229385,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9202895046556546
-1529296,73,0.8784123756237231,1,0.20983891197229385,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8820308112328733
-1529296,97,0.85769295500224,1,0.20983891197229385,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8720107116676755
-1529296,121,0.5205719425006133,1,0.20983891197229385,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7388086645573668
-1529297,1,0.4856749035373163,1,-0.13857431591783476,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.6877150970863596
-1529297,25,0.34823288819319514,1,-0.13857431591783476,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.621839473484374
-1529297,49,0.22407098482736107,1,-0.13857431591783476,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.5453217283987998
-1529297,73,0.5131427082501804,1,-0.13857431591783476,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.6996907679119965
-1529297,97,0.5251434833921651,1,-0.13857431591783476,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.704846358759138
-1529297,121,0.1462410130763732,1,-0.13857431591783476,Royal Challengers Bengaluru,Mumbai Indians,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.4784887160413754
-1529298,1,0.022235519446362317,1,0.22408137094880895,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.28176376638080347
-1529298,25,0.006716661804849829,1,0.22408137094880895,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.17396302633256447
-1529298,49,0.007038823816108317,1,0.22408137094880895,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.17746740148044354
-1529298,73,0.008452079857899917,1,0.22408137094880895,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.19169639579424402
-1529298,97,0.048267983291217384,1,0.22408137094880895,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.3718349746432148
-1529298,121,0.9142328223956249,1,0.22408137094880895,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.901908244842912
-1529299,1,0.45090442511696494,0,-0.34496112671876816,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.6483856803992953
-1529299,25,0.12847483519272246,0,-0.34496112671876816,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.4331650237655056
-1529299,49,0.051057145354267315,0,-0.34496112671876816,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.3130506976884608
-1529299,73,0.0007377120000503634,0,-0.34496112671876816,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.04807965286081484
-1529300,1,0.11575291079360608,1,-0.09807402348609909,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.449364959499108
-1529300,25,0.2686817942019756,1,-0.09807402348609909,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.5807986226345073
-1529300,49,0.42511696780499253,1,-0.09807402348609909,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.6648168944058847
-1529300,73,0.7374832928759293,1,-0.09807402348609909,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.7972857976533527
-1529300,97,0.5561668623311132,1,-0.09807402348609909,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.7221895448311353
-1529300,121,0.9020677298667156,1,-0.09807402348609909,Royal Challengers Bengaluru,Kolkata Knight Riders,"Shaheed Veer Narayan Singh International Stadium, Raipur",,0.8785185191280539
-1529301,1,0.05961853418940828,1,0.3520674379988572,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.41478182132220187
-1529301,25,0.14208599808475358,1,0.3520674379988572,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.537001597410929
-1529301,49,0.12284848694514668,1,0.3520674379988572,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.5155666340058681
-1529301,73,0.03370456403781192,1,0.3520674379988572,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.3428323204788524
-1529301,97,0.09350677149203893,1,0.3520674379988572,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.47637539783264726
-1529301,121,0.23065235435065118,1,0.3520674379988572,Mumbai Indians,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.6112695679780863
-1529302,1,0.16579946726623632,1,-0.021262676487671384,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.5125817678919389
-1529302,25,0.3591740679008143,1,-0.021262676487671384,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.6415463550578282
-1529302,49,0.9646064194019733,1,-0.021262676487671384,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9291859584632042
-1529302,73,0.9948145517380457,1,-0.021262676487671384,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9727527716832542
-1529302,97,0.9856892249696053,1,-0.021262676487671384,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9547730076678839
-1529303,1,0.00012397998826214418,0,0.25939427527633496,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.026839236677471966
-1529303,25,0.0012196084455032674,0,0.25939427527633496,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.08184404671105455
-1529303,49,0.00020846355572963984,0,0.25939427527633496,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.034753055898397195
-1529303,73,0.00043455972777657435,0,0.25939427527633496,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.049867067204322546
-1529303,97,0.004036540013042912,0,0.25939427527633496,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.14157903636962976
-1529303,121,1.3839202653669454e-06,0,0.25939427527633496,Gujarat Titans,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.0075249130943445585
-1529304,1,0.005389670231616275,0,-0.2627689589452703,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.12774130952689844
-1529304,25,5.970851076598384e-06,0,-0.2627689589452703,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.005767115957386047
-1529304,49,0.00010858704544172158,0,-0.2627689589452703,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.019331417181234527
-1529304,73,8.847873039084241e-05,0,-0.2627689589452703,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.017437349071650825
-1529304,97,0.005877025681920949,0,-0.2627689589452703,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.1327997466698148
-1529304,121,1.0752506766792758e-05,0,-0.2627689589452703,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.005984463034692248
-1529305,1,0.10718223133759776,1,-0.014873677513798096,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",,0.4489369350398201
-1529305,25,0.4160003952651379,1,-0.014873677513798096,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",,0.670029732940894
-1529305,49,0.6956546412269201,1,-0.014873677513798096,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",,0.7868950343295245
-1529305,73,0.6650129557693163,1,-0.014873677513798096,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",,0.7745185787989272
-1529305,97,0.4970055333358076,1,-0.014873677513798096,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",,0.7060255172311611
-1529305,121,0.7953177277148612,1,-0.014873677513798096,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",,0.8289849052467948
-1529306,1,0.255842764076877,1,-0.3944455385721567,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5349439276293537
-1529306,25,0.19417769677108607,1,-0.3944455385721567,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.4894315048667102
-1529306,49,0.13306435333282765,1,-0.3944455385721567,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.43201880914869056
-1529306,73,0.34107148648464825,1,-0.3944455385721567,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5865847731822673
-1529306,97,0.630070351259463,1,-0.3944455385721567,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7232715561997737
-1529307,1,0.00694805309588735,1,-0.06354181371987436,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",,0.15606185727899624
-1529307,25,0.044717568935167075,1,-0.06354181371987436,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",,0.32894279822388134
-1529307,49,0.05127886482728184,1,-0.06354181371987436,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",,0.3454243522666464
-1529307,73,0.6072184820020139,1,-0.06354181371987436,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",,0.7466409342239544
-1529307,97,0.978623734525429,1,-0.06354181371987436,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",,0.943672427478738
-1529307,121,0.9974710486546529,1,-0.06354181371987436,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",,0.9806048883741539
-1529308,1,0.7751632918837706,1,-0.0959006897423453,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",,0.8139006001498266
-1529308,25,0.7854387876530141,1,-0.0959006897423453,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",,0.8185129054549768
-1529308,49,0.735989543242383,1,-0.0959006897423453,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",,0.796827152033671
-1529308,73,0.9435609939810153,1,-0.0959006897423453,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",,0.9076540909221676
-1529308,97,0.9857482369995204,1,-0.0959006897423453,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",,0.9531868985546937
-1529309,1,0.002095077300397611,0,-0.14574287395333635,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.0872736915722516
-1529309,25,0.00010007129181500034,0,-0.14574287395333635,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.019678134220486334
-1529309,49,3.669706420659459e-05,0,-0.14574287395333635,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.01185666108629092
-1529309,73,0.005052534009203276,0,-0.14574287395333635,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.13074808831144172
-1529310,1,2.9426103203733797e-05,0,0.10258740435271205,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.012023106996480128
-1529310,25,0.0013465768772202864,0,0.10258740435271205,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.07964962254783893
-1529310,49,0.0004409788253156823,0,0.10258740435271205,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.04652413369480901
-1529310,73,3.936617358201025e-06,0,0.10258740435271205,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.006947451735755602
-1529310,97,4.5965273522900477e-07,0,0.10258740435271205,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.006947451735755602
-1529310,121,2.001801738286264e-19,0,0.10258740435271205,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.006947451735755602
-1529311,1,0.08422518709298044,1,-0.16206097159306154,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.39720906842970016
-1529311,25,0.07418906323888845,1,-0.16206097159306154,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.38041829220523166
-1529311,49,0.15037578894345505,1,-0.16206097159306154,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.47967265545904414
-1529311,73,0.5565150080529864,1,-0.16206097159306154,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7157045039093022
-1529311,97,0.9941992646799552,1,-0.16206097159306154,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9690857283042111
-1529312,1,0.037219224085617356,0,0.09943816140194894,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",,0.3257377631201422
-1529312,25,0.0030072325578124727,0,0.09943816140194894,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",,0.1154962972060111
-1529312,49,0.001652221787517587,0,0.09943816140194894,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",,0.0875710823599327
-1529312,73,0.01844455243360038,0,0.09943816140194894,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",,0.2502056976577258
-1529312,97,0.09411166391578962,0,0.09943816140194894,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",,0.44509915107899173
-1529312,121,2.7803772698759448e-08,0,0.09943816140194894,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",,0.006936316755070976
-1529313,1,0.04517484170199633,0,0.1278874977551889,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.35221364897961543
-1529313,25,0.14208599808475358,0,0.1278874977551889,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.5083232130527942
-1529313,49,0.18589982015748382,0,0.1278874977551889,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.5493480206319967
-1529313,73,0.10906642339244686,0,0.1278874977551889,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.46960671279318866
-1529313,97,0.00258442410942762,0,0.1278874977551889,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.10918168347849119
-1535462,1,3.543544428265033e-05,0,0.1749654097316798,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.01370234573741355
-1535462,25,4.7800896086197255e-06,0,0.1749654097316798,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.007208311827578486
-1535462,49,9.793975236741902e-09,0,0.1749654097316798,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.007208311827578486
-1535462,73,1.8274082247213536e-12,0,0.1749654097316798,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.007208311827578486
-1535462,97,3.239715641886225e-14,0,0.1749654097316798,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.007208311827578486
-1535462,121,1.1419581919053849e-31,0,0.1749654097316798,Gujarat Titans,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.007208311827578486
-1535463,1,0.00024409157272459894,0,-0.03393753439729601,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.032495360553499594
-1535463,25,0.0001274330584324136,0,-0.03393753439729601,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.02349844199040232
-1535463,49,0.0002610228937449643,0,-0.03393753439729601,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.033594639915417446
-1535463,73,0.0006475408443152068,0,-0.03393753439729601,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.052500064625771836
-1535463,97,0.0008467510955405069,0,-0.03393753439729601,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.05978588233255211
-1535463,121,7.579091439178457e-10,0,-0.03393753439729601,Sunrisers Hyderabad,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.006480654205777473
-1535464,1,0.01426367918506225,1,0.17664362465543992,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.23291234337566916
-1535464,25,0.09618317426705866,1,0.17664362465543992,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.45796133740235945
-1535464,49,0.20590177904462623,1,0.17664362465543992,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.5715594447154262
-1535464,73,0.9123792579488118,1,0.17664362465543992,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.8986461348312194
-1535464,97,0.978623734525429,1,0.17664362465543992,Gujarat Titans,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",,0.9498738174706948
-1535465,1,0.6676273364824241,1,-0.26299239562558874,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.7526461281691759
-1535465,25,0.9722027745497128,1,-0.26299239562558874,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.9294456761615945
-1535465,49,0.9599630919172469,1,-0.26299239562558874,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.9156429608780305
-1535465,73,0.9543742511049892,1,-0.26299239562558874,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.9100751432121594
-1535465,97,0.9951465998333945,1,-0.26299239562558874,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.9702668482912952
+match_id,ball_index,balls_left,wickets_lost,runs_required,probability,actual,context,chasing_team,bowling_team,venue,terminal,adjusted_probability
+1422119,1,120,0,174,0.32797842708049124,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5226963865392676
+1422119,13,108,0,161,0.3266644635950591,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5218074805483842
+1422119,25,97,0,136,0.5804293977836996,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.6710308323071249
+1422119,37,86,1,117,0.6395262317130309,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7029464546445929
+1422119,49,74,2,102,0.582036013174573,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.6719001315856196
+1422119,61,62,2,84,0.721150776124424,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7476955397714373
+1422119,73,51,3,69,0.677401352143569,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7235202184719675
+1422119,85,40,4,54,0.6850147054460503,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7276874806514707
+1422119,97,28,4,41,0.6827528639003865,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7264480023578134
+1422119,109,19,4,19,0.9511048199224372,1,0.0881884386156696,Chennai Super Kings,Royal Challengers Bengaluru,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9081263843389086
+1422120,1,120,0,175,0.3121283780861626,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.49857692970055945
+1422120,13,111,0,151,0.5680800851479287,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6524083633998008
+1422120,25,99,1,133,0.5721531547642921,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6546549048964063
+1422120,37,87,2,116,0.543431423112679,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6387694604975652
+1422120,49,75,2,105,0.5366173367124207,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6349819951987917
+1422120,61,63,3,90,0.45227676467189765,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.5870393249375995
+1422120,73,51,4,75,0.41633752546001984,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.5657097010584018
+1422120,85,39,4,64,0.35004681021543294,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.5241328287189361
+1422120,97,28,4,43,0.6117327677980695,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6764376690939473
+1422120,109,16,4,21,0.7963880363099706,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.782497976549303
+1422120,121,6,6,4,0.9102106170155873,1,-0.000675171560608645,Punjab Kings,Delhi Capitals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8639897495642193
+1422121,1,120,0,209,0.021536493574137488,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.14766907312673538
+1422121,13,109,0,192,0.02932775607290165,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.17309017565498366
+1422121,25,97,0,173,0.042552980209408744,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.2085843391862905
+1422121,37,85,1,148,0.08277367694573705,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.28686930682697853
+1422121,49,73,2,133,0.0496760800300029,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.2250245766828095
+1422121,61,61,2,111,0.11238700407101525,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.32993931722295344
+1422121,73,49,3,102,0.01756891156074979,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.13273647186673634
+1422121,85,37,4,96,0.0011174311994057076,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.02842391083836024
+1422121,97,25,4,77,0.00045050164247484266,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.01671785420741085
+1422121,109,13,5,39,0.010794642445376753,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.10230539056425085
+1422121,121,2,6,5,0.2591602470622117,0,0.0985626804462473,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.47458264865756455
+1422122,1,120,0,194,0.08954219962370681,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.31884413482144647
+1422122,13,108,1,184,0.03770217707639804,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.21272957898266098
+1422122,25,96,3,172,0.0018369691597544223,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.041714561164047335
+1422122,37,85,3,148,0.012166028570890053,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.11926211960065866
+1422122,49,74,4,133,0.011471392461518735,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.11558150793807742
+1422122,61,62,4,125,0.0049274284551680475,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.0728722902372088
+1422122,73,50,4,94,0.05592407055450076,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.2569745943991764
+1422122,85,38,4,68,0.21262649354518418,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.46106036909346043
+1422122,97,26,4,51,0.21686645243994657,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.4647924922312622
+1422122,109,14,6,40,0.005526550588622865,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.07766387992201709
+1422122,121,4,6,25,2.397065324746857e-05,0,0.26640675677808395,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.003250170273501071
+1422123,1,120,0,169,0.41079586002885754,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.5222041392205413
+1422123,13,109,1,162,0.239795622174189,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.4050128428034487
+1422123,25,98,2,129,0.47688266850638455,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.5619194065451287
+1422123,37,86,2,117,0.504737482488511,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.578230275524422
+1422123,49,74,2,106,0.4912170277476908,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.5703362786402658
+1422123,61,62,2,86,0.6770220564687393,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.6783177784291178
+1422123,73,50,2,64,0.8594932287550741,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.7998601690697382
+1422123,85,38,3,50,0.8084897711323146,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.762061763539769
+1422123,97,26,3,40,0.6635355250128329,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.6703164643307827
+1422123,109,15,4,29,0.3177253238935991,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.4620590595208172
+1422123,121,3,8,9,0.09719979573441033,0,-0.27178265335183605,Mumbai Indians,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.2637909806811933
+1422124,1,120,0,177,0.2813812956553986,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.47954122573944724
+1422124,13,109,0,156,0.43745477552262096,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.581208145360044
+1422124,25,98,1,140,0.42003172957439516,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.5708356259360848
+1422124,37,86,2,128,0.28755237098484054,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.4840602943264653
+1422124,49,74,2,117,0.2549858424160522,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.4595331445772943
+1422124,61,63,2,96,0.45525024768324185,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.591635437244681
+1422124,73,51,3,81,0.34079533159525816,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.5209893818508374
+1422124,85,40,4,66,0.3262372550753196,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.5112237661213063
+1422124,97,28,4,54,0.22826283174988124,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.4379822035620008
+1422124,109,17,6,35,0.09954146828469965,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.3021851205730442
+1422124,121,6,6,10,0.40468481407870005,1,0.019138722126062505,Royal Challengers Bengaluru,Punjab Kings,"M Chinnaswamy Stadium, Bengaluru",,0.5615481786893999
+1422125,1,120,0,207,0.026652405827568185,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.15858223612879632
+1422125,13,108,0,190,0.031676343020183725,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.17326972495176737
+1422125,25,97,1,176,0.020020440870531543,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.13661590806614438
+1422125,37,86,2,165,0.006315569727833717,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.07304975136885783
+1422125,49,74,3,152,0.00067392760892464,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.02023261466606977
+1422125,61,64,3,135,0.0017884082854175518,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.03568441388856032
+1422125,73,53,3,113,0.006813792147940659,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.07620036546633585
+1422125,85,41,4,104,0.0007191030755839202,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.02101545653487648
+1422125,97,31,5,93,0.00010736577873406244,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.00684765310356173
+1422125,109,19,7,86,8.311396998780396e-10,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.0016685803396644318
+1422125,121,8,8,76,4.85652699834785e-18,0,0.02120483996994102,Gujarat Titans,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.0016685803396644318
+1422126,1,120,0,278,1.7719089256537596e-07,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0020727480615772517
+1422126,13,108,0,251,1.0771344291149948e-06,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0020727480615772517
+1422126,25,96,1,219,1.1641509435798836e-05,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0022691807014780015
+1422126,37,84,2,202,3.35801560236855e-06,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0020727480615772517
+1422126,49,74,2,177,3.2543562882821804e-05,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.004183839056807608
+1422126,61,63,2,146,0.0007608742434820303,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.02685144937461046
+1422126,73,51,3,116,0.0020523735433261516,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.04755932553198094
+1422126,85,40,3,101,0.00130719678060096,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0367275203637214
+1422126,97,28,4,92,3.263763518517078e-05,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0041910250105372145
+1422126,109,17,4,64,4.29444267717436e-05,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.004933492379377646
+1422126,121,6,5,47,7.255790058302925e-10,0,0.3852024664918364,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0020727480615772517
+1422127,1,120,0,186,0.16299993412461608,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.38086971915921847
+1422127,13,108,0,171,0.17509719650982083,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.3930697784766257
+1422127,25,96,2,152,0.10609017303507652,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.3139928279546797
+1422127,37,84,2,127,0.26835646581872713,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.4730515012719026
+1422127,49,72,2,113,0.28998848909675207,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.4890770722981583
+1422127,61,60,2,97,0.34751899949021214,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.528666430304068
+1422127,73,48,3,87,0.1301433408963775,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.3445148607792989
+1422127,85,37,4,79,0.038863253786067836,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.1939820655816516
+1422127,97,26,5,62,0.02436628411019247,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.15290616548267658
+1422127,109,16,5,36,0.10879498579285189,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.31763131565340574
+1422127,121,4,5,16,0.019423701817702366,0,0.04091500912381604,Delhi Capitals,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.13583206834243475
+1422128,1,120,0,183,0.19843425717673063,1,0.14487999007678892,Kolkata Knight Riders,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.43032345548732
+1422128,13,109,0,151,0.5311939910626851,1,0.14487999007678892,Kolkata Knight Riders,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.651930467506575
+1422128,25,97,0,131,0.6763914925731047,1,0.14487999007678892,Kolkata Knight Riders,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.7296956794262004
+1422128,37,85,0,98,0.9348965480595239,1,0.14487999007678892,Kolkata Knight Riders,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.8950722462132455
+1422128,49,73,2,91,0.7785703961674759,1,0.14487999007678892,Kolkata Knight Riders,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.7864385074087064
+1422128,61,61,2,73,0.8854166695700464,1,0.14487999007678892,Kolkata Knight Riders,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.8549133935553301
+1422128,73,49,2,46,0.9832616368888565,1,0.14487999007678892,Kolkata Knight Riders,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.9518751975478023
+1422128,85,37,2,34,0.9882110228671261,1,0.14487999007678892,Kolkata Knight Riders,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.9607176641489218
+1422128,97,27,3,14,0.9966512360285602,1,0.14487999007678892,Kolkata Knight Riders,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.9811710822849633
+1422129,1,120,0,200,0.05312112001048126,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.21125437743280154
+1422129,13,108,0,184,0.05867153179202235,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.2219150483570438
+1422129,25,96,0,161,0.12220591626391605,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.31544790979556414
+1422129,37,84,0,139,0.21786175330361793,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.4107827128274809
+1422129,49,72,0,127,0.165411414985551,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.36264337409113795
+1422129,61,60,0,102,0.362284013413485,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.5161833252009608
+1422129,73,48,1,93,0.14711369015499956,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.3437012339031463
+1422129,85,36,2,71,0.19379940423139577,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.38967187191816083
+1422129,97,25,3,61,0.033265690648207204,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.16670034756142765
+1422129,109,13,5,49,0.00026089147718163223,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.010733381639854739
+1422129,121,2,5,24,1.783414828936217e-07,0,-0.10739481458218887,Punjab Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.0015454611238057748
+1422130,1,120,0,163,0.5135041174486085,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.6735527663352989
+1422130,13,108,0,145,0.6219720751867074,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.728950704577454
+1422130,25,96,0,127,0.7285877183614949,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.782715638614311
+1422130,37,84,1,111,0.7155374916613226,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.7760398387293131
+1422130,49,72,1,100,0.693572881672295,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.7648971888359999
+1422130,61,60,2,85,0.6526773863853356,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.7443397032932425
+1422130,73,48,2,73,0.5954990033397579,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.7156387038907871
+1422130,85,37,2,56,0.6972999168555365,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.7667810870939984
+1422130,97,28,2,39,0.8449818063179393,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.84611122061619
+1422130,109,16,3,8,0.9979155951869723,1,0.37786928510836937,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.9875836594874295
+1422131,1,120,0,192,0.1050855972231839,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.3393795106328348
+1422131,13,109,1,188,0.028243977580903246,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.18247974143768658
+1422131,25,98,2,183,0.004279785886164717,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.06656401677800337
+1422131,37,86,2,161,0.01105935829502465,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.11206176028142915
+1422131,49,74,2,146,0.010462294527532423,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.10877208657855851
+1422131,61,62,2,124,0.026083239189143567,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.17530645579461268
+1422131,73,50,3,103,0.018905037374185835,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.1486772083642476
+1422131,85,39,4,90,0.008533478942506974,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.09742531865536447
+1422131,97,28,5,77,0.001853555058964895,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.04141836453302395
+1422131,109,17,6,57,0.00010821287228560197,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.00785506268844069
+1422131,121,9,6,44,2.6408113854622753e-06,0,0.24494791925215123,Chennai Super Kings,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0019065773105932792
+1422132,1,120,0,126,0.9122563959915341,1,-0.2138550321302466,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.8502625625807174
+1422132,13,110,1,109,0.9095365128080564,1,-0.2138550321302466,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.8476973974717863
+1422132,25,99,1,91,0.9549929042333902,1,-0.2138550321302466,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.8968358654669919
+1422132,37,89,2,81,0.936239221773179,1,-0.2138550321302466,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.8746555940735083
+1422132,49,77,3,76,0.8656400496444477,1,-0.2138550321302466,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.8101467052053541
+1422132,61,65,3,57,0.9486431036593016,1,-0.2138550321302466,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.8889220342865983
+1422132,73,53,3,41,0.9817920365352665,1,-0.2138550321302466,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.9381580743566799
+1422132,85,41,4,31,0.9734521963510675,1,-0.2138550321302466,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.923375706102501
+1422132,97,30,4,15,0.9939776809954514,1,-0.2138550321302466,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.9673025844241129
+1422133,1,120,0,182,0.21118129482738773,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.3908163022869754
+1422133,13,108,0,169,0.20129759925065524,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.3822682221546557
+1422133,25,96,0,146,0.3536868223865969,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.49573564422991734
+1422133,37,84,3,134,0.06337457847388657,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.22011463878409435
+1422133,49,73,4,124,0.03407659387708005,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.16059637885219555
+1422133,61,61,4,119,0.011222537764033352,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.08860084817634648
+1422133,73,49,4,101,0.015398224689040585,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.10531982131438568
+1422133,85,38,5,81,0.02078983768847809,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.12379646973829572
+1422133,97,26,6,61,0.009769704464324524,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.08207493934903656
+1422133,109,15,8,45,0.0011797224581386809,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.024561560442132577
+1422133,121,4,9,29,6.052640862929676e-08,0,-0.20702819708881404,Royal Challengers Bengaluru,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",,0.0014563456525292487
+1422134,1,120,0,273,5.464836441519799e-07,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422134,13,109,1,252,6.800951674479107e-07,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422134,25,97,2,246,9.393512736049752e-09,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422134,37,85,4,224,7.530218480501452e-11,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422134,49,74,4,205,2.184119363965717e-10,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422134,61,62,4,189,1.2027276107368977e-10,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422134,73,51,4,160,3.968618185552116e-09,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422134,85,40,6,138,3.4535684775872726e-11,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422134,97,29,8,114,1.612965937665628e-10,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422134,109,18,9,107,4.653738884687136e-21,0,-0.11734073790552144,Delhi Capitals,Kolkata Knight Riders,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",,0.0015363258409300732
+1422135,1,120,0,200,0.05312112001048126,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.18260372841258501
+1422135,13,108,1,181,0.05069484526732793,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.17825083685617718
+1422135,25,96,1,161,0.08642604593619277,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.23382104541119345
+1422135,37,84,2,146,0.05131637995289003,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.17937649197073188
+1422135,49,73,3,132,0.018034047605334762,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.10289387227507366
+1422135,61,63,4,123,0.008390227658632005,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.06734967348669554
+1422135,73,51,4,97,0.04405551256991222,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.16572855661037456
+1422135,85,39,5,77,0.04952444985472209,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.17611066622244892
+1422135,97,27,6,50,0.11581270799378017,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.2703974439475371
+1422135,109,15,6,32,0.09075706064361284,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.23960777570322123
+1422135,121,4,7,6,0.49527572624353067,1,-0.4112882112973158,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.552216990869251
+1422136,1,120,0,166,0.4621273777984054,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.537337807406997
+1422136,13,109,0,135,0.7863775562978786,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.7346357630231278
+1422136,25,97,1,113,0.8389476471023232,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.7730379822937761
+1422136,37,85,1,89,0.9440763235133962,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8729724293605884
+1422136,49,73,1,77,0.9607117537301686,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8955478530063825
+1422136,61,61,2,60,0.9678595790848856,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9066174704742469
+1422136,73,49,2,49,0.9762643263091351,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9212280316515146
+1422136,85,38,2,35,0.9879405382329337,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9463685000829432
+1422136,97,26,4,25,0.9639140189999027,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9003797225757953
+1422136,109,14,4,8,0.9953887930783978,1,-0.37891119460490674,Sunrisers Hyderabad,Chennai Super Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9691986946937247
+1422137,1,120,0,184,0.18614961495285964,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.37843779296043273
+1422137,13,108,1,175,0.08714655099017946,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.26545242357686294
+1422137,25,96,1,159,0.10346580950452275,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.28811132413574414
+1422137,37,84,1,130,0.32080604748759595,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.48418893779110367
+1422137,49,73,1,109,0.512000716144036,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.6018526984813695
+1422137,61,61,1,90,0.6507067920847516,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.6804738394052409
+1422137,73,49,1,61,0.925145005736758,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.8682560085493599
+1422137,85,38,1,44,0.9642332598956433,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.9130325465941252
+1422137,97,26,3,29,0.9462696595724817,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.8906166378890209
+1422137,109,14,4,10,0.9872555383760352,1,-0.13722987583352367,Rajasthan Royals,Royal Challengers Bengaluru,"Sawai Mansingh Stadium, Jaipur",,0.9517259397661835
+1422138,1,120,0,235,0.0007011490409179569,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.017050199166061684
+1422138,13,108,0,224,0.0002497403564405597,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.009276516066620395
+1422138,25,96,1,211,6.0599890767113656e-05,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.0040038260267487615
+1422138,37,85,1,192,0.00010130726976596378,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.005433677694174747
+1422138,49,73,1,167,0.00042205116522262817,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.012647130950151162
+1422138,61,61,1,147,0.0006272959006469977,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.015970889962587893
+1422138,73,49,2,125,0.0005222299020825553,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.01433818398782214
+1422138,85,37,2,99,0.0018085220930130173,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.029654198726638065
+1422138,97,25,3,82,9.607736193846932e-05,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.005265302654630886
+1422138,109,14,4,57,2.720422362930733e-05,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.002485820156686333
+1422138,121,2,7,32,5.247252347386201e-11,0,-0.31050811746916285,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",,0.001369218208256651
+1422139,1,120,0,164,0.49643430800479854,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.645292992705444
+1422139,13,109,0,150,0.5497221742882562,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.6739396176817649
+1422139,25,97,0,133,0.6392160378975292,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.720791302108395
+1422139,37,88,0,112,0.8349305535344635,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8284463281997881
+1422139,49,76,2,108,0.4912015423287523,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.6424271833740299
+1422139,61,64,4,101,0.1587427068892057,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.40404482598132496
+1422139,73,53,4,93,0.10279187487179851,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.33480664447310693
+1422139,85,41,5,82,0.03373646647664354,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.198463278679306
+1422139,97,29,7,70,0.0027295962889638155,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.051373215728859396
+1422139,109,20,8,51,0.003144381406205471,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.0556614839423509
+1422139,121,9,9,38,2.146101957578612e-06,0,0.2352985931486459,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.0018956465015905794
+1426260,1,120,0,138,0.8416763082631505,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8262105360656008
+1426260,13,109,0,131,0.8307151833804073,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8192412573542923
+1426260,25,98,1,109,0.8781222767320512,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.850750766700029
+1426260,37,86,1,90,0.9424237740067232,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9029453273459971
+1426260,49,74,1,72,0.9744163248288085,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9390364613441478
+1426260,61,62,1,58,0.9863984820392906,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9576714952663393
+1426260,73,51,1,47,0.9900810648421583,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9647622398538955
+1426260,85,39,2,34,0.990279313369792,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9651737264650758
+1426260,97,27,2,16,0.9959059821778657,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9789908264592447
+1426260,109,15,3,1,0.999999857278783,1,0.15931122344001147,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9994099942538791
+1426261,1,120,0,183,0.19843425717673063,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.4026035306070569
+1426261,13,108,1,181,0.05069484526732793,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.21243540304567882
+1426261,25,96,2,169,0.018961875149197952,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.1281937035216947
+1426261,37,84,3,156,0.002884350751875101,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.045176015145819086
+1426261,49,72,3,134,0.011216180916475919,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.09663470165430128
+1426261,61,60,4,117,0.012957310323972057,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.10451938206887962
+1426261,73,48,4,99,0.017126785076381105,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.12143536301588745
+1426261,85,36,5,86,0.004551332185732002,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.0585435322496346
+1426261,97,25,6,67,0.001185183217271171,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.02704195046803995
+1426261,109,15,6,41,0.007794868557006542,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.07911045075163246
+1426261,121,5,6,21,0.0029260009270684244,0,-0.04623706583196999,Punjab Kings,Sunrisers Hyderabad,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.045547736994454274
+1426262,1,120,0,197,0.06951524816726226,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.3051600389931338
+1426262,13,108,0,182,0.07092334313070178,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.3078970786968935
+1426262,25,96,0,171,0.045911540169685586,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.2524752280491267
+1426262,37,84,0,153,0.058377711232696396,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.2820749825009246
+1426262,49,72,0,134,0.08125126422257871,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.3269229943294016
+1426262,61,60,1,121,0.04314735899963743,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.24522335796813166
+1426262,73,49,3,108,0.005756985023864433,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.08709588972059627
+1426262,85,38,3,87,0.014632365719563903,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.14339522590661855
+1426262,97,27,5,63,0.02890720037947645,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.20226642538047068
+1426262,109,15,6,40,0.010676286573496587,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.12153803734381466
+1426262,121,8,6,20,0.07429711814354614,1,0.4345343577542162,Gujarat Titans,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",,0.3143084439803613
+1426263,1,120,0,197,0.06951524816726226,1,0.09434311927912875,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.2638720164053381
+1426263,13,109,0,188,0.044732375365311376,1,0.09434311927912875,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.21335499319962473
+1426263,25,98,0,172,0.05442252201275397,1,0.09434311927912875,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.23475161513163134
+1426263,37,86,0,130,0.4476599988858438,1,0.09434311927912875,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.5980457628365511
+1426263,49,74,0,110,0.5888293827237525,1,0.09434311927912875,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.6763781894269767
+1426263,61,63,1,89,0.7247065856611297,1,0.09434311927912875,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.7503784785663018
+1426263,73,51,2,52,0.9716803177379818,1,0.09434311927912875,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.9329840084048534
+1426263,85,39,3,21,0.9961362365339494,1,0.09434311927912875,Mumbai Indians,Royal Challengers Bengaluru,"Wankhede Stadium, Mumbai",,0.9789065283178894
+1426264,1,120,0,168,0.42784042015036944,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.5428849106344932
+1426264,13,108,0,152,0.4929981967948791,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.5814599914990626
+1426264,25,96,1,138,0.4194087083014855,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.5377643437390358
+1426264,37,85,1,108,0.7803174334455175,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7506721850651517
+1426264,49,73,2,100,0.6049889722968611,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.6456541789835957
+1426264,61,61,2,93,0.47635399657027033,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.5717469371512331
+1426264,73,49,2,72,0.6578989400939839,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.6760980371971197
+1426264,85,39,2,39,0.9811714325944926,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9373597572003938
+1426264,97,27,4,22,0.9820608101697669,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9390656060011917
+1426264,109,15,4,7,0.9977591693637334,1,-0.20261716208097896,Delhi Capitals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.981772033863478
+1426265,1,120,0,148,0.7403205969643603,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.7576534504838407
+1426265,13,109,0,134,0.7982776314395432,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.7917705674918133
+1426265,25,97,0,123,0.8025251902483834,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.7943754512936047
+1426265,37,86,0,107,0.8707207522850064,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8393103860900356
+1426265,49,75,0,96,0.8721274743611559,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8403187179621863
+1426265,61,63,1,86,0.7857295674231818,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.7841718001848133
+1426265,73,51,1,66,0.8926343546089581,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8555521600410391
+1426265,85,39,3,59,0.5791301777870653,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6692915602207125
+1426265,97,27,3,46,0.48799512175632204,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6191034093890101
+1426265,109,15,5,31,0.19729233270361055,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.4198579138314916
+1426265,121,3,7,4,0.5247862697755192,1,0.08034119084523664,Rajasthan Royals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6396063291056066
+1426266,1,120,0,162,0.5304703929611746,1,-0.17644185278694002,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",,0.606821636121291
+1426266,13,112,0,140,0.756043723635441,1,-0.17644185278694002,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",,0.7381532492126454
+1426266,25,100,2,119,0.6682143963539887,1,-0.17644185278694002,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",,0.6854840409024016
+1426266,37,88,2,105,0.7485903545023143,1,-0.17644185278694002,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",,0.7335112354703828
+1426266,49,77,2,88,0.8580109458941813,1,-0.17644185278694002,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",,0.8076859578391157
+1426266,61,66,2,74,0.9133716028187333,1,-0.17644185278694002,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",,0.8541294730385018
+1426266,73,55,2,57,0.9645237419882491,1,-0.17644185278694002,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",,0.9115634765262056
+1426266,85,45,2,42,0.9853625916823125,1,-0.17644185278694002,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",,0.9465538089209987
+1426266,97,35,2,15,0.9974761302043305,1,-0.17644185278694002,Kolkata Knight Riders,Lucknow Super Giants,"Eden Gardens, Kolkata",,0.9807507845291431
+1426267,1,120,0,207,0.026652405827568185,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.1626668021068909
+1426267,13,108,0,194,0.02018453544914215,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.14082965843392567
+1426267,25,96,0,169,0.056840011662676035,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.23729560923713458
+1426267,37,84,0,144,0.14391387919486556,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.36467355465079787
+1426267,49,72,2,132,0.04832063541869441,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.21927875430928295
+1426267,61,60,2,117,0.04746489317544771,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.21736671115438075
+1426267,73,48,2,89,0.17499245696816365,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.3973953208189148
+1426267,85,36,3,77,0.05310695005786109,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.2296164737996578
+1426267,97,24,4,72,0.0010415762771023018,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.026867898568221207
+1426267,109,13,6,49,5.7082067843494196e-05,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.004850227216879873
+1426267,121,3,6,29,3.4842004827142876e-08,0,0.07195323556864153,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",,0.0017198183951396863
+1426268,1,120,0,288,1.6436036326806435e-08,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,13,108,0,267,2.2499535712195344e-08,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,25,96,0,232,1.0077482010011915e-06,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,37,84,0,209,2.3848113313642468e-06,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,49,72,2,188,1.066955568203095e-06,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,61,61,4,166,1.7345941637953806e-07,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,73,52,5,157,1.0311504502026226e-08,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,85,42,5,128,5.48757048755774e-07,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,97,31,6,105,1.1840483069978205e-07,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,109,20,6,80,8.574187396105268e-08,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,121,13,6,59,3.070759319127858e-07,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426268,133,1,7,30,2.5457305260328923e-12,0,-0.027098343705907482,Royal Challengers Bengaluru,Sunrisers Hyderabad,"M Chinnaswamy Stadium, Bengaluru",,0.001621227433413592
+1426269,1,120,0,224,0.003462915902219682,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.05395824266850082
+1426269,13,109,1,202,0.005316785133701709,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.06868954879140421
+1426269,25,99,1,179,0.018989307362181674,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.13719971437736128
+1426269,37,88,2,166,0.00787557556340379,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.08541899065731427
+1426269,49,78,2,139,0.050255673198133725,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.22471836087621028
+1426269,61,67,4,123,0.016581447737703398,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.1277325469689272
+1426269,73,55,4,113,0.008083629856439246,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.0866528813281493
+1426269,85,43,6,99,0.00020527926448585644,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.010427270434008354
+1426269,97,32,6,83,0.0003965589326603324,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.015373199069284846
+1426269,109,20,6,46,0.027248413917850565,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.1654657538989658
+1426269,121,10,8,22,0.08570212202383144,1,0.08341000569858284,Rajasthan Royals,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.2896635210026223
+1426270,1,120,0,90,0.9786752312774506,1,-0.28052408231801423,Delhi Capitals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.929779348957274
+1426270,13,109,0,65,0.9887214070795517,1,-0.28052408231801423,Delhi Capitals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.9511849315198672
+1426270,25,98,2,56,0.9834864841536747,1,-0.28052408231801423,Delhi Capitals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.9392822458425564
+1426270,37,86,4,23,0.9913598685348937,1,-0.28052408231801423,Delhi Capitals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.958127620026224
+1426270,49,74,4,6,0.9990351581416611,1,-0.28052408231801423,Delhi Capitals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.9883842586532607
+1426271,1,120,0,193,0.09708721504891495,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.27092870661118973
+1426271,13,109,2,179,0.03221068023397781,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.15577330777247264
+1426271,25,98,4,167,0.003042599632349553,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.04243491815145521
+1426271,37,87,4,153,0.0046317260742587164,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.05393153905880687
+1426271,49,76,5,142,0.0015025190175636965,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.028234513505335464
+1426271,61,66,5,117,0.01470168714184664,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.1025715309255402
+1426271,73,54,6,93,0.010569350081726906,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.08560770748857033
+1426271,85,43,7,74,0.021819588935259062,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.12687005209168045
+1426271,97,31,7,52,0.11173859339498342,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.2898240089276302
+1426271,109,23,7,27,0.5465845250862306,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6113461932706133
+1426271,121,11,8,21,0.15164684797995312,0,-0.20945862640797655,Punjab Kings,Mumbai Indians,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.33481751721572844
+1426272,1,120,0,177,0.2813812956553986,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.46380761438531193
+1426272,13,109,0,167,0.2468979165866281,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.4375641022460783
+1426272,25,97,0,145,0.39604060405500674,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.5406124781860131
+1426272,37,85,0,124,0.5568282665878049,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.6343750824851205
+1426272,49,75,0,105,0.7258449511009959,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7302720304771155
+1426272,61,63,0,89,0.7794501529165309,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.762861207649308
+1426272,73,51,0,73,0.8037142961166264,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.778390867280247
+1426272,85,40,0,62,0.717283076802465,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7252311195776082
+1426272,97,30,1,43,0.8495324077194181,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8097073465754044
+1426272,109,19,1,17,0.9873323801416064,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9532583163195832
+1426272,121,9,2,5,0.99314273098896,1,-0.08662716377039695,Lucknow Super Giants,Chennai Super Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9672373906139625
+1426273,1,120,0,267,1.9968345598714874e-06,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.0015537585917045952
+1426273,13,111,1,243,8.905636398121692e-06,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.0015537585917045952
+1426273,25,99,2,206,0.0001338643335778808,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.007270134368037067
+1426273,37,88,2,185,0.00037733754610973593,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.013415237370754793
+1426273,49,77,3,154,0.0009279421233518489,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.022746608053597194
+1426273,61,66,4,131,0.0038062807620041256,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.05136939419147358
+1426273,73,54,4,124,0.0006828231457889559,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.019010008201577503
+1426273,85,42,5,110,0.00011997167284684833,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.006812865746042006
+1426273,97,30,6,101,3.238466095753582e-07,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.0015537585917045952
+1426273,109,19,6,80,2.281627356444638e-08,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.0015537585917045952
+1426273,121,7,9,68,8.272316092709382e-20,0,-0.0984117919721757,Delhi Capitals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",,0.0015537585917045952
+1426274,1,120,0,223,0.0039611982703123255,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.057260752398455045
+1426274,13,109,0,200,0.011467868715882462,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.10321110208496577
+1426274,25,97,2,182,0.004126833039332275,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.058600762454863564
+1426274,37,85,2,153,0.026348288341785358,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.16024974568422864
+1426274,49,74,2,135,0.045346717598667714,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.21073939766230204
+1426274,61,62,2,107,0.1881639881306034,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.40752370320921416
+1426274,73,50,4,85,0.16572055270305874,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.3854881645286098
+1426274,85,39,6,66,0.07412957579279511,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.2672176081317161
+1426274,97,27,6,44,0.2558525909986272,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.46535903268877715
+1426274,109,16,7,35,0.05891307903980343,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.23945328158139856
+1426274,121,4,8,15,0.017461440590203707,0,0.05383745596007822,Royal Challengers Bengaluru,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.1292724881398098
+1426275,1,120,0,143,0.7965140281921332,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8166639454271394
+1426275,13,108,0,131,0.8222961731700886,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8311508897215245
+1426275,25,96,1,114,0.8211949639053248,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8305200886323781
+1426275,37,84,1,99,0.8780513777596222,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8650349229179175
+1426275,49,72,1,85,0.9130046916969211,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8892096038400804
+1426275,61,60,2,75,0.8485436500281187,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.8465737614209999
+1426275,73,49,3,66,0.7001451766739992,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.7659283072019195
+1426275,85,37,3,53,0.6981135263307875,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.7648929495872642
+1426275,97,25,5,39,0.5007589688320244,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.6639669518936319
+1426275,109,13,5,9,0.9795738231315606,1,0.3563754819952565,Gujarat Titans,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",,0.9521104944170646
+1426276,1,120,0,180,0.23801586650537565,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.4067830365929076
+1426276,13,108,0,167,0.2296972319479304,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.4001114114297799
+1426276,25,97,0,150,0.2998705120550099,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.4529341199075065
+1426276,37,86,0,127,0.5150634106386531,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.5874335647267159
+1426276,49,74,0,110,0.5888293827237525,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.6298989942298133
+1426276,61,62,1,91,0.6533163343311313,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.6672276365512334
+1426276,73,50,1,68,0.8429063600941165,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.7892405830660323
+1426276,85,38,1,47,0.9401012652951218,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.8766548007890189
+1426276,97,28,1,29,0.9823153554778871,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.9379447785935232
+1426276,109,17,1,9,0.9974626046254056,1,-0.24969846397118395,Rajasthan Royals,Mumbai Indians,"Sawai Mansingh Stadium, Jaipur",,0.9798444641894812
+1426277,1,120,0,211,0.017278162693146734,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.11317622139890278
+1426277,13,108,1,200,0.005827488176834939,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.062124807887810794
+1426277,25,96,1,182,0.007820754404840528,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.07326133950813307
+1426277,37,84,2,166,0.003687523661350283,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.04792705862227307
+1426277,49,73,2,149,0.005391083811276196,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.059457008871842465
+1426277,61,61,2,129,0.009975535056000847,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.08385714494613085
+1426277,73,51,3,117,0.0016540677780478843,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.030212974125730582
+1426277,85,41,3,95,0.007163710031920883,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.06975736499640853
+1426277,97,29,3,68,0.04036584914008251,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.17683679602066033
+1426277,109,17,4,47,0.01631073792831362,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.10971195625641311
+1426277,121,5,4,11,0.29533782670495007,1,-0.1888469937199716,Lucknow Super Giants,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.45873418661024357
+1426278,1,120,0,225,0.0030218775568895575,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.06264650763176653
+1426278,13,109,1,205,0.003542563805955,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.06847629826657907
+1426278,25,97,1,176,0.020020440870531543,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.17272580883155286
+1426278,37,85,1,158,0.027013951887096304,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.2004805415830012
+1426278,49,74,1,148,0.014305859229835984,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.14547457704737274
+1426278,61,62,2,130,0.010562013172549584,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.12412421544468957
+1426278,73,50,3,109,0.006319658960476984,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.0942241977763494
+1426278,85,38,4,94,0.0026051054437098726,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.057627532901928305
+1426278,97,26,5,74,0.0013634938088427078,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.03986194081743458
+1426278,109,14,7,43,0.0017617307680438436,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.04615756738506353
+1426278,121,4,8,11,0.10253005716609591,0,0.48561839706177584,Gujarat Titans,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.3684714170124877
+1426279,1,120,0,207,0.026652405827568185,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.13955983466710564
+1426279,13,109,1,196,0.011380067898467185,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.08816067122539388
+1426279,25,98,2,170,0.022200558854961833,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.12666381986054032
+1426279,37,87,4,149,0.00835952491514249,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0743112175017019
+1426279,49,76,5,138,0.0029061716367910994,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0408429373791826
+1426279,61,64,6,122,0.00035661286054081837,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.012005419413930319
+1426279,73,52,6,98,0.002862202937437936,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.04048685902887024
+1426279,85,41,7,83,0.0030652863306036503,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.04211180828100233
+1426279,97,30,7,75,0.0012048114920064125,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.02453038582951197
+1426279,109,18,8,63,1.3114567286140734e-05,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0016882453162823466
+1426279,121,7,8,44,3.168882042899387e-08,0,-0.23027814206246316,Sunrisers Hyderabad,Royal Challengers Bengaluru,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.0014362996925352518
+1426280,1,120,0,262,5.610139610050824e-06,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.001607656725930499
+1426280,13,108,0,240,1.1702393584296001e-05,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.0017655708494200384
+1426280,25,97,0,206,0.000342308762505968,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.013100882029406827
+1426280,37,85,0,169,0.008784864744102658,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.08474837178503498
+1426280,49,73,1,155,0.0038453450560249854,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.05336780879572416
+1426280,61,61,1,130,0.014200465678159867,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.11011810918330046
+1426280,73,51,1,98,0.13847394957253376,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.34310774162174484
+1426280,85,39,2,69,0.36091318701629777,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.5251608249479724
+1426280,97,27,2,56,0.20898929595036264,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.4127110872942098
+1426280,109,16,2,26,0.6337502888812108,1,-0.04120126301082967,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",,0.6833512922307209
+1426281,1,120,0,258,1.2429679129769532e-05,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.002406959800770365
+1426281,13,111,0,238,4.3223766844568134e-05,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.005051941829159796
+1426281,25,99,1,217,4.478195055931086e-05,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.005159337987427059
+1426281,37,87,2,197,2.7473342023403874e-05,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.003859030054888189
+1426281,49,76,3,185,4.1855137918067136e-07,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.002114476326377212
+1426281,61,64,3,155,1.8380947999165456e-05,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.0030383005390132015
+1426281,73,53,3,137,2.6019250422944076e-05,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.003736217213546986
+1426281,85,41,5,116,1.4302510755541378e-05,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.0026167763813840896
+1426281,97,29,5,84,0.0004915213496783038,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.021221896789010795
+1426281,109,20,5,66,0.000266241161629177,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.014811498681301731
+1426281,121,8,7,29,0.0022343818422937314,0,0.41865918703987803,Mumbai Indians,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.050871491230027786
+1426282,1,120,0,197,0.06951524816726226,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.24430512453942727
+1426282,13,108,0,177,0.11010205955239839,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.30405624294766875
+1426282,25,96,0,160,0.13315222972793025,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.33205446338834205
+1426282,37,84,1,137,0.19720567650576337,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.39685080323112437
+1426282,49,72,2,127,0.08492314607821976,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.26899426633840834
+1426282,61,60,3,116,0.022239551233804493,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.1371467311832444
+1426282,73,49,3,92,0.08175255200332421,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.264149475019738
+1426282,85,38,3,67,0.2832492204193938,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.4663609501512614
+1426282,97,26,3,43,0.5436917385656631,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.6281059192197398
+1426282,109,14,3,18,0.8184458650847737,1,-0.07865473619712629,Rajasthan Royals,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7889309119763834
+1426283,1,120,0,201,0.04839436155451238,1,-0.3694911676445789,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.17763392281942705
+1426283,13,110,0,188,0.050781007368973244,1,-0.3694911676445789,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.18209427265304204
+1426283,25,98,0,161,0.15022157413707515,1,-0.3694911676445789,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.31245752512857117
+1426283,37,86,1,140,0.18784277410759828,1,-0.3694911676445789,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.3479197759013244
+1426283,49,75,1,123,0.25284242425713266,1,-0.3694911676445789,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.40107461994554094
+1426283,61,63,1,108,0.261513282407425,1,-0.3694911676445789,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.40760123232169126
+1426283,73,51,1,81,0.5524795597940558,1,-0.3694911676445789,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.5918580617017
+1426283,85,39,1,64,0.5809400196653406,1,-0.3694911676445789,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.608465769883568
+1426283,97,28,1,17,0.9955798581909169,1,-0.3694911676445789,Royal Challengers Bengaluru,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.970110847958068
+1426284,1,120,0,213,0.013762566729201604,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.09226243405359229
+1426284,13,108,2,192,0.006599321701460606,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.06125916344561191
+1426284,25,96,3,171,0.0021677608551159758,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.0323985011770596
+1426284,37,84,3,160,0.0014277569161570895,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.025420439616481966
+1426284,49,73,3,144,0.002492689427194909,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.035123418900010785
+1426284,61,61,4,137,0.00036454351701606364,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.011406245861341506
+1426284,73,51,5,120,0.00028386567523788184,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.009839059879620908
+1426284,85,39,5,110,3.2311672399758244e-05,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.0027075911142040404
+1426284,97,27,5,97,1.4096086125021335e-06,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.0013461130743483082
+1426284,109,15,8,89,5.2493817007180533e-14,0,-0.3390538304657062,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.0013461130743483082
+1426285,1,120,0,154,0.6585601548067331,1,-0.0037439864139548473,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.7019036647525708
+1426285,13,110,0,129,0.8563838094978409,1,-0.0037439864139548473,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.8220368582500338
+1426285,25,98,0,113,0.9075379660315109,1,-0.0037439864139548473,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.8614913386034329
+1426285,37,86,0,83,0.9779039419218081,1,-0.0037439864139548473,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.9385931554338052
+1426285,49,74,1,65,0.9835978044995969,1,-0.0037439864139548473,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.9482514659642354
+1426285,61,62,3,53,0.9595477047260199,1,-0.0037439864139548473,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.913293376484281
+1426285,73,50,3,36,0.9877634303943452,1,-0.0037439864139548473,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.9562973344610947
+1426285,85,38,3,21,0.9958801368753593,1,-0.0037439864139548473,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.9768071781427075
+1426285,97,26,3,10,0.9977947509013453,1,-0.0037439864139548473,Kolkata Knight Riders,Delhi Capitals,"Eden Gardens, Kolkata",,0.983931676960888
+1426286,1,120,0,145,0.7753836880006619,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7700178864097792
+1426286,13,108,1,137,0.6389707265045808,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.6920192961452711
+1426286,25,98,1,127,0.6625123191546545,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7050436503290378
+1426286,37,86,1,93,0.9293827988237052,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8815685705169432
+1426286,49,74,2,85,0.8666623925782444,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8300801114239628
+1426286,61,62,2,68,0.9352945665568528,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8872895372126093
+1426286,73,52,2,56,0.9582768506404872,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9121199793455163
+1426286,85,40,3,45,0.9254032872127246,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.8778340988059751
+1426286,97,28,4,28,0.9542928925087956,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.907448095803989
+1426286,109,17,5,22,0.7564204637316484,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.7586410005239966
+1426286,121,6,6,3,0.9627278025296552,1,0.003844373349730243,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.9175800525795841
+1426287,1,120,0,163,0.5135041174486085,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5912644243638487
+1426287,13,108,0,147,0.5862247813657452,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.6329568223954668
+1426287,25,96,1,134,0.4979964053965533,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5822835164469194
+1426287,37,85,1,112,0.7149756687065112,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7080610658935785
+1426287,49,73,1,94,0.8204827205423685,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.7762864359184749
+1426287,61,61,2,71,0.9059984635457217,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8441690189297603
+1426287,73,50,2,51,0.9724323580960867,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9215899981533506
+1426287,85,39,3,39,0.9652246306079335,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9106049586558209
+1426287,97,28,3,27,0.978681906220019,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9322296494954939
+1426287,109,19,3,10,0.9975639623105468,1,-0.2169420225731427,Punjab Kings,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9806944457207539
+1426288,1,120,0,202,0.04401006944787475,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.22876014411341197
+1426288,13,108,2,196,0.003951086747181501,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.06423235491428497
+1426288,25,98,2,175,0.012255497555169024,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.1194061285553636
+1426288,37,86,2,144,0.08023671496762341,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.30285783255271315
+1426288,49,76,2,127,0.1349877418442199,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.3807126269982158
+1426288,61,66,2,112,0.18343846941779304,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.43314890426160496
+1426288,73,54,2,91,0.3065269462139191,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.5337100541197247
+1426288,85,43,2,71,0.4641739741912577,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6310540450834825
+1426288,97,32,3,51,0.572022156772151,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6890399420114254
+1426288,109,23,4,38,0.5115929607768673,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6570397452874068
+1426288,121,12,5,20,0.48219893832739813,0,0.261284384539546,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6410476023692057
+1426289,1,120,0,170,0.3938654607378398,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.5800446009888865
+1426289,13,109,1,154,0.3652983239343431,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.5623023909710867
+1426289,25,98,1,133,0.5546210061193829,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.6706833060019354
+1426289,37,86,2,124,0.3629166285404577,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.560790368418579
+1426289,49,74,3,118,0.1163057979838912,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.3474351447024076
+1426289,61,62,4,104,0.09727568235735533,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.3208821317052884
+1426289,73,52,6,98,0.002862202937437936,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.05146060696041918
+1426289,85,40,6,79,0.009770877255015516,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.1018396527348153
+1426289,97,29,6,50,0.1718043287345588,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.4112743049053924
+1426289,109,17,7,43,0.012012439461303415,0,0.19072906059275574,Mumbai Indians,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",,0.11382083362869012
+1426290,1,120,0,148,0.7403205969643603,1,-0.3751557980649463,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.7043137672806429
+1426290,13,108,0,114,0.9350234403648792,1,-0.3751557980649463,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.8622869722964108
+1426290,25,96,0,84,0.9800171289705258,1,-0.3751557980649463,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.9286695050375421
+1426290,37,84,1,56,0.9889740976975753,1,-0.3751557980649463,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.9491580899258075
+1426290,49,73,3,41,0.9875242071244483,1,-0.3751557980649463,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.945433488274501
+1426290,61,61,5,37,0.9090837717987243,1,-0.3751557980649463,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.8343920356184459
+1426290,73,49,6,16,0.9583072065126418,1,-0.3751557980649463,Royal Challengers Bengaluru,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",,0.8922554081876246
+1426291,1,120,0,168,0.42784042015036944,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.5238767936790694
+1426291,13,109,1,159,0.2842585282643957,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.4299186721095093
+1426291,25,97,2,152,0.11583859143214832,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.2800403321483959
+1426291,37,86,2,126,0.324390342324659,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.4578771166646931
+1426291,49,74,2,110,0.4000955748972478,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.5068204229220257
+1426291,61,62,5,99,0.08292877965184109,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.23765006371313593
+1426291,73,50,5,92,0.03978202703266515,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.16361251935661586
+1426291,85,38,7,89,0.0003545971324726139,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.011277847316155127
+1426291,97,26,8,69,0.00037705235875886453,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.011694160015623047
+1426291,109,14,9,50,8.667125344577283e-07,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.0013529467347247514
+1426291,121,4,9,35,1.5108173071190169e-10,0,-0.33056040203019466,Punjab Kings,Chennai Super Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.0013529467347247514
+1426292,1,120,0,236,0.0005999234442586587,0,0.04098001757623285,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.019120261656340072
+1426292,13,108,1,216,0.0005531286785470634,0,0.04098001757623285,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.018231359420701684
+1426292,25,97,1,193,0.0019005190892548284,0,0.04098001757623285,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.03737962200972896
+1426292,37,86,1,182,0.0008980978375596927,0,0.04098001757623285,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.024206096807105996
+1426292,49,75,2,166,0.0004375503817292596,0,0.04098001757623285,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.015887337954562982
+1426292,61,64,4,144,0.00017382044005350027,0,0.04098001757623285,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.009216428259680852
+1426292,73,52,5,135,9.4125446643811e-06,0,0.04098001757623285,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.00168836255985874
+1426292,85,42,6,125,2.7861772011298432e-08,0,0.04098001757623285,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.00168836255985874
+1426292,97,30,8,106,1.511963300707788e-08,0,0.04098001757623285,Lucknow Super Giants,Kolkata Knight Riders,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",,0.00168836255985874
+1426293,1,120,0,174,0.32797842708049124,1,0.32993731860892783,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",,0.5585236147354942
+1426293,13,109,1,148,0.4689767254402066,1,0.32993731860892783,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",,0.6431925367570395
+1426293,25,97,2,143,0.22352045960524422,1,0.32993731860892783,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",,0.4800108161860388
+1426293,37,85,3,122,0.21050844354851916,1,0.32993731860892783,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",,0.46860951335922263
+1426293,49,73,3,95,0.5412230283216252,1,0.32993731860892783,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",,0.6818076675399526
+1426293,61,61,3,90,0.4055097788591527,1,0.32993731860892783,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",,0.6070761586095416
+1426293,73,49,3,70,0.5904964551313453,1,0.32993731860892783,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",,0.707224092415906
+1426293,85,39,3,53,0.7604174931421745,1,0.32993731860892783,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",,0.7946107235612621
+1426293,97,27,3,30,0.9486671923700003,1,0.32993731860892783,Mumbai Indians,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",,0.9171863038423713
+1426294,1,120,0,222,0.004523039950662567,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.06590835732862106
+1426294,13,110,1,214,0.001167161587413111,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.030412350138320384
+1426294,25,99,1,190,0.00447603015335993,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.06552367040324196
+1426294,37,87,1,161,0.025764850205284396,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.16801606114106862
+1426294,49,75,2,151,0.005984418785396782,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.07703816945053452
+1426294,61,63,2,131,0.011162674210967507,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.10832281595774004
+1426294,73,53,3,118,0.0025377116613757456,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.047538097802659156
+1426294,85,41,3,90,0.01911267793552864,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.14404203955659445
+1426294,97,33,3,65,0.1694097037571752,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.40608241095036174
+1426294,109,23,4,46,0.21068868796537332,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.4453272803515787
+1426294,121,11,7,37,0.0014106114521479677,0,0.17166506771600365,Rajasthan Royals,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.033935281639495815
+1426295,1,120,0,166,0.4621273777984054,1,-0.3594550230070235,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.5402241698923722
+1426295,13,110,0,149,0.5860867865528534,1,-0.3594550230070235,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6128961861074931
+1426295,25,98,0,108,0.9344105447959784,1,-0.3594550230070235,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8626875024400564
+1426295,37,86,0,65,0.9882465680605053,1,-0.3594550230070235,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.9477297096921556
+1426295,49,74,0,29,0.9950195881873942,1,-0.3594550230070235,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.968149198291871
+1426296,1,120,0,242,0.0002267801759244957,0,-0.13274670538914052,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.009733365364953719
+1426296,13,108,1,221,0.0002398671095021587,0,-0.13274670538914052,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.010061638969167
+1426296,25,96,1,197,0.0007900217146220318,0,-0.13274670538914052,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.020293086989640382
+1426296,37,85,2,171,0.0020623638460312804,0,-0.13274670538914052,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.03545605640624531
+1426296,49,73,2,147,0.00737837264588584,0,-0.13274670538914052,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.07315710070867804
+1426296,61,61,3,129,0.0028485221296365992,0,-0.13274670538914052,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.04269293488643608
+1426296,73,49,5,110,0.0013702908746495697,0,-0.13274670538914052,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.02798106926904295
+1426296,85,37,6,90,0.0003202516897315775,0,-0.13274670538914052,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.011934471913972336
+1426296,97,26,8,72,0.00015781085795252026,0,-0.13274670538914052,Punjab Kings,Royal Challengers Bengaluru,"Himachal Pradesh Cricket Association Stadium, Dharamsala",,0.007853443116477175
+1426297,1,120,0,232,0.0011074082883823285,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.023924539245059873
+1426297,13,108,2,229,1.9546687854430663e-05,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.002195029397730824
+1426297,25,96,3,210,5.933211771784889e-07,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.0014722490480742843
+1426297,37,86,3,190,3.749490397576635e-06,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.0014722490480742843
+1426297,49,74,3,165,3.856510863835802e-05,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.0032897007793366846
+1426297,61,62,3,148,5.602675275988731e-05,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.004108074692086007
+1426297,73,50,3,115,0.0018359816162923249,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.032096620538762125
+1426297,85,38,4,99,0.000779129546883695,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.019479188096472363
+1426297,97,27,5,78,0.0008058965528897325,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.019868411715922074
+1426297,109,16,6,63,2.480435870708823e-06,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.0014722490480742843
+1426297,121,4,8,40,9.097040461969502e-11,0,-0.1888091362255215,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",,0.0014722490480742843
+1426299,1,120,0,142,0.8064102612899893,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8027680425580872
+1426299,13,108,0,126,0.8685978567222988,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8428198251074492
+1426299,25,97,1,109,0.8734505700181447,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8462063316245236
+1426299,37,86,1,91,0.9384348028052295,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8982705358861274
+1426299,49,74,1,75,0.96812527427344,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9301987116507893
+1426299,61,63,2,66,0.9498715435135717,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9095435601241267
+1426299,73,51,2,57,0.9472990022096147,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9069185875381943
+1426299,85,40,3,39,0.9688349859396276,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.931094584753005
+1426299,97,29,4,25,0.9753309114897867,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.939752853454718
+1426299,109,17,5,12,0.9818229232777533,1,0.14304719351607686,Chennai Super Kings,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9494749720101683
+1426300,1,120,0,188,0.14177394590604794,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.34389272078525784
+1426300,13,108,1,164,0.19831070332964076,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.4001220120617054
+1426300,25,96,4,158,0.008296843651213557,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.08115186138353793
+1426300,37,84,4,134,0.038637238549280695,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.1839432173478349
+1426300,49,72,4,117,0.06896599880012545,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.24511858626886968
+1426300,61,61,5,101,0.06084992853781864,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.23063190846674064
+1426300,73,49,6,88,0.010530575149815884,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.09253041375230502
+1426300,85,37,6,64,0.07541585520047459,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.25591801208715387
+1426300,97,26,8,60,0.003726244370481464,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.0517875907957828
+1426300,109,15,8,53,5.3042607920121535e-05,0,-0.06275995716467853,Delhi Capitals,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.004285980787807143
+1426302,1,120,0,209,0.021536493574137488,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.16134863795581744
+1426302,13,108,1,197,0.0085830531877446,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.09927591525965844
+1426302,25,98,3,175,0.0015902427067888104,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.03856883741058653
+1426302,37,86,4,150,0.006191573627360651,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.08304199768991725
+1426302,49,74,5,138,0.0020581066993462472,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.04471366412997058
+1426302,61,63,5,121,0.005032860704869132,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.07404792558741262
+1426302,73,51,6,108,0.00023648592196211043,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.012685557849521495
+1426302,85,40,6,87,0.001722045128513595,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.04037380204830542
+1426302,97,28,7,64,0.00750086782746703,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.09225510797521518
+1426302,109,17,8,41,0.011879574656054893,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.11823370850296538
+1426302,121,5,9,23,9.839840944146027e-05,0,0.2740622740390102,Lucknow Super Giants,Delhi Capitals,"Arun Jaitley Stadium, Delhi",,0.007553996765860611
+1426303,1,120,0,145,0.7753836880006619,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.7665548744190684
+1426303,13,108,1,132,0.7117215073072739,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.7288590662865438
+1426303,25,96,1,110,0.8599781433762906,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.822432854985337
+1426303,37,84,3,106,0.49805772280732574,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.6093683221772858
+1426303,49,72,4,97,0.3501597237017779,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.5200262456152546
+1426303,61,60,4,82,0.4663388683010234,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.5911668654729837
+1426303,73,48,4,69,0.49327765829196163,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.6066475629970529
+1426303,85,36,4,56,0.4934758168962995,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.6067604959751766
+1426303,97,25,5,34,0.6894144282364798,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.7161278406993374
+1426303,109,13,5,21,0.5150013266163584,1,-0.028740078385062578,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",,0.6189585058020791
+1426305,1,120,0,215,0.010883719882633853,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.10263985460718937
+1426305,13,110,0,194,0.027141990273991952,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.1662018470894256
+1426305,25,99,0,188,0.009380791148197043,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.09467412939101517
+1426305,37,87,0,167,0.017225851979365995,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.13121235862640035
+1426305,49,75,0,145,0.03536073106646586,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.19003162388610215
+1426305,61,63,2,126,0.023648186318175148,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.15483227845295747
+1426305,73,51,3,115,0.002536991870149897,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.04553567941660024
+1426305,85,39,4,99,0.00114605177043765,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.02880727906510626
+1426305,97,28,5,84,0.00026441137684015943,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.012200909128259278
+1426305,109,18,5,66,4.30508908243475e-05,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.004161407148821318
+1426305,121,8,5,36,0.0001999681142547544,0,0.09634590996995832,Mumbai Indians,Lucknow Super Giants,"Wankhede Stadium, Mumbai",,0.010345762809032617
+1426306,1,120,0,219,0.00666123116903659,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.08614964579121673
+1426306,13,109,1,200,0.006903952103984794,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.08785841742374834
+1426306,25,97,2,183,0.0035815748464451793,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.06100414065220536
+1426306,37,85,2,162,0.008074830240286079,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.09570895608653414
+1426306,49,73,2,145,0.009994966660782626,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.10742434459049385
+1426306,61,62,3,134,0.0013416301882048461,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.0348437680501798
+1426306,73,51,3,110,0.00691586111265811,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.08794148302879602
+1426306,85,39,4,100,0.0008965347739239094,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.027589706127565304
+1426306,97,28,6,89,5.952388603396614e-06,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.0019326016867286639
+1426306,109,16,6,60,1.0405056367572632e-05,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.0019788700562655263
+1426306,121,6,6,35,2.1685839591166655e-06,0,0.26770087419375826,Chennai Super Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",,0.0019326016867286639
+1426307,1,120,0,215,0.010883719882633853,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.09288614423622579
+1426307,13,108,1,190,0.019817327578384926,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.12834174335217474
+1426307,25,96,1,165,0.05879782986792894,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.22405218875274566
+1426307,37,87,2,139,0.13956521237633746,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.3379195593309764
+1426307,49,75,2,125,0.1457871760048008,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.34474765046989964
+1426307,61,64,2,99,0.40764173973972845,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.5474063972113061
+1426307,73,52,3,74,0.5712216593736366,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.6421141801674243
+1426307,85,41,3,46,0.9243283434500053,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8707271491271037
+1426307,97,29,4,32,0.9230772058893898,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8695294618293985
+1426307,109,19,5,18,0.9368692625849163,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8832551132230084
+1426307,121,7,6,5,0.9070854331317637,1,-0.08901802592797102,Sunrisers Hyderabad,Punjab Kings,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",,0.8549061494943514
+1426309,1,120,0,160,0.5639539128791715,1,0.15662999419658402,Kolkata Knight Riders,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.6711797067295748
+1426309,13,109,0,134,0.7982776314395432,1,0.15662999419658402,Kolkata Knight Riders,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.7991797504967196
+1426309,25,97,1,111,0.8572389080533702,1,0.15662999419658402,Kolkata Knight Riders,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.8361851530629226
+1426309,37,86,1,102,0.864929865386508,1,0.15662999419658402,Kolkata Knight Riders,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.8413765976291526
+1426309,49,74,2,77,0.9271887097485757,1,0.15662999419658402,Kolkata Knight Riders,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.8888358051423249
+1426309,61,62,2,60,0.9693263249967461,1,0.15662999419658402,Kolkata Knight Riders,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.932234102023397
+1426309,73,50,2,32,0.9956235813346532,1,0.15662999419658402,Kolkata Knight Riders,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",,0.9781181036083786
+1426310,1,120,0,173,0.3441084000779272,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.5374921036431786
+1426310,13,108,0,167,0.2296972319479304,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.4533746059140407
+1426310,25,96,0,138,0.517606009028069,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.640468941413238
+1426310,37,84,1,126,0.40333662481011334,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.5748249825110745
+1426310,49,72,1,99,0.7142465716332773,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.7469198550946244
+1426310,61,60,2,88,0.5779010192993285,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.6732441987801148
+1426310,73,50,3,74,0.5064634214832966,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.6343153727144714
+1426310,85,38,4,60,0.43712057258240816,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.5949299980106786
+1426310,97,27,4,34,0.8486876204543932,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.8270375316218341
+1426310,109,17,4,16,0.9607152721547744,1,0.11538603444457517,Rajasthan Royals,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",,0.9201111618572768
+1426311,1,120,0,176,0.29658703257700697,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5169678999044868
+1426311,13,108,0,163,0.29257509376496277,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.5140891601147385
+1426311,25,96,1,152,0.18192330346308985,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.4221278745840512
+1426311,37,85,1,126,0.4269090793073485,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.6005288384308712
+1426311,49,74,1,111,0.4908888176978677,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.6368481266956195
+1426311,61,62,3,105,0.12419494620071975,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.35832369598136804
+1426311,73,50,5,97,0.018988696033084725,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.14535031435673648
+1426311,85,39,5,84,0.01540596035745267,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.1302729197522187
+1426311,97,27,6,69,0.0020045388749848625,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.04212371602224333
+1426311,109,15,6,52,0.00012727190636786025,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.008400160978249416
+1426311,121,4,7,38,6.137680430958856e-10,0,0.19600663694962933,Rajasthan Royals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.001851778528997627
+1426312,1,120,0,114,0.9483724053660135,1,0.17974260702569472,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9098206159908007
+1426312,13,110,1,101,0.9367730759019096,1,0.17974260702569472,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.8987218792381793
+1426312,25,100,1,71,0.9818598576713226,1,0.17974260702569472,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9505737605156084
+1426312,37,88,1,54,0.9891720007472852,1,0.17974260702569472,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9633520605548547
+1426312,49,76,1,28,0.9948590563325688,1,0.17974260702569472,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9762744145821175
+1426312,61,64,2,6,0.9989198432713808,1,0.17974260702569472,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",,0.9905385343089058

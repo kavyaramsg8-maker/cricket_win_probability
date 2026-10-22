@@ -1,0 +1,814 @@
+[
+  {
+    "venue": "Eden Gardens",
+    "matches": 71,
+    "chase_wins": 42,
+    "empirical_win_rate": 0.5915492957746479,
+    "posterior_mean": 0.5714285714285714,
+    "credible_interval_95": [
+      0.46906622597658365,
+      0.6708157151785421
+    ],
+    "ci_lower": 0.46906622597658365,
+    "ci_upper": 0.6708157151785421,
+    "posterior_std": 0.05159393703675823
+  },
+  {
+    "venue": "Wankhede Stadium",
+    "matches": 71,
+    "chase_wins": 37,
+    "empirical_win_rate": 0.5211267605633803,
+    "posterior_mean": 0.5164835164835165,
+    "credible_interval_95": [
+      0.41426788973165823,
+      0.6180125137474134
+    ],
+    "ci_lower": 0.41426788973165823,
+    "ci_upper": 0.6180125137474134,
+    "posterior_std": 0.052100268471762766
+  },
+  {
+    "venue": "Feroz Shah Kotla",
+    "matches": 56,
+    "chase_wins": 30,
+    "empirical_win_rate": 0.5357142857142857,
+    "posterior_mean": 0.5263157894736842,
+    "credible_interval_95": [
+      0.41445418207791157,
+      0.6368647457209782
+    ],
+    "ci_lower": 0.41445418207791157,
+    "ci_upper": 0.6368647457209782,
+    "posterior_std": 0.056901313433403725
+  },
+  {
+    "venue": "M Chinnaswamy Stadium",
+    "matches": 56,
+    "chase_wins": 32,
+    "empirical_win_rate": 0.5714285714285714,
+    "posterior_mean": 0.5526315789473685,
+    "credible_interval_95": [
+      0.4405822220332352,
+      0.6620557210953414
+    ],
+    "ci_lower": 0.4405822220332352,
+    "ci_upper": 0.6620557210953414,
+    "posterior_std": 0.05666372862357422
+  },
+  {
+    "venue": "MA Chidambaram Stadium, Chepauk",
+    "matches": 46,
+    "chase_wins": 16,
+    "empirical_win_rate": 0.34782608695652173,
+    "posterior_mean": 0.3939393939393939,
+    "credible_interval_95": [
+      0.2803996418671456,
+      0.5135702672227331
+    ],
+    "ci_lower": 0.2803996418671456,
+    "ci_upper": 0.5135702672227331,
+    "posterior_std": 0.059694639355572746
+  },
+  {
+    "venue": "Rajiv Gandhi International Stadium, Uppal",
+    "matches": 46,
+    "chase_wins": 27,
+    "empirical_win_rate": 0.5869565217391305,
+    "posterior_mean": 0.5606060606060606,
+    "credible_interval_95": [
+      0.4404252275411797,
+      0.6773057382251546
+    ],
+    "ci_lower": 0.4404252275411797,
+    "ci_upper": 0.6773057382251546,
+    "posterior_std": 0.06063432176898898
+  },
+  {
+    "venue": "Wankhede Stadium, Mumbai",
+    "matches": 45,
+    "chase_wins": 27,
+    "empirical_win_rate": 0.6,
+    "posterior_mean": 0.5692307692307692,
+    "credible_interval_95": [
+      0.44815862493697944,
+      0.686265246451504
+    ],
+    "ci_lower": 0.44815862493697944,
+    "ci_upper": 0.686265246451504,
+    "posterior_std": 0.06095292527741785
+  },
+  {
+    "venue": "Sawai Mansingh Stadium",
+    "matches": 44,
+    "chase_wins": 30,
+    "empirical_win_rate": 0.6818181818181818,
+    "posterior_mean": 0.625,
+    "credible_interval_95": [
+      0.5040487779950485,
+      0.7385486897528575
+    ],
+    "ci_lower": 0.5040487779950485,
+    "ci_upper": 0.7385486897528575,
+    "posterior_std": 0.06004805767690768
+  },
+  {
+    "venue": "Dubai International Cricket Stadium",
+    "matches": 43,
+    "chase_wins": 22,
+    "empirical_win_rate": 0.5116279069767442,
+    "posterior_mean": 0.5079365079365079,
+    "credible_interval_95": [
+      0.3856391239740676,
+      0.629756275327085
+    ],
+    "ci_lower": 0.3856391239740676,
+    "ci_upper": 0.629756275327085,
+    "posterior_std": 0.06249212598422072
+  },
+  {
+    "venue": "Punjab Cricket Association Stadium, Mohali",
+    "matches": 34,
+    "chase_wins": 20,
+    "empirical_win_rate": 0.5882352941176471,
+    "posterior_mean": 0.5555555555555556,
+    "credible_interval_95": [
+      0.4228258323790298,
+      0.6843847161359013
+    ],
+    "ci_lower": 0.4228258323790298,
+    "ci_upper": 0.6843847161359013,
+    "posterior_std": 0.06700252101728081
+  },
+  {
+    "venue": "Sharjah Cricket Stadium",
+    "matches": 28,
+    "chase_wins": 18,
+    "empirical_win_rate": 0.6428571428571429,
+    "posterior_mean": 0.5833333333333334,
+    "credible_interval_95": [
+      0.4426638424895731,
+      0.717420993216501
+    ],
+    "ci_lower": 0.4426638424895731,
+    "ci_upper": 0.717420993216501,
+    "posterior_std": 0.07042952122737638
+  },
+  {
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 27,
+    "chase_wins": 14,
+    "empirical_win_rate": 0.5185185185185185,
+    "posterior_mean": 0.5106382978723404,
+    "credible_interval_95": [
+      0.3694564735699834,
+      0.6509618475762944
+    ],
+    "ci_lower": 0.3694564735699834,
+    "ci_upper": 0.6509618475762944,
+    "posterior_std": 0.07215244662899221
+  },
+  {
+    "venue": "Sheikh Zayed Stadium",
+    "matches": 26,
+    "chase_wins": 16,
+    "empirical_win_rate": 0.6153846153846154,
+    "posterior_mean": 0.5652173913043478,
+    "credible_interval_95": [
+      0.42150328448812835,
+      0.7035560761341417
+    ],
+    "ci_lower": 0.42150328448812835,
+    "ci_upper": 0.7035560761341417,
+    "posterior_std": 0.07230942551660612
+  },
+  {
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 23,
+    "chase_wins": 14,
+    "empirical_win_rate": 0.6086956521739131,
+    "posterior_mean": 0.5581395348837209,
+    "credible_interval_95": [
+      0.40961127076287007,
+      0.7015411868036825
+    ],
+    "ci_lower": 0.40961127076287007,
+    "ci_upper": 0.7015411868036825,
+    "posterior_std": 0.0748665167426037
+  },
+  {
+    "venue": "Maharashtra Cricket Association Stadium",
+    "matches": 22,
+    "chase_wins": 14,
+    "empirical_win_rate": 0.6363636363636364,
+    "posterior_mean": 0.5714285714285714,
+    "credible_interval_95": [
+      0.4210961427123296,
+      0.7153129231920743
+    ],
+    "ci_lower": 0.4210961427123296,
+    "ci_upper": 0.7153129231920743,
+    "posterior_std": 0.07546722054219633
+  },
+  {
+    "venue": "Dr DY Patil Sports Academy, Mumbai",
+    "matches": 20,
+    "chase_wins": 10,
+    "empirical_win_rate": 0.5,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.34780220935734085,
+      0.6521977906426591
+    ],
+    "ci_lower": 0.34780220935734085,
+    "ci_upper": 0.6521977906426591,
+    "posterior_std": 0.07808688094430304
+  },
+  {
+    "venue": "Brabourne Stadium, Mumbai",
+    "matches": 17,
+    "chase_wins": 9,
+    "empirical_win_rate": 0.5294117647058824,
+    "posterior_mean": 0.5135135135135135,
+    "credible_interval_95": [
+      0.35486379853731,
+      0.6707782005422896
+    ],
+    "ci_lower": 0.35486379853731,
+    "ci_upper": 0.6707782005422896,
+    "posterior_std": 0.08108108108108109
+  },
+  {
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 16,
+    "chase_wins": 7,
+    "empirical_win_rate": 0.4375,
+    "posterior_mean": 0.4722222222222222,
+    "credible_interval_95": [
+      0.3138285092147233,
+      0.6335419828785478
+    ],
+    "ci_lower": 0.3138285092147233,
+    "ci_upper": 0.6335419828785478,
+    "posterior_std": 0.08207254455197488
+  },
+  {
+    "venue": "Subrata Roy Sahara Stadium",
+    "matches": 16,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.375,
+    "posterior_mean": 0.4444444444444444,
+    "credible_interval_95": [
+      0.288271443790757,
+      0.6064690577399962
+    ],
+    "ci_lower": 0.288271443790757,
+    "ci_upper": 0.6064690577399962,
+    "posterior_std": 0.08169051356597863
+  },
+  {
+    "venue": "Dr DY Patil Sports Academy",
+    "matches": 15,
+    "chase_wins": 8,
+    "empirical_win_rate": 0.5333333333333333,
+    "posterior_mean": 0.5142857142857142,
+    "credible_interval_95": [
+      0.351292837051412,
+      0.675730729978679
+    ],
+    "ci_lower": 0.351292837051412,
+    "ci_upper": 0.675730729978679,
+    "posterior_std": 0.08329931278350429
+  },
+  {
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 15,
+    "chase_wins": 8,
+    "empirical_win_rate": 0.5333333333333333,
+    "posterior_mean": 0.5142857142857142,
+    "credible_interval_95": [
+      0.351292837051412,
+      0.675730729978679
+    ],
+    "ci_lower": 0.351292837051412,
+    "ci_upper": 0.675730729978679,
+    "posterior_std": 0.08329931278350429
+  },
+  {
+    "venue": "Kingsmead",
+    "matches": 14,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.42857142857142855,
+    "posterior_mean": 0.47058823529411764,
+    "credible_interval_95": [
+      0.3079634436047322,
+      0.6364934689851531
+    ],
+    "ci_lower": 0.3079634436047322,
+    "ci_upper": 0.6364934689851531,
+    "posterior_std": 0.0843690783059572
+  },
+  {
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matches": 14,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.42857142857142855,
+    "posterior_mean": 0.47058823529411764,
+    "credible_interval_95": [
+      0.3079634436047322,
+      0.6364934689851531
+    ],
+    "ci_lower": 0.3079634436047322,
+    "ci_upper": 0.6364934689851531,
+    "posterior_std": 0.0843690783059572
+  },
+  {
+    "venue": "M.Chinnaswamy Stadium",
+    "matches": 14,
+    "chase_wins": 7,
+    "empirical_win_rate": 0.5,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.3354444783885558,
+      0.6645555216114442
+    ],
+    "ci_lower": 0.3354444783885558,
+    "ci_upper": 0.6645555216114442,
+    "posterior_std": 0.08451542547285165
+  },
+  {
+    "venue": "Rajiv Gandhi International Stadium",
+    "matches": 14,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.42857142857142855,
+    "posterior_mean": 0.47058823529411764,
+    "credible_interval_95": [
+      0.3079634436047322,
+      0.6364934689851531
+    ],
+    "ci_lower": 0.3079634436047322,
+    "ci_upper": 0.6364934689851531,
+    "posterior_std": 0.0843690783059572
+  },
+  {
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matches": 13,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.46153846153846156,
+    "posterior_mean": 0.48484848484848486,
+    "credible_interval_95": [
+      0.318874964234164,
+      0.6525631907136071
+    ],
+    "ci_lower": 0.318874964234164,
+    "ci_upper": 0.6525631907136071,
+    "posterior_std": 0.08570991287109667
+  },
+  {
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "matches": 13,
+    "chase_wins": 3,
+    "empirical_win_rate": 0.23076923076923078,
+    "posterior_mean": 0.3939393939393939,
+    "credible_interval_95": [
+      0.23698410055174315,
+      0.5630775449030734
+    ],
+    "ci_lower": 0.23698410055174315,
+    "ci_upper": 0.5630775449030734,
+    "posterior_std": 0.08379792708408669
+  },
+  {
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matches": 13,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.46153846153846156,
+    "posterior_mean": 0.48484848484848486,
+    "credible_interval_95": [
+      0.318874964234164,
+      0.6525631907136071
+    ],
+    "ci_lower": 0.318874964234164,
+    "ci_upper": 0.6525631907136071,
+    "posterior_std": 0.08570991287109667
+  },
+  {
+    "venue": "Arun Jaitley Stadium",
+    "matches": 12,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.5,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.33060597305175726,
+      0.6693940269482427
+    ],
+    "ci_lower": 0.33060597305175726,
+    "ci_upper": 0.6693940269482427,
+    "posterior_std": 0.08703882797784893
+  },
+  {
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "matches": 11,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.5454545454545454,
+    "posterior_mean": 0.5161290322580645,
+    "credible_interval_95": [
+      0.3432552381607341,
+      0.6870297141319726
+    ],
+    "ci_lower": 0.3432552381607341,
+    "ci_upper": 0.6870297141319726,
+    "posterior_std": 0.08834234798470421
+  },
+  {
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "matches": 11,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.5454545454545454,
+    "posterior_mean": 0.5161290322580645,
+    "credible_interval_95": [
+      0.3432552381607341,
+      0.6870297141319726
+    ],
+    "ci_lower": 0.3432552381607341,
+    "ci_upper": 0.6870297141319726,
+    "posterior_std": 0.08834234798470421
+  },
+  {
+    "venue": "Sardar Patel Stadium, Motera",
+    "matches": 11,
+    "chase_wins": 5,
+    "empirical_win_rate": 0.45454545454545453,
+    "posterior_mean": 0.4838709677419355,
+    "credible_interval_95": [
+      0.31297028586802744,
+      0.6567447618392659
+    ],
+    "ci_lower": 0.31297028586802744,
+    "ci_upper": 0.6567447618392659,
+    "posterior_std": 0.08834234798470421
+  },
+  {
+    "venue": "Brabourne Stadium",
+    "matches": 10,
+    "chase_wins": 4,
+    "empirical_win_rate": 0.4,
+    "posterior_mean": 0.4666666666666667,
+    "credible_interval_95": [
+      0.294485582951841,
+      0.6430612891960847
+    ],
+    "ci_lower": 0.294485582951841,
+    "ci_upper": 0.6430612891960847,
+    "posterior_std": 0.08960286733763294
+  },
+  {
+    "venue": "Punjab Cricket Association IS Bindra Stadium",
+    "matches": 10,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.6,
+    "posterior_mean": 0.5333333333333333,
+    "credible_interval_95": [
+      0.35693871080391515,
+      0.7055144170481589
+    ],
+    "ci_lower": 0.35693871080391515,
+    "ci_upper": 0.7055144170481589,
+    "posterior_std": 0.08960286733763294
+  },
+  {
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matches": 10,
+    "chase_wins": 5,
+    "empirical_win_rate": 0.5,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.32531499636145644,
+      0.6746850036385436
+    ],
+    "ci_lower": 0.32531499636145644,
+    "ci_upper": 0.6746850036385436,
+    "posterior_std": 0.08980265101338746
+  },
+  {
+    "venue": "Holkar Cricket Stadium",
+    "matches": 9,
+    "chase_wins": 8,
+    "empirical_win_rate": 0.8888888888888888,
+    "posterior_mean": 0.6206896551724138,
+    "credible_interval_95": [
+      0.44065031274666655,
+      0.784957170839039
+    ],
+    "ci_lower": 0.44065031274666655,
+    "ci_upper": 0.784957170839039,
+    "posterior_std": 0.08858781088734571
+  },
+  {
+    "venue": "MA Chidambaram Stadium",
+    "matches": 9,
+    "chase_wins": 5,
+    "empirical_win_rate": 0.5555555555555556,
+    "posterior_mean": 0.5172413793103449,
+    "credible_interval_95": [
+      0.33869907611460004,
+      0.693529038467682
+    ],
+    "ci_lower": 0.33869907611460004,
+    "ci_upper": 0.693529038467682,
+    "posterior_std": 0.09123280382981347
+  },
+  {
+    "venue": "Saurashtra Cricket Association Stadium",
+    "matches": 9,
+    "chase_wins": 6,
+    "empirical_win_rate": 0.6666666666666666,
+    "posterior_mean": 0.5517241379310345,
+    "credible_interval_95": [
+      0.3717936286120959,
+      0.7248914397034039
+    ],
+    "ci_lower": 0.3717936286120959,
+    "ci_upper": 0.7248914397034039,
+    "posterior_std": 0.09079732256612183
+  },
+  {
+    "venue": "SuperSport Park",
+    "matches": 9,
+    "chase_wins": 7,
+    "empirical_win_rate": 0.7777777777777778,
+    "posterior_mean": 0.5862068965517241,
+    "credible_interval_95": [
+      0.4057682064875631,
+      0.7553760636978534
+    ],
+    "ci_lower": 0.4057682064875631,
+    "ci_upper": 0.7553760636978534,
+    "posterior_std": 0.08992003317520895
+  },
+  {
+    "venue": "Himachal Pradesh Cricket Association Stadium",
+    "matches": 8,
+    "chase_wins": 4,
+    "empirical_win_rate": 0.5,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.3194965461333836,
+      0.6805034538666164
+    ],
+    "ci_lower": 0.3194965461333836,
+    "ci_upper": 0.6805034538666164,
+    "posterior_std": 0.09284766908852593
+  },
+  {
+    "venue": "New Wanderers Stadium",
+    "matches": 8,
+    "chase_wins": 5,
+    "empirical_win_rate": 0.625,
+    "posterior_mean": 0.5357142857142857,
+    "credible_interval_95": [
+      0.35326423032200543,
+      0.7133274518680603
+    ],
+    "ci_lower": 0.35326423032200543,
+    "ci_upper": 0.7133274518680603,
+    "posterior_std": 0.09261050990404297
+  },
+  {
+    "venue": "Zayed Cricket Stadium, Abu Dhabi",
+    "matches": 8,
+    "chase_wins": 5,
+    "empirical_win_rate": 0.625,
+    "posterior_mean": 0.5357142857142857,
+    "credible_interval_95": [
+      0.35326423032200543,
+      0.7133274518680603
+    ],
+    "ci_lower": 0.35326423032200543,
+    "ci_upper": 0.7133274518680603,
+    "posterior_std": 0.09261050990404297
+  },
+  {
+    "venue": "Barabati Stadium",
+    "matches": 7,
+    "chase_wins": 3,
+    "empirical_win_rate": 0.42857142857142855,
+    "posterior_mean": 0.48148148148148145,
+    "credible_interval_95": [
+      0.29927217944159645,
+      0.6662917815247077
+    ],
+    "ci_lower": 0.29927217944159645,
+    "ci_upper": 0.6662917815247077,
+    "posterior_std": 0.09442628728875527
+  },
+  {
+    "venue": "JSCA International Stadium Complex",
+    "matches": 6,
+    "chase_wins": 5,
+    "empirical_win_rate": 0.8333333333333334,
+    "posterior_mean": 0.5769230769230769,
+    "credible_interval_95": [
+      0.38665349625683987,
+      0.7559763348527919
+    ],
+    "ci_lower": 0.38665349625683987,
+    "ci_upper": 0.7559763348527919,
+    "posterior_std": 0.09507946778327774
+  },
+  {
+    "venue": "Shaheed Veer Narayan Singh International Stadium",
+    "matches": 6,
+    "chase_wins": 4,
+    "empirical_win_rate": 0.6666666666666666,
+    "posterior_mean": 0.5384615384615384,
+    "credible_interval_95": [
+      0.34928163399133577,
+      0.7220319903300534
+    ],
+    "ci_lower": 0.34928163399133577,
+    "ci_upper": 0.7220319903300534,
+    "posterior_std": 0.09593993299420363
+  },
+  {
+    "venue": "St George's Park",
+    "matches": 6,
+    "chase_wins": 4,
+    "empirical_win_rate": 0.6666666666666666,
+    "posterior_mean": 0.5384615384615384,
+    "credible_interval_95": [
+      0.34928163399133577,
+      0.7220319903300534
+    ],
+    "ci_lower": 0.34928163399133577,
+    "ci_upper": 0.7220319903300534,
+    "posterior_std": 0.09593993299420363
+  },
+  {
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matches": 5,
+    "chase_wins": 3,
+    "empirical_win_rate": 0.6,
+    "posterior_mean": 0.52,
+    "credible_interval_95": [
+      0.32820807569517796,
+      0.708758220163788
+    ],
+    "ci_lower": 0.32820807569517796,
+    "ci_upper": 0.708758220163788,
+    "posterior_std": 0.09797958971132711
+  },
+  {
+    "venue": "Newlands",
+    "matches": 5,
+    "chase_wins": 1,
+    "empirical_win_rate": 0.2,
+    "posterior_mean": 0.44,
+    "credible_interval_95": [
+      0.25553020199474624,
+      0.6335693543436376
+    ],
+    "ci_lower": 0.25553020199474624,
+    "ci_upper": 0.6335693543436376,
+    "posterior_std": 0.09734948935111615
+  },
+  {
+    "venue": "Green Park",
+    "matches": 4,
+    "chase_wins": 4,
+    "empirical_win_rate": 1.0,
+    "posterior_mean": 0.5833333333333334,
+    "credible_interval_95": [
+      0.3854189573888496,
+      0.7680858004617686
+    ],
+    "ci_lower": 0.3854189573888496,
+    "ci_upper": 0.7680858004617686,
+    "posterior_std": 0.09860132971832694
+  },
+  {
+    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
+    "matches": 4,
+    "chase_wins": 1,
+    "empirical_win_rate": 0.25,
+    "posterior_mean": 0.4583333333333333,
+    "credible_interval_95": [
+      0.26819618617555346,
+      0.6550533925476254
+    ],
+    "ci_lower": 0.26819618617555346,
+    "ci_upper": 0.6550533925476254,
+    "posterior_std": 0.09965217285917831
+  },
+  {
+    "venue": "Nehru Stadium",
+    "matches": 4,
+    "chase_wins": 1,
+    "empirical_win_rate": 0.25,
+    "posterior_mean": 0.4583333333333333,
+    "credible_interval_95": [
+      0.26819618617555346,
+      0.6550533925476254
+    ],
+    "ci_lower": 0.26819618617555346,
+    "ci_upper": 0.6550533925476254,
+    "posterior_std": 0.09965217285917831
+  },
+  {
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "matches": 4,
+    "chase_wins": 2,
+    "empirical_win_rate": 0.5,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.30587800149137395,
+      0.694121998508626
+    ],
+    "ci_lower": 0.30587800149137395,
+    "ci_upper": 0.694121998508626,
+    "posterior_std": 0.1
+  },
+  {
+    "venue": "Barsapara Cricket Stadium, Guwahati",
+    "matches": 3,
+    "chase_wins": 1,
+    "empirical_win_rate": 0.3333333333333333,
+    "posterior_mean": 0.4782608695652174,
+    "credible_interval_95": [
+      0.2822105209380929,
+      0.6778952454468283
+    ],
+    "ci_lower": 0.2822105209380929,
+    "ci_upper": 0.6778952454468283,
+    "posterior_std": 0.10196555999616151
+  },
+  {
+    "venue": "Buffalo Park",
+    "matches": 3,
+    "chase_wins": 1,
+    "empirical_win_rate": 0.3333333333333333,
+    "posterior_mean": 0.4782608695652174,
+    "credible_interval_95": [
+      0.2822105209380929,
+      0.6778952454468283
+    ],
+    "ci_lower": 0.2822105209380929,
+    "ci_upper": 0.6778952454468283,
+    "posterior_std": 0.10196555999616151
+  },
+  {
+    "venue": "De Beers Diamond Oval",
+    "matches": 3,
+    "chase_wins": 2,
+    "empirical_win_rate": 0.6666666666666666,
+    "posterior_mean": 0.5217391304347826,
+    "credible_interval_95": [
+      0.3221047545531717,
+      0.717789479061907
+    ],
+    "ci_lower": 0.3221047545531717,
+    "ci_upper": 0.717789479061907,
+    "posterior_std": 0.10196555999616151
+  },
+  {
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha",
+    "matches": 3,
+    "chase_wins": 1,
+    "empirical_win_rate": 0.3333333333333333,
+    "posterior_mean": 0.4782608695652174,
+    "credible_interval_95": [
+      0.2822105209380929,
+      0.6778952454468283
+    ],
+    "ci_lower": 0.2822105209380929,
+    "ci_upper": 0.6778952454468283,
+    "posterior_std": 0.10196555999616151
+  },
+  {
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "matches": 2,
+    "chase_wins": 0,
+    "empirical_win_rate": 0.0,
+    "posterior_mean": 0.45454545454545453,
+    "credible_interval_95": [
+      0.25713062640640744,
+      0.6597936907197254
+    ],
+    "ci_lower": 0.25713062640640744,
+    "ci_upper": 0.6597936907197254,
+    "posterior_std": 0.1038254983127565
+  },
+  {
+    "venue": "OUTsurance Oval",
+    "matches": 2,
+    "chase_wins": 1,
+    "empirical_win_rate": 0.5,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.29780683878364417,
+      0.7021931612163559
+    ],
+    "ci_lower": 0.29780683878364417,
+    "ci_upper": 0.7021931612163559,
+    "posterior_std": 0.10425720702853739
+  }
+]

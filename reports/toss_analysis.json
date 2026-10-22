@@ -1,18 +1,84 @@
 {
-  "matches": 70,
-  "wins": 37,
-  "posterior_mean": 0.5277777777777778,
-  "credible_interval_95": [
-    0.41287215435691205,
-    0.6412208135344315
-  ],
-  "p_value": 0.7202027723528612,
-  "confidence_interval_95": [
-    0.40552760075502886,
-    0.6491215447843341
-  ],
-  "toss_decision_chi_square": {
-    "p_value": 0.01463046059722327,
-    "minimum_expected_count": 5.6571428571428575
+  "test_season": {
+    "matches": 70,
+    "wins": 31,
+    "posterior_mean": 0.4444444444444444,
+    "credible_interval_95": [
+      0.3322691823236738,
+      0.5595447667203676
+    ],
+    "posterior_alpha": 32.0,
+    "posterior_beta": 40.0,
+    "posterior_std": 0.05815821362113485,
+    "p_value": 0.40296307504607976,
+    "confidence_interval_95": [
+      0.3241105496718568,
+      0.5665928303565481
+    ],
+    "z_statistic": -0.9561828874675149,
+    "z_test_p_value": 0.33897984397912184,
+    "observed_proportion": 0.44285714285714284,
+    "null_hypothesis": "P(Toss winner wins match) == 0.5",
+    "is_statistically_significant": false,
+    "toss_decision_chi_square": {
+      "chi2_statistic": 0.24474166489546512,
+      "p_value": 0.620802215300063,
+      "degrees_of_freedom": 1,
+      "minimum_expected_count": 8.414285714285715,
+      "cochran_condition_met": true,
+      "odds_ratio_field_vs_bat": 1.5238095238095237,
+      "is_statistically_significant": false,
+      "contingency_table": {
+        "bat": {
+          "win": 7,
+          "loss": 12
+        },
+        "field": {
+          "win": 24,
+          "loss": 27
+        }
+      }
+    }
+  },
+  "full_dataset": {
+    "matches": 1034,
+    "wins": 527,
+    "posterior_mean": 0.5096525096525096,
+    "credible_interval_95": [
+      0.4792148507304803,
+      0.5400548677523644
+    ],
+    "posterior_alpha": 528.0,
+    "posterior_beta": 508.0,
+    "posterior_std": 0.015523858797189267,
+    "p_value": 0.5546270741259828,
+    "confidence_interval_95": [
+      0.47872671959567853,
+      0.5405604451917887
+    ],
+    "z_statistic": 0.6219704135711229,
+    "z_test_p_value": 0.5339613227678779,
+    "observed_proportion": 0.5096711798839458,
+    "null_hypothesis": "P(Toss winner wins match) == 0.5",
+    "is_statistically_significant": false,
+    "toss_decision_chi_square": {
+      "chi2_statistic": 6.129912141550981,
+      "p_value": 0.013291347596990868,
+      "degrees_of_freedom": 1,
+      "minimum_expected_count": 181.42166344294003,
+      "cochran_condition_met": true,
+      "odds_ratio_field_vs_bat": 1.3914607263023555,
+      "is_statistically_significant": true,
+      "contingency_table": {
+        "bat": {
+          "win": 169,
+          "loss": 201
+        },
+        "field": {
+          "win": 358,
+          "loss": 306
+        }
+      }
+    }
   }
 }

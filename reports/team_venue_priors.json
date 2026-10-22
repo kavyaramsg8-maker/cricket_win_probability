@@ -8,7 +8,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Delhi Capitals",
@@ -19,7 +22,10 @@
     "credible_interval_95": [
       0.184051567640083,
       0.8159484323599169
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Delhi Daredevils",
@@ -30,7 +36,10 @@
     "credible_interval_95": [
       0.184051567640083,
       0.8159484323599169
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Kings XI Punjab",
@@ -41,7 +50,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kolkata Knight Riders",
@@ -52,7 +64,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
@@ -63,7 +78,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Rajasthan Royals",
@@ -74,7 +92,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -85,7 +106,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -96,32 +120,13 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Chennai Super Kings",
-    "venue": "Arun Jaitley Stadium, Delhi",
-    "matches": 4,
-    "wins": 2,
-    "posterior_mean": 0.5,
-    "credible_interval_95": [
-      0.14663279963467313,
-      0.8533672003653268
-    ]
-  },
-  {
-    "team": "Delhi Capitals",
-    "venue": "Arun Jaitley Stadium, Delhi",
-    "matches": 16,
-    "wins": 6,
-    "posterior_mean": 0.3888888888888889,
-    "credible_interval_95": [
-      0.18443696178394667,
-      0.6167163365565971
-    ]
-  },
-  {
-    "team": "Gujarat Titans",
     "venue": "Arun Jaitley Stadium, Delhi",
     "matches": 3,
     "wins": 2,
@@ -129,21 +134,41 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
+  },
+  {
+    "team": "Delhi Capitals",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 7,
+    "wins": 2,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.08523341413725354,
+      0.6508557944128242
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14907119849998599
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
-    "venue": "Arun Jaitley Stadium, Delhi",
-    "matches": 3,
-    "wins": 1,
-    "posterior_mean": 0.4,
-    "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
-  },
-  {
-    "team": "Lucknow Super Giants",
     "venue": "Arun Jaitley Stadium, Delhi",
     "matches": 1,
     "wins": 0,
@@ -151,18 +176,24 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
     "venue": "Arun Jaitley Stadium, Delhi",
-    "matches": 5,
-    "wins": 4,
-    "posterior_mean": 0.7142857142857143,
+    "matches": 3,
+    "wins": 3,
+    "posterior_mean": 0.8,
     "credible_interval_95": [
-      0.35876542100232517,
-      0.9567281317072583
-    ]
+      0.3976353643835253,
+      0.9936905367902902
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Punjab Kings",
@@ -173,18 +204,24 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
     "venue": "Arun Jaitley Stadium, Delhi",
-    "matches": 4,
-    "wins": 2,
+    "matches": 2,
+    "wins": 1,
     "posterior_mean": 0.5,
     "credible_interval_95": [
-      0.14663279963467313,
-      0.8533672003653268
-    ]
+      0.09429932405024609,
+      0.9057006759497539
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -195,29 +232,24 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "Arun Jaitley Stadium, Delhi",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
     "venue": "Arun Jaitley Stadium, Delhi",
-    "matches": 5,
-    "wins": 3,
-    "posterior_mean": 0.5714285714285714,
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
     "credible_interval_95": [
-      0.22277809550351213,
-      0.8818827512429748
-    ]
+      0.06758598648854294,
+      0.8058795503167565
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Chennai Super Kings",
@@ -228,7 +260,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Deccan Chargers",
@@ -239,7 +274,10 @@
     "credible_interval_95": [
       0.2835820638819105,
       0.9472550494736831
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Delhi Daredevils",
@@ -250,7 +288,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kings XI Punjab",
@@ -261,7 +302,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kolkata Knight Riders",
@@ -272,7 +316,10 @@
     "credible_interval_95": [
       0.3976353643835253,
       0.9936905367902902
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Mumbai Indians",
@@ -283,7 +330,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Pune Warriors",
@@ -294,18 +344,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
-  },
-  {
-    "team": "Chennai Super Kings",
-    "venue": "Barsapara Cricket Stadium, Guwahati",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Capitals",
@@ -316,10 +358,13 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
-    "team": "Kolkata Knight Riders",
+    "team": "Punjab Kings",
     "venue": "Barsapara Cricket Stadium, Guwahati",
     "matches": 1,
     "wins": 1,
@@ -327,109 +372,83 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
-  },
-  {
-    "team": "Punjab Kings",
-    "venue": "Barsapara Cricket Stadium, Guwahati",
-    "matches": 2,
-    "wins": 2,
-    "posterior_mean": 0.75,
-    "credible_interval_95": [
-      0.2924017738212866,
-      0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
     "venue": "Barsapara Cricket Stadium, Guwahati",
-    "matches": 5,
-    "wins": 2,
-    "posterior_mean": 0.42857142857142855,
-    "credible_interval_95": [
-      0.11811724875702521,
-      0.7772219044964879
-    ]
-  },
-  {
-    "team": "Chennai Super Kings",
-    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
     "matches": 2,
     "wins": 1,
     "posterior_mean": 0.5,
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Delhi Capitals",
     "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
     "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Gujarat Titans",
     "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    "matches": 3,
-    "wins": 1,
-    "posterior_mean": 0.4,
-    "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
-  },
-  {
-    "team": "Kolkata Knight Riders",
-    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
     "matches": 1,
     "wins": 1,
     "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Lucknow Super Giants",
     "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    "matches": 20,
-    "wins": 9,
-    "posterior_mean": 0.45454545454545453,
+    "matches": 6,
+    "wins": 3,
+    "posterior_mean": 0.5,
     "credible_interval_95": [
-      0.25713062640640744,
-      0.6597936907197254
-    ]
+      0.184051567640083,
+      0.8159484323599169
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Mumbai Indians",
     "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    "matches": 3,
+    "matches": 1,
     "wins": 0,
-    "posterior_mean": 0.2,
+    "posterior_mean": 0.3333333333333333,
     "credible_interval_95": [
-      0.006309463209709866,
-      0.6023646356164746
-    ]
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Punjab Kings",
-    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
-    "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
-  },
-  {
-    "team": "Rajasthan Royals",
     "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
     "matches": 1,
     "wins": 1,
@@ -437,7 +456,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -448,29 +470,24 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    "matches": 2,
-    "wins": 1,
-    "posterior_mean": 0.5,
-    "credible_interval_95": [
-      0.09429932405024609,
-      0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
     "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
     "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -481,7 +498,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Deccan Chargers",
@@ -492,7 +512,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -503,7 +526,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kings XI Punjab",
@@ -514,7 +540,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -525,7 +554,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Mumbai Indians",
@@ -536,7 +568,10 @@
     "credible_interval_95": [
       0.3491442055871758,
       0.9147665858627465
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.14907119849998599
   },
   {
     "team": "Rajasthan Royals",
@@ -547,7 +582,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -558,7 +596,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -569,7 +610,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -580,7 +624,10 @@
     "credible_interval_95": [
       0.0050507633794680575,
       0.5218237501049814
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.14085904245475275
   },
   {
     "team": "Delhi Capitals",
@@ -591,7 +638,10 @@
     "credible_interval_95": [
       0.4781762498950185,
       0.9949492366205319
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.14085904245475275
   },
   {
     "team": "Gujarat Titans",
@@ -602,7 +652,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kolkata Knight Riders",
@@ -613,7 +666,10 @@
     "credible_interval_95": [
       0.006309463209709866,
       0.6023646356164746
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Lucknow Super Giants",
@@ -624,7 +680,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Mumbai Indians",
@@ -635,7 +694,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Punjab Kings",
@@ -646,7 +708,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Rajasthan Royals",
@@ -657,7 +722,10 @@
     "credible_interval_95": [
       0.3976353643835253,
       0.9936905367902902
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -668,7 +736,10 @@
     "credible_interval_95": [
       0.006309463209709866,
       0.6023646356164746
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -679,7 +750,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Chennai Super Kings",
@@ -690,7 +764,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Deccan Chargers",
@@ -701,7 +778,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -712,7 +792,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -723,7 +806,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
@@ -734,7 +820,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Chennai Super Kings",
@@ -745,7 +834,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Deccan Chargers",
@@ -756,7 +848,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kings XI Punjab",
@@ -767,7 +862,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
@@ -778,7 +876,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Chennai Super Kings",
@@ -789,7 +890,10 @@
     "credible_interval_95": [
       0.2835820638819105,
       0.9472550494736831
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Deccan Chargers",
@@ -800,7 +904,10 @@
     "credible_interval_95": [
       0.043271868292741676,
       0.6412345789976748
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15971914124998499
   },
   {
     "team": "Delhi Daredevils",
@@ -811,7 +918,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kochi Tuskers Kerala",
@@ -822,7 +932,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -833,7 +946,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Mumbai Indians",
@@ -844,7 +960,10 @@
     "credible_interval_95": [
       0.4212768029568048,
       0.9633074338239145
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.14433756729740643
   },
   {
     "team": "Pune Warriors",
@@ -855,7 +974,10 @@
     "credible_interval_95": [
       0.03669256617608555,
       0.5787231970431952
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14433756729740643
   },
   {
     "team": "Rajasthan Royals",
@@ -866,7 +988,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -877,7 +1002,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Chennai Super Kings",
@@ -888,7 +1016,10 @@
     "credible_interval_95": [
       0.2835820638819105,
       0.9472550494736831
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Delhi Capitals",
@@ -899,7 +1030,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Gujarat Titans",
@@ -910,7 +1044,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Kolkata Knight Riders",
@@ -921,7 +1058,10 @@
     "credible_interval_95": [
       0.052744950526316906,
       0.7164179361180895
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Lucknow Super Giants",
@@ -932,7 +1072,10 @@
     "credible_interval_95": [
       0.2835820638819105,
       0.9472550494736831
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Mumbai Indians",
@@ -943,7 +1086,10 @@
     "credible_interval_95": [
       0.052744950526316906,
       0.7164179361180895
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Punjab Kings",
@@ -954,7 +1100,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Rajasthan Royals",
@@ -965,7 +1114,10 @@
     "credible_interval_95": [
       0.052744950526316906,
       0.7164179361180895
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -976,7 +1128,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -987,7 +1142,10 @@
     "credible_interval_95": [
       0.2835820638819105,
       0.9472550494736831
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Chennai Super Kings",
@@ -998,7 +1156,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Deccan Chargers",
@@ -1009,7 +1170,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Delhi Capitals",
@@ -1020,7 +1184,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Delhi Daredevils",
@@ -1031,7 +1198,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kings XI Punjab",
@@ -1042,7 +1212,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Mumbai Indians",
@@ -1053,7 +1226,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Rajasthan Royals",
@@ -1064,7 +1240,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rising Pune Supergiants",
@@ -1075,7 +1254,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -1086,62 +1268,10 @@
     "credible_interval_95": [
       0.11811724875702521,
       0.7772219044964879
-    ]
-  },
-  {
-    "team": "Chennai Super Kings",
-    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
-  },
-  {
-    "team": "Delhi Capitals",
-    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
-    "matches": 4,
-    "wins": 3,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.2835820638819105,
-      0.9472550494736831
-    ]
-  },
-  {
-    "team": "Kolkata Knight Riders",
-    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
-  },
-  {
-    "team": "Lucknow Super Giants",
-    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
-  },
-  {
-    "team": "Sunrisers Hyderabad",
-    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Chennai Super Kings",
@@ -1152,7 +1282,10 @@
     "credible_interval_95": [
       0.38380373254115413,
       0.8366356761404865
-    ]
+    ],
+    "posterior_alpha": 10.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.11741705457846553
   },
   {
     "team": "Delhi Capitals",
@@ -1163,7 +1296,10 @@
     "credible_interval_95": [
       0.19223244180128798,
       0.6842223970859369
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 8.0,
+    "posterior_std": 0.12777531299998798
   },
   {
     "team": "Delhi Daredevils",
@@ -1174,7 +1310,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kings XI Punjab",
@@ -1185,7 +1324,10 @@
     "credible_interval_95": [
       0.2904208637373427,
       0.9010117215574921
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1613743060919757
   },
   {
     "team": "Kolkata Knight Riders",
@@ -1196,7 +1338,10 @@
     "credible_interval_95": [
       0.15701277048705795,
       0.7551367836334484
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15713484026367722
   },
   {
     "team": "Mumbai Indians",
@@ -1207,7 +1352,10 @@
     "credible_interval_95": [
       0.1369956622651665,
       0.7007049437914596
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14770978917519928
   },
   {
     "team": "Punjab Kings",
@@ -1218,7 +1366,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rajasthan Royals",
@@ -1229,7 +1380,10 @@
     "credible_interval_95": [
       0.06021773417290665,
       0.5177558523601726
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 9.0,
+    "posterior_std": 0.12009611535381536
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -1240,7 +1394,10 @@
     "credible_interval_95": [
       0.34887550641881554,
       0.8483477701915698
-    ]
+    ],
+    "posterior_alpha": 8.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.13002373149669486
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -1251,7 +1408,10 @@
     "credible_interval_95": [
       0.28860940003830743,
       0.7696394585519376
-    ]
+    ],
+    "posterior_alpha": 8.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.12472191289246472
   },
   {
     "team": "Chennai Super Kings",
@@ -1262,7 +1422,10 @@
     "credible_interval_95": [
       0.18708602844739855,
       0.7376219233930549
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14373989364401724
   },
   {
     "team": "Deccan Chargers",
@@ -1273,7 +1436,10 @@
     "credible_interval_95": [
       0.006309463209709866,
       0.6023646356164746
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Delhi Capitals",
@@ -1284,7 +1450,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -1295,7 +1464,10 @@
     "credible_interval_95": [
       0.0031597235312519063,
       0.3694166475528192
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 8.0,
+    "posterior_std": 0.09938079899999065
   },
   {
     "team": "Gujarat Lions",
@@ -1306,7 +1478,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kings XI Punjab",
@@ -1317,7 +1492,10 @@
     "credible_interval_95": [
       0.06021773417290665,
       0.5177558523601726
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 9.0,
+    "posterior_std": 0.12009611535381536
   },
   {
     "team": "Kochi Tuskers Kerala",
@@ -1328,7 +1506,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -1338,8 +1519,11 @@
     "posterior_mean": 0.6142857142857143,
     "credible_interval_95": [
       0.49834962625920504,
-      0.7240336777774962
-    ]
+      0.7240336777774963
+    ],
+    "posterior_alpha": 43.0,
+    "posterior_beta": 27.0,
+    "posterior_std": 0.0577682079716551
   },
   {
     "team": "Mumbai Indians",
@@ -1350,7 +1534,10 @@
     "credible_interval_95": [
       0.4920243229515281,
       0.9161106816928725
-    ]
+    ],
+    "posterior_alpha": 11.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.11055415967851333
   },
   {
     "team": "Pune Warriors",
@@ -1361,7 +1548,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
@@ -1372,7 +1562,10 @@
     "credible_interval_95": [
       0.06673951117773447,
       0.5560954623076415
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 8.0,
+    "posterior_std": 0.128564869306645
   },
   {
     "team": "Rising Pune Supergiant",
@@ -1383,7 +1576,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -1394,7 +1590,10 @@
     "credible_interval_95": [
       0.18708602844739855,
       0.7376219233930549
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14373989364401724
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -1405,10 +1604,27 @@
     "credible_interval_95": [
       0.07485463141969183,
       0.600093573716312
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.13816985594155148
   },
   {
     "team": "Chennai Super Kings",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
+    "credible_interval_95": [
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
+  },
+  {
+    "team": "Gujarat Titans",
     "venue": "Eden Gardens, Kolkata",
     "matches": 2,
     "wins": 2,
@@ -1416,54 +1632,27 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
-  },
-  {
-    "team": "Delhi Capitals",
-    "venue": "Eden Gardens, Kolkata",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
-  },
-  {
-    "team": "Gujarat Titans",
-    "venue": "Eden Gardens, Kolkata",
-    "matches": 3,
-    "wins": 3,
-    "posterior_mean": 0.8,
-    "credible_interval_95": [
-      0.3976353643835253,
-      0.9936905367902902
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kolkata Knight Riders",
     "venue": "Eden Gardens, Kolkata",
-    "matches": 19,
-    "wins": 8,
-    "posterior_mean": 0.42857142857142855,
+    "matches": 7,
+    "wins": 2,
+    "posterior_mean": 0.3333333333333333,
     "credible_interval_95": [
-      0.2305778967759241,
-      0.6394574126925103
-    ]
+      0.08523341413725354,
+      0.6508557944128242
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14907119849998599
   },
   {
     "team": "Lucknow Super Giants",
-    "venue": "Eden Gardens, Kolkata",
-    "matches": 4,
-    "wins": 2,
-    "posterior_mean": 0.5,
-    "credible_interval_95": [
-      0.14663279963467313,
-      0.8533672003653268
-    ]
-  },
-  {
-    "team": "Punjab Kings",
     "venue": "Eden Gardens, Kolkata",
     "matches": 2,
     "wins": 1,
@@ -1471,18 +1660,38 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
+  },
+  {
+    "team": "Punjab Kings",
+    "venue": "Eden Gardens, Kolkata",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
     "venue": "Eden Gardens, Kolkata",
-    "matches": 4,
-    "wins": 2,
+    "matches": 2,
+    "wins": 1,
     "posterior_mean": 0.5,
     "credible_interval_95": [
-      0.14663279963467313,
-      0.8533672003653268
-    ]
+      0.09429932405024609,
+      0.9057006759497539
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -1493,29 +1702,24 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "Eden Gardens, Kolkata",
-    "matches": 2,
-    "wins": 1,
-    "posterior_mean": 0.5,
-    "credible_interval_95": [
-      0.09429932405024609,
-      0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Sunrisers Hyderabad",
     "venue": "Eden Gardens, Kolkata",
-    "matches": 3,
+    "matches": 1,
     "wins": 1,
-    "posterior_mean": 0.4,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -1526,7 +1730,10 @@
     "credible_interval_95": [
       0.4212768029568048,
       0.9633074338239145
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.14433756729740643
   },
   {
     "team": "Deccan Chargers",
@@ -1537,7 +1744,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Delhi Daredevils",
@@ -1548,7 +1758,10 @@
     "credible_interval_95": [
       0.3156152838640986,
       0.5771741676209701
-    ]
+    ],
+    "posterior_alpha": 24.0,
+    "posterior_beta": 30.0,
+    "posterior_std": 0.06700252101728081
   },
   {
     "team": "Gujarat Lions",
@@ -1559,7 +1772,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kings XI Punjab",
@@ -1570,7 +1786,10 @@
     "credible_interval_95": [
       0.1369956622651665,
       0.7007049437914596
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14770978917519928
   },
   {
     "team": "Kochi Tuskers Kerala",
@@ -1581,7 +1800,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -1592,7 +1814,10 @@
     "credible_interval_95": [
       0.29929505620854036,
       0.8630043377348335
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.14770978917519928
   },
   {
     "team": "Mumbai Indians",
@@ -1603,7 +1828,10 @@
     "credible_interval_95": [
       0.07485463141969183,
       0.600093573716312
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.13816985594155148
   },
   {
     "team": "Pune Warriors",
@@ -1614,7 +1842,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
@@ -1625,7 +1856,10 @@
     "credible_interval_95": [
       0.2448632163665516,
       0.842987229512942
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.15713484026367722
   },
   {
     "team": "Rising Pune Supergiant",
@@ -1636,7 +1870,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rising Pune Supergiants",
@@ -1647,7 +1884,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -1658,7 +1898,10 @@
     "credible_interval_95": [
       0.3491442055871758,
       0.9147665858627465
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.14907119849998599
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -1669,7 +1912,10 @@
     "credible_interval_95": [
       0.22277809550351213,
       0.8818827512429748
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Delhi Daredevils",
@@ -1680,7 +1926,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Gujarat Lions",
@@ -1691,7 +1940,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Kolkata Knight Riders",
@@ -1702,7 +1954,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
@@ -1713,7 +1968,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -1724,7 +1982,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -1735,7 +1996,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Deccan Chargers",
@@ -1746,7 +2010,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Delhi Daredevils",
@@ -1757,7 +2024,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kings XI Punjab",
@@ -1768,7 +2038,10 @@
     "credible_interval_95": [
       0.21200850677886798,
       0.787991493221132
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15075567228888181
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -1779,18 +2052,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
-  },
-  {
-    "team": "Chennai Super Kings",
-    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Capitals",
@@ -1801,29 +2066,24 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
-  },
-  {
-    "team": "Lucknow Super Giants",
-    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Punjab Kings",
     "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-    "matches": 5,
-    "wins": 1,
-    "posterior_mean": 0.2857142857142857,
+    "matches": 2,
+    "wins": 0,
+    "posterior_mean": 0.25,
     "credible_interval_95": [
-      0.043271868292741676,
-      0.6412345789976748
-    ]
+      0.008403758659612636,
+      0.7075982261787133
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Rajasthan Royals",
@@ -1834,18 +2094,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kings XI Punjab",
@@ -1856,7 +2108,10 @@
     "credible_interval_95": [
       0.21200850677886798,
       0.787991493221132
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15075567228888181
   },
   {
     "team": "Kochi Tuskers Kerala",
@@ -1867,7 +2122,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kolkata Knight Riders",
@@ -1878,7 +2136,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
@@ -1889,7 +2150,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Rajasthan Royals",
@@ -1900,7 +2164,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Rising Pune Supergiant",
@@ -1911,7 +2178,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -1922,7 +2192,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Chennai Super Kings",
@@ -1933,7 +2206,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Kolkata Knight Riders",
@@ -1944,7 +2220,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Pune Warriors",
@@ -1955,7 +2234,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
@@ -1966,7 +2248,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -1977,7 +2262,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -1988,7 +2276,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -1999,7 +2290,10 @@
     "credible_interval_95": [
       0.052744950526316906,
       0.7164179361180895
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Deccan Chargers",
@@ -2010,7 +2304,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Delhi Daredevils",
@@ -2021,7 +2318,10 @@
     "credible_interval_95": [
       0.3976353643835253,
       0.9936905367902902
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Kings XI Punjab",
@@ -2032,7 +2332,10 @@
     "credible_interval_95": [
       0.11811724875702521,
       0.7772219044964879
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Kolkata Knight Riders",
@@ -2043,7 +2346,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Mumbai Indians",
@@ -2054,7 +2360,10 @@
     "credible_interval_95": [
       0.006309463209709866,
       0.6023646356164746
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Rajasthan Royals",
@@ -2065,7 +2374,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -2076,7 +2388,10 @@
     "credible_interval_95": [
       0.2835820638819105,
       0.9472550494736831
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Chennai Super Kings",
@@ -2087,7 +2402,10 @@
     "credible_interval_95": [
       0.2904208637373427,
       0.9010117215574921
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1613743060919757
   },
   {
     "team": "Deccan Chargers",
@@ -2098,7 +2416,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Delhi Daredevils",
@@ -2109,7 +2430,10 @@
     "credible_interval_95": [
       0.22277809550351213,
       0.8818827512429748
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Gujarat Lions",
@@ -2120,7 +2444,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kings XI Punjab",
@@ -2131,7 +2458,10 @@
     "credible_interval_95": [
       0.26237807660694507,
       0.8129139715526015
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.14373989364401724
   },
   {
     "team": "Kochi Tuskers Kerala",
@@ -2142,7 +2472,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -2153,7 +2486,10 @@
     "credible_interval_95": [
       0.29929505620854036,
       0.8630043377348335
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.14770978917519928
   },
   {
     "team": "Mumbai Indians",
@@ -2164,7 +2500,10 @@
     "credible_interval_95": [
       0.4439045376923585,
       0.9332604888222655
-    ]
+    ],
+    "posterior_alpha": 8.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.128564869306645
   },
   {
     "team": "Pune Warriors",
@@ -2175,7 +2514,10 @@
     "credible_interval_95": [
       0.006309463209709866,
       0.6023646356164746
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Rajasthan Royals",
@@ -2186,7 +2528,10 @@
     "credible_interval_95": [
       0.22277809550351213,
       0.8818827512429748
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Rising Pune Supergiant",
@@ -2197,7 +2542,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rising Pune Supergiants",
@@ -2208,7 +2556,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -2219,7 +2570,10 @@
     "credible_interval_95": [
       0.32622463010427954,
       0.5859996719630802
-    ]
+    ],
+    "posterior_alpha": 25.0,
+    "posterior_beta": 30.0,
+    "posterior_std": 0.06653864133739999
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -2230,62 +2584,80 @@
     "credible_interval_95": [
       0.11811724875702521,
       0.7772219044964879
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Chennai Super Kings",
     "venue": "M Chinnaswamy Stadium, Bengaluru",
-    "matches": 3,
+    "matches": 1,
     "wins": 1,
-    "posterior_mean": 0.4,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Capitals",
     "venue": "M Chinnaswamy Stadium, Bengaluru",
-    "matches": 3,
-    "wins": 1,
-    "posterior_mean": 0.4,
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
     "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Gujarat Titans",
     "venue": "M Chinnaswamy Stadium, Bengaluru",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
     "venue": "M Chinnaswamy Stadium, Bengaluru",
-    "matches": 2,
-    "wins": 2,
-    "posterior_mean": 0.75,
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.2924017738212866,
-      0.9915962413403874
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Lucknow Super Giants",
     "venue": "M Chinnaswamy Stadium, Bengaluru",
-    "matches": 2,
-    "wins": 2,
-    "posterior_mean": 0.75,
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.2924017738212866,
-      0.9915962413403874
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
@@ -2296,10 +2668,13 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
-    "team": "Punjab Kings",
+    "team": "Rajasthan Royals",
     "venue": "M Chinnaswamy Stadium, Bengaluru",
     "matches": 1,
     "wins": 0,
@@ -2307,18 +2682,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
-  },
-  {
-    "team": "Rajasthan Royals",
-    "venue": "M Chinnaswamy Stadium, Bengaluru",
-    "matches": 2,
-    "wins": 0,
-    "posterior_mean": 0.25,
-    "credible_interval_95": [
-      0.008403758659612636,
-      0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -2329,29 +2696,10 @@
     "credible_interval_95": [
       0.15701277048705795,
       0.7551367836334484
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "M Chinnaswamy Stadium, Bengaluru",
-    "matches": 11,
-    "wins": 6,
-    "posterior_mean": 0.5384615384615384,
-    "credible_interval_95": [
-      0.2766696856821058,
-      0.7890553617607033
-    ]
-  },
-  {
-    "team": "Sunrisers Hyderabad",
-    "venue": "M Chinnaswamy Stadium, Bengaluru",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15713484026367722
   },
   {
     "team": "Chennai Super Kings",
@@ -2362,7 +2710,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Delhi Capitals",
@@ -2373,7 +2724,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -2384,7 +2738,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kings XI Punjab",
@@ -2395,7 +2752,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kolkata Knight Riders",
@@ -2406,7 +2766,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Mumbai Indians",
@@ -2417,7 +2780,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Rajasthan Royals",
@@ -2428,7 +2794,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -2439,7 +2808,10 @@
     "credible_interval_95": [
       0.3228697662062816,
       0.7873332704806921
-    ]
+    ],
+    "posterior_alpha": 9.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.12031667773495273
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -2450,7 +2822,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Chennai Super Kings",
@@ -2461,7 +2836,10 @@
     "credible_interval_95": [
       0.4439045376923585,
       0.9332604888222655
-    ]
+    ],
+    "posterior_alpha": 8.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.128564869306645
   },
   {
     "team": "Delhi Capitals",
@@ -2472,7 +2850,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kings XI Punjab",
@@ -2483,7 +2864,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -2494,7 +2878,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Mumbai Indians",
@@ -2505,7 +2892,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Rajasthan Royals",
@@ -2516,7 +2906,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -2527,7 +2920,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -2538,7 +2934,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -2549,7 +2948,10 @@
     "credible_interval_95": [
       0.5886811523956377,
       0.8401332980750974
-    ]
+    ],
+    "posterior_alpha": 34.0,
+    "posterior_beta": 13.0,
+    "posterior_std": 0.06456433140437277
   },
   {
     "team": "Deccan Chargers",
@@ -2560,7 +2962,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Delhi Daredevils",
@@ -2571,7 +2976,10 @@
     "credible_interval_95": [
       0.03669256617608555,
       0.5787231970431952
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14433756729740643
   },
   {
     "team": "Kings XI Punjab",
@@ -2582,7 +2990,10 @@
     "credible_interval_95": [
       0.052744950526316906,
       0.7164179361180895
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Kochi Tuskers Kerala",
@@ -2593,7 +3004,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -2604,7 +3018,10 @@
     "credible_interval_95": [
       0.08523341413725354,
       0.6508557944128242
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14907119849998599
   },
   {
     "team": "Mumbai Indians",
@@ -2615,7 +3032,10 @@
     "credible_interval_95": [
       0.184051567640083,
       0.8159484323599169
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Pune Warriors",
@@ -2626,7 +3046,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rajasthan Royals",
@@ -2637,7 +3060,10 @@
     "credible_interval_95": [
       0.03669256617608555,
       0.5787231970431952
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14433756729740643
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -2648,7 +3074,10 @@
     "credible_interval_95": [
       0.07485463141969183,
       0.600093573716312
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.13816985594155148
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -2659,32 +3088,69 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Chennai Super Kings",
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "matches": 21,
-    "wins": 11,
-    "posterior_mean": 0.5217391304347826,
+    "matches": 8,
+    "wins": 5,
+    "posterior_mean": 0.6,
     "credible_interval_95": [
-      0.3221047545531717,
-      0.717789479061907
-    ]
+      0.29929505620854036,
+      0.8630043377348335
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.14770978917519928
   },
   {
     "team": "Delhi Capitals",
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
+    "matches": 2,
+    "wins": 1,
+    "posterior_mean": 0.5,
     "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
+      0.09429932405024609,
+      0.9057006759497539
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Gujarat Titans",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
+    "credible_interval_95": [
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matches": 4,
+    "wins": 2,
+    "posterior_mean": 0.5,
+    "credible_interval_95": [
+      0.14663279963467313,
+      0.8533672003653268
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
+  },
+  {
+    "team": "Lucknow Super Giants",
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
     "matches": 2,
     "wins": 0,
@@ -2692,62 +3158,52 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
-  },
-  {
-    "team": "Kolkata Knight Riders",
-    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "matches": 7,
-    "wins": 4,
-    "posterior_mean": 0.5555555555555556,
-    "credible_interval_95": [
-      0.2448632163665516,
-      0.842987229512942
-    ]
-  },
-  {
-    "team": "Lucknow Super Giants",
-    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "matches": 3,
-    "wins": 1,
-    "posterior_mean": 0.4,
-    "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Mumbai Indians",
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "matches": 8,
+    "matches": 7,
     "wins": 3,
-    "posterior_mean": 0.4,
+    "posterior_mean": 0.4444444444444444,
     "credible_interval_95": [
-      0.1369956622651665,
-      0.7007049437914596
-    ]
+      0.15701277048705795,
+      0.7551367836334484
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15713484026367722
   },
   {
     "team": "Punjab Kings",
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "matches": 5,
-    "wins": 4,
-    "posterior_mean": 0.7142857142857143,
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
     "credible_interval_95": [
-      0.35876542100232517,
-      0.9567281317072583
-    ]
+      0.19412044968324338,
+      0.932414013511457
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rajasthan Royals",
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "matches": 3,
+    "matches": 1,
     "wins": 1,
-    "posterior_mean": 0.4,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -2758,150 +3214,24 @@
     "credible_interval_95": [
       0.3976353643835253,
       0.9936905367902902
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "matches": 2,
-    "wins": 1,
-    "posterior_mean": 0.5,
-    "credible_interval_95": [
-      0.09429932405024609,
-      0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Sunrisers Hyderabad",
     "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
-    "matches": 9,
-    "wins": 3,
-    "posterior_mean": 0.36363636363636365,
-    "credible_interval_95": [
-      0.12155225811982719,
-      0.6524528500599973
-    ]
-  },
-  {
-    "team": "Chennai Super Kings",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
-  },
-  {
-    "team": "Delhi Capitals",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
-  },
-  {
-    "team": "Gujarat Titans",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-    "matches": 1,
+    "matches": 5,
     "wins": 1,
-    "posterior_mean": 0.6666666666666666,
+    "posterior_mean": 0.2857142857142857,
     "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
-  },
-  {
-    "team": "Kolkata Knight Riders",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
-  },
-  {
-    "team": "Mumbai Indians",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
-  },
-  {
-    "team": "Punjab Kings",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-    "matches": 10,
-    "wins": 3,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.10926344381909811,
-      0.6097425595724212
-    ]
-  },
-  {
-    "team": "Rajasthan Royals",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-    "matches": 2,
-    "wins": 2,
-    "posterior_mean": 0.75,
-    "credible_interval_95": [
-      0.2924017738212866,
-      0.9915962413403874
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-    "matches": 2,
-    "wins": 2,
-    "posterior_mean": 0.75,
-    "credible_interval_95": [
-      0.2924017738212866,
-      0.9915962413403874
-    ]
-  },
-  {
-    "team": "Sunrisers Hyderabad",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
-  },
-  {
-    "team": "Gujarat Titans",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
-  },
-  {
-    "team": "Mumbai Indians",
-    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
+      0.043271868292741676,
+      0.6412345789976748
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15971914124998499
   },
   {
     "team": "Chennai Super Kings",
@@ -2912,7 +3242,10 @@
     "credible_interval_95": [
       0.4212768029568048,
       0.9633074338239145
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.14433756729740643
   },
   {
     "team": "Delhi Daredevils",
@@ -2923,7 +3256,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Gujarat Lions",
@@ -2934,7 +3270,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kings XI Punjab",
@@ -2944,8 +3283,11 @@
     "posterior_mean": 0.14285714285714285,
     "credible_interval_95": [
       0.00421074451448947,
-      0.45925812643990044
-    ]
+      0.4592581264399005
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.12371791482634838
   },
   {
     "team": "Kolkata Knight Riders",
@@ -2956,7 +3298,10 @@
     "credible_interval_95": [
       0.3976353643835253,
       0.9936905367902902
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Mumbai Indians",
@@ -2967,7 +3312,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Pune Warriors",
@@ -2978,7 +3326,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
@@ -2989,7 +3340,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rising Pune Supergiant",
@@ -3000,7 +3354,10 @@
     "credible_interval_95": [
       0.3491442055871758,
       0.9147665858627465
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.14907119849998599
   },
   {
     "team": "Rising Pune Supergiants",
@@ -3011,7 +3368,10 @@
     "credible_interval_95": [
       0.0050507633794680575,
       0.5218237501049814
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.14085904245475275
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3022,7 +3382,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -3033,7 +3396,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Chennai Super Kings",
@@ -3044,7 +3410,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Delhi Capitals",
@@ -3055,7 +3424,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Gujarat Titans",
@@ -3066,7 +3438,10 @@
     "credible_interval_95": [
       0.3976353643835253,
       0.9936905367902902
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Kolkata Knight Riders",
@@ -3077,7 +3452,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Lucknow Super Giants",
@@ -3088,7 +3466,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Mumbai Indians",
@@ -3099,7 +3480,10 @@
     "credible_interval_95": [
       0.006309463209709866,
       0.6023646356164746
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Punjab Kings",
@@ -3110,7 +3494,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Rajasthan Royals",
@@ -3121,7 +3508,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3132,7 +3522,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -3143,43 +3536,27 @@
     "credible_interval_95": [
       0.006309463209709866,
       0.6023646356164746
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Chennai Super Kings",
     "venue": "Narendra Modi Stadium, Ahmedabad",
-    "matches": 3,
-    "wins": 1,
-    "posterior_mean": 0.4,
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
     "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Capitals",
-    "venue": "Narendra Modi Stadium, Ahmedabad",
-    "matches": 6,
-    "wins": 4,
-    "posterior_mean": 0.625,
-    "credible_interval_95": [
-      0.2904208637373427,
-      0.9010117215574921
-    ]
-  },
-  {
-    "team": "Gujarat Titans",
-    "venue": "Narendra Modi Stadium, Ahmedabad",
-    "matches": 22,
-    "wins": 13,
-    "posterior_mean": 0.5833333333333334,
-    "credible_interval_95": [
-      0.3854189573888496,
-      0.7680858004617686
-    ]
-  },
-  {
-    "team": "Kolkata Knight Riders",
     "venue": "Narendra Modi Stadium, Ahmedabad",
     "matches": 4,
     "wins": 3,
@@ -3187,51 +3564,94 @@
     "credible_interval_95": [
       0.2835820638819105,
       0.9472550494736831
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.1781741612749496
+  },
+  {
+    "team": "Gujarat Titans",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 9,
+    "wins": 6,
+    "posterior_mean": 0.6363636363636364,
+    "credible_interval_95": [
+      0.3475471499400027,
+      0.8784477418801728
+    ],
+    "posterior_alpha": 7.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.13886593015017698
+  },
+  {
+    "team": "Kolkata Knight Riders",
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
+    "credible_interval_95": [
+      0.19412044968324338,
+      0.932414013511457
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Lucknow Super Giants",
     "venue": "Narendra Modi Stadium, Ahmedabad",
-    "matches": 2,
-    "wins": 1,
-    "posterior_mean": 0.5,
+    "matches": 1,
+    "wins": 0,
+    "posterior_mean": 0.3333333333333333,
     "credible_interval_95": [
-      0.09429932405024609,
-      0.9057006759497539
-    ]
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
     "venue": "Narendra Modi Stadium, Ahmedabad",
-    "matches": 5,
+    "matches": 2,
     "wins": 0,
-    "posterior_mean": 0.14285714285714285,
+    "posterior_mean": 0.25,
     "credible_interval_95": [
-      0.00421074451448947,
-      0.45925812643990044
-    ]
+      0.008403758659612636,
+      0.7075982261787133
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Punjab Kings",
     "venue": "Narendra Modi Stadium, Ahmedabad",
-    "matches": 7,
-    "wins": 4,
-    "posterior_mean": 0.5555555555555556,
+    "matches": 3,
+    "wins": 1,
+    "posterior_mean": 0.4,
     "credible_interval_95": [
-      0.2448632163665516,
-      0.842987229512942
-    ]
+      0.06758598648854294,
+      0.8058795503167565
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rajasthan Royals",
     "venue": "Narendra Modi Stadium, Ahmedabad",
-    "matches": 5,
-    "wins": 3,
-    "posterior_mean": 0.5714285714285714,
+    "matches": 3,
+    "wins": 2,
+    "posterior_mean": 0.6,
     "credible_interval_95": [
-      0.22277809550351213,
-      0.8818827512429748
-    ]
+      0.19412044968324338,
+      0.932414013511457
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3242,29 +3662,24 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "Narendra Modi Stadium, Ahmedabad",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
-    "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Sunrisers Hyderabad",
     "venue": "Narendra Modi Stadium, Ahmedabad",
-    "matches": 4,
+    "matches": 1,
     "wins": 0,
-    "posterior_mean": 0.16666666666666666,
+    "posterior_mean": 0.3333333333333333,
     "credible_interval_95": [
-      0.0050507633794680575,
-      0.5218237501049814
-    ]
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Deccan Chargers",
@@ -3275,7 +3690,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -3286,7 +3704,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kochi Tuskers Kerala",
@@ -3297,7 +3718,10 @@
     "credible_interval_95": [
       0.052744950526316906,
       0.7164179361180895
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Kolkata Knight Riders",
@@ -3308,7 +3732,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3319,7 +3746,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -3330,7 +3760,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Deccan Chargers",
@@ -3341,7 +3774,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Delhi Daredevils",
@@ -3352,7 +3788,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kings XI Punjab",
@@ -3363,7 +3802,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -3374,7 +3816,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Mumbai Indians",
@@ -3385,7 +3830,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3396,7 +3844,10 @@
     "credible_interval_95": [
       0.2835820638819105,
       0.9472550494736831
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Chennai Super Kings",
@@ -3407,7 +3858,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Deccan Chargers",
@@ -3418,7 +3872,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kings XI Punjab",
@@ -3429,7 +3886,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -3440,7 +3900,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
@@ -3451,7 +3914,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
@@ -3462,7 +3928,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3473,7 +3942,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Delhi Daredevils",
@@ -3484,7 +3956,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kings XI Punjab",
@@ -3495,7 +3970,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
@@ -3506,7 +3984,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -3517,7 +3998,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Delhi Capitals",
@@ -3528,7 +4012,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -3539,7 +4026,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kings XI Punjab",
@@ -3550,7 +4040,10 @@
     "credible_interval_95": [
       0.4822441476398273,
       0.9397822658270933
-    ]
+    ],
+    "posterior_alpha": 9.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.12009611535381536
   },
   {
     "team": "Kolkata Knight Riders",
@@ -3561,7 +4054,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
@@ -3572,7 +4068,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
@@ -3583,7 +4082,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3594,7 +4096,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -3605,7 +4110,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Delhi Daredevils",
@@ -3616,7 +4124,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Gujarat Lions",
@@ -3627,7 +4138,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kings XI Punjab",
@@ -3638,7 +4152,10 @@
     "credible_interval_95": [
       0.15165222980843013,
       0.6511244935811844
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 8.0,
+    "posterior_std": 0.13002373149669486
   },
   {
     "team": "Kolkata Knight Riders",
@@ -3649,7 +4166,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Mumbai Indians",
@@ -3660,7 +4180,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rising Pune Supergiants",
@@ -3671,7 +4194,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3682,7 +4208,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -3693,7 +4222,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Gujarat Titans",
@@ -3704,7 +4236,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Lucknow Super Giants",
@@ -3715,7 +4250,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
@@ -3726,7 +4264,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Punjab Kings",
@@ -3737,7 +4278,10 @@
     "credible_interval_95": [
       0.0050507633794680575,
       0.5218237501049814
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.14085904245475275
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3748,7 +4292,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -3759,7 +4306,10 @@
     "credible_interval_95": [
       0.2835820638819105,
       0.9472550494736831
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.1781741612749496
   },
   {
     "team": "Deccan Chargers",
@@ -3770,7 +4320,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Delhi Daredevils",
@@ -3781,7 +4334,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kings XI Punjab",
@@ -3792,7 +4348,10 @@
     "credible_interval_95": [
       0.33989141539097784,
       0.6601085846090222
-    ]
+    ],
+    "posterior_alpha": 18.0,
+    "posterior_beta": 18.0,
+    "posterior_std": 0.08219949365267865
   },
   {
     "team": "Kolkata Knight Riders",
@@ -3803,7 +4362,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Mumbai Indians",
@@ -3814,7 +4376,10 @@
     "credible_interval_95": [
       0.184051567640083,
       0.8159484323599169
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Pune Warriors",
@@ -3825,7 +4390,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rajasthan Royals",
@@ -3836,7 +4404,10 @@
     "credible_interval_95": [
       0.184051567640083,
       0.8159484323599169
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3847,7 +4418,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -3858,7 +4432,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Chennai Super Kings",
@@ -3869,7 +4446,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Delhi Capitals",
@@ -3880,7 +4460,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -3891,7 +4474,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kings XI Punjab",
@@ -3902,7 +4488,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kolkata Knight Riders",
@@ -3913,7 +4502,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Mumbai Indians",
@@ -3924,7 +4516,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rajasthan Royals",
@@ -3935,7 +4530,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -3946,7 +4544,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -3957,7 +4558,10 @@
     "credible_interval_95": [
       0.4189647428163391,
       0.8724015701408404
-    ]
+    ],
+    "posterior_alpha": 10.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.11785113019775792
   },
   {
     "team": "Chennai Super Kings",
@@ -3968,7 +4572,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Deccan Chargers",
@@ -3979,7 +4586,10 @@
     "credible_interval_95": [
       0.060524537709289755,
       0.3957845512666743
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 16.0,
+    "posterior_std": 0.08728715609439695
   },
   {
     "team": "Delhi Daredevils",
@@ -3990,7 +4600,10 @@
     "credible_interval_95": [
       0.2904208637373427,
       0.9010117215574921
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1613743060919757
   },
   {
     "team": "Gujarat Lions",
@@ -4001,7 +4614,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kings XI Punjab",
@@ -4012,7 +4628,10 @@
     "credible_interval_95": [
       0.21200850677886798,
       0.787991493221132
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15075567228888181
   },
   {
     "team": "Kolkata Knight Riders",
@@ -4023,7 +4642,10 @@
     "credible_interval_95": [
       0.2904208637373427,
       0.9010117215574921
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1613743060919757
   },
   {
     "team": "Mumbai Indians",
@@ -4034,7 +4656,10 @@
     "credible_interval_95": [
       0.29929505620854036,
       0.8630043377348335
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.14770978917519928
   },
   {
     "team": "Pune Warriors",
@@ -4045,7 +4670,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Rajasthan Royals",
@@ -4056,7 +4684,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Rising Pune Supergiant",
@@ -4067,7 +4698,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4078,7 +4712,10 @@
     "credible_interval_95": [
       0.03669256617608555,
       0.5787231970431952
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14433756729740643
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -4089,18 +4726,10 @@
     "credible_interval_95": [
       0.5133316845510592,
       0.8412239621138461
-    ]
-  },
-  {
-    "team": "Chennai Super Kings",
-    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-    "matches": 1,
-    "wins": 0,
-    "posterior_mean": 0.3333333333333333,
-    "credible_interval_95": [
-      0.01257911709342505,
-      0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 20.0,
+    "posterior_beta": 9.0,
+    "posterior_std": 0.08446516354424752
   },
   {
     "team": "Delhi Capitals",
@@ -4111,18 +4740,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
-  },
-  {
-    "team": "Gujarat Titans",
-    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -4133,51 +4754,66 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Lucknow Super Giants",
     "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
     "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Punjab Kings",
     "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-    "matches": 3,
+    "matches": 1,
     "wins": 0,
-    "posterior_mean": 0.2,
+    "posterior_mean": 0.3333333333333333,
     "credible_interval_95": [
-      0.006309463209709866,
-      0.6023646356164746
-    ]
+      0.01257911709342505,
+      0.841886116991581
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
     "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-    "matches": 3,
+    "matches": 1,
     "wins": 1,
-    "posterior_mean": 0.4,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4188,29 +4824,24 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-    "matches": 1,
-    "wins": 1,
-    "posterior_mean": 0.6666666666666666,
-    "credible_interval_95": [
-      0.15811388300841897,
-      0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
     "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
-    "matches": 18,
-    "wins": 8,
-    "posterior_mean": 0.45,
+    "matches": 7,
+    "wins": 1,
+    "posterior_mean": 0.2222222222222222,
     "credible_interval_95": [
-      0.24447468946619608,
-      0.6650021559882646
-    ]
+      0.031854026249944226,
+      0.5265096708752065
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.1314684396244359
   },
   {
     "team": "Chennai Super Kings",
@@ -4221,7 +4852,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Deccan Chargers",
@@ -4232,7 +4866,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -4243,7 +4880,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kolkata Knight Riders",
@@ -4254,7 +4894,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Mumbai Indians",
@@ -4265,7 +4908,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Rajasthan Royals",
@@ -4276,7 +4922,10 @@
     "credible_interval_95": [
       0.34887550641881554,
       0.8483477701915698
-    ]
+    ],
+    "posterior_alpha": 8.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.13002373149669486
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4287,7 +4936,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -4298,7 +4950,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -4309,7 +4964,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Gujarat Lions",
@@ -4320,7 +4978,10 @@
     "credible_interval_95": [
       0.12155225811982719,
       0.6524528500599973
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.13886593015017698
   },
   {
     "team": "Kings XI Punjab",
@@ -4331,7 +4992,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Kolkata Knight Riders",
@@ -4342,7 +5006,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rising Pune Supergiant",
@@ -4353,7 +5020,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rising Pune Supergiants",
@@ -4364,7 +5034,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4375,7 +5048,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -4386,7 +5062,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -4397,7 +5076,10 @@
     "credible_interval_95": [
       0.184051567640083,
       0.8159484323599169
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Deccan Chargers",
@@ -4408,7 +5090,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Delhi Capitals",
@@ -4419,7 +5104,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -4430,7 +5118,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kings XI Punjab",
@@ -4441,7 +5132,10 @@
     "credible_interval_95": [
       0.043271868292741676,
       0.6412345789976748
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15971914124998499
   },
   {
     "team": "Kochi Tuskers Kerala",
@@ -4452,7 +5146,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -4463,7 +5160,10 @@
     "credible_interval_95": [
       0.184051567640083,
       0.8159484323599169
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Mumbai Indians",
@@ -4474,7 +5174,10 @@
     "credible_interval_95": [
       0.08523341413725354,
       0.6508557944128242
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14907119849998599
   },
   {
     "team": "Pune Warriors",
@@ -4485,7 +5188,10 @@
     "credible_interval_95": [
       0.006309463209709866,
       0.6023646356164746
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Rajasthan Royals",
@@ -4496,7 +5202,10 @@
     "credible_interval_95": [
       0.5104963621416386,
       0.7813159892644141
-    ]
+    ],
+    "posterior_alpha": 30.0,
+    "posterior_beta": 16.0,
+    "posterior_std": 0.06947264886408358
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4507,7 +5216,10 @@
     "credible_interval_95": [
       0.15701277048705795,
       0.7551367836334484
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15713484026367722
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -4518,7 +5230,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Chennai Super Kings",
@@ -4529,73 +5244,52 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
-  },
-  {
-    "team": "Delhi Capitals",
-    "venue": "Sawai Mansingh Stadium, Jaipur",
-    "matches": 2,
-    "wins": 1,
-    "posterior_mean": 0.5,
-    "credible_interval_95": [
-      0.09429932405024609,
-      0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Gujarat Titans",
     "venue": "Sawai Mansingh Stadium, Jaipur",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
+    "matches": 1,
+    "wins": 1,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Lucknow Super Giants",
     "venue": "Sawai Mansingh Stadium, Jaipur",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
-    "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
-  },
-  {
-    "team": "Mumbai Indians",
-    "venue": "Sawai Mansingh Stadium, Jaipur",
-    "matches": 3,
+    "matches": 1,
     "wins": 1,
-    "posterior_mean": 0.4,
+    "posterior_mean": 0.6666666666666666,
     "credible_interval_95": [
-      0.06758598648854294,
-      0.8058795503167565
-    ]
-  },
-  {
-    "team": "Punjab Kings",
-    "venue": "Sawai Mansingh Stadium, Jaipur",
-    "matches": 3,
-    "wins": 2,
-    "posterior_mean": 0.6,
-    "credible_interval_95": [
-      0.19412044968324338,
-      0.932414013511457
-    ]
+      0.15811388300841897,
+      0.9874208829065749
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
     "venue": "Sawai Mansingh Stadium, Jaipur",
-    "matches": 15,
-    "wins": 6,
-    "posterior_mean": 0.4117647058823529,
+    "matches": 5,
+    "wins": 1,
+    "posterior_mean": 0.2857142857142857,
     "credible_interval_95": [
-      0.19753414053266788,
-      0.6456539056979218
-    ]
+      0.043271868292741676,
+      0.6412345789976748
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15971914124998499
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4606,18 +5300,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "Sawai Mansingh Stadium, Jaipur",
-    "matches": 2,
-    "wins": 1,
-    "posterior_mean": 0.5,
-    "credible_interval_95": [
-      0.09429932405024609,
-      0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -4628,7 +5314,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -4639,7 +5328,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -4650,7 +5342,10 @@
     "credible_interval_95": [
       0.2904208637373427,
       0.9010117215574921
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1613743060919757
   },
   {
     "team": "Kolkata Knight Riders",
@@ -4661,7 +5356,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Pune Warriors",
@@ -4672,7 +5370,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4683,7 +5384,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -4694,7 +5398,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Chennai Super Kings",
@@ -4705,7 +5412,10 @@
     "credible_interval_95": [
       0.184051567640083,
       0.8159484323599169
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Delhi Capitals",
@@ -4716,7 +5426,10 @@
     "credible_interval_95": [
       0.2904208637373427,
       0.9010117215574921
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1613743060919757
   },
   {
     "team": "Delhi Daredevils",
@@ -4727,7 +5440,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kings XI Punjab",
@@ -4738,7 +5454,10 @@
     "credible_interval_95": [
       0.35876542100232517,
       0.9567281317072583
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.15971914124998499
   },
   {
     "team": "Kolkata Knight Riders",
@@ -4749,7 +5468,10 @@
     "credible_interval_95": [
       0.29929505620854036,
       0.8630043377348335
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.14770978917519928
   },
   {
     "team": "Mumbai Indians",
@@ -4760,7 +5482,10 @@
     "credible_interval_95": [
       0.184051567640083,
       0.8159484323599169
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16666666666666666
   },
   {
     "team": "Punjab Kings",
@@ -4771,7 +5496,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Rajasthan Royals",
@@ -4782,7 +5510,10 @@
     "credible_interval_95": [
       0.09898827844250786,
       0.7095791362626572
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.1613743060919757
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4793,7 +5524,10 @@
     "credible_interval_95": [
       0.1369956622651665,
       0.7007049437914596
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14770978917519928
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -4804,7 +5538,10 @@
     "credible_interval_95": [
       0.08523341413725354,
       0.6508557944128242
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14907119849998599
   },
   {
     "team": "Chennai Super Kings",
@@ -4815,7 +5552,10 @@
     "credible_interval_95": [
       0.11811724875702521,
       0.7772219044964879
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Delhi Capitals",
@@ -4826,7 +5566,10 @@
     "credible_interval_95": [
       0.11811724875702521,
       0.7772219044964879
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Kings XI Punjab",
@@ -4837,7 +5580,10 @@
     "credible_interval_95": [
       0.09898827844250786,
       0.7095791362626572
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.1613743060919757
   },
   {
     "team": "Kolkata Knight Riders",
@@ -4848,7 +5594,10 @@
     "credible_interval_95": [
       0.26237807660694507,
       0.8129139715526015
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.14373989364401724
   },
   {
     "team": "Mumbai Indians",
@@ -4859,7 +5608,10 @@
     "credible_interval_95": [
       0.3475471499400027,
       0.8784477418801728
-    ]
+    ],
+    "posterior_alpha": 7.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.13886593015017698
   },
   {
     "team": "Rajasthan Royals",
@@ -4870,7 +5622,10 @@
     "credible_interval_95": [
       0.3491442055871758,
       0.9147665858627465
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.14907119849998599
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4881,7 +5636,10 @@
     "credible_interval_95": [
       0.09898827844250786,
       0.7095791362626572
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.1613743060919757
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -4892,7 +5650,10 @@
     "credible_interval_95": [
       0.11811724875702521,
       0.7772219044964879
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Chennai Super Kings",
@@ -4903,7 +5664,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Deccan Chargers",
@@ -4914,7 +5678,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -4925,7 +5692,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kings XI Punjab",
@@ -4936,7 +5706,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -4947,7 +5720,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Mumbai Indians",
@@ -4958,7 +5734,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Rajasthan Royals",
@@ -4969,7 +5748,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -4980,7 +5762,10 @@
     "credible_interval_95": [
       0.006309463209709866,
       0.6023646356164746
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 4.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Chennai Super Kings",
@@ -4991,7 +5776,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Deccan Chargers",
@@ -5002,7 +5790,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Delhi Daredevils",
@@ -5013,7 +5804,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kings XI Punjab",
@@ -5024,7 +5818,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kolkata Knight Riders",
@@ -5035,7 +5832,10 @@
     "credible_interval_95": [
       0.3976353643835253,
       0.9936905367902902
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.16329931618554522
   },
   {
     "team": "Mumbai Indians",
@@ -5046,7 +5846,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Pune Warriors",
@@ -5057,7 +5860,10 @@
     "credible_interval_95": [
       0.11016995471711757,
       0.5237708198961273
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 12.0,
+    "posterior_std": 0.10739657990297374
   },
   {
     "team": "Rajasthan Royals",
@@ -5068,7 +5874,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -5079,7 +5888,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Chennai Super Kings",
@@ -5090,7 +5902,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Deccan Chargers",
@@ -5101,7 +5916,10 @@
     "credible_interval_95": [
       0.14663279963467313,
       0.8533672003653268
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Delhi Daredevils",
@@ -5112,7 +5930,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Kings XI Punjab",
@@ -5123,7 +5944,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -5134,7 +5958,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Mumbai Indians",
@@ -5145,7 +5972,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rajasthan Royals",
@@ -5156,7 +5986,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -5167,7 +6000,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Chennai Super Kings",
@@ -5178,7 +6014,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Deccan Chargers",
@@ -5189,7 +6028,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rajasthan Royals",
@@ -5200,7 +6042,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -5211,7 +6056,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Chennai Super Kings",
@@ -5222,7 +6070,10 @@
     "credible_interval_95": [
       0.2658613472773966,
       0.7341386527226034
-    ]
+    ],
+    "posterior_alpha": 8.0,
+    "posterior_beta": 8.0,
+    "posterior_std": 0.12126781251816648
   },
   {
     "team": "Deccan Chargers",
@@ -5233,7 +6084,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Delhi Daredevils",
@@ -5244,7 +6098,10 @@
     "credible_interval_95": [
       0.07485463141969183,
       0.600093573716312
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.13816985594155148
   },
   {
     "team": "Gujarat Lions",
@@ -5255,7 +6112,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Kings XI Punjab",
@@ -5266,7 +6126,10 @@
     "credible_interval_95": [
       0.21094463823929666,
       0.7233303143178942
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.13323467750529824
   },
   {
     "team": "Kochi Tuskers Kerala",
@@ -5277,7 +6140,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -5288,7 +6154,10 @@
     "credible_interval_95": [
       0.02521072632683336,
       0.4450161170281954
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 9.0,
+    "posterior_std": 0.11134044285378082
   },
   {
     "team": "Mumbai Indians",
@@ -5299,7 +6168,10 @@
     "credible_interval_95": [
       0.5087394315103153,
       0.7378154230046877
-    ]
+    ],
+    "posterior_alpha": 42.0,
+    "posterior_beta": 25.0,
+    "posterior_std": 0.05864964537263998
   },
   {
     "team": "Pune Warriors",
@@ -5310,7 +6182,10 @@
     "credible_interval_95": [
       0.06758598648854294,
       0.8058795503167565
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Rajasthan Royals",
@@ -5321,7 +6196,10 @@
     "credible_interval_95": [
       0.21200850677886798,
       0.787991493221132
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15075567228888181
   },
   {
     "team": "Rising Pune Supergiant",
@@ -5332,7 +6210,10 @@
     "credible_interval_95": [
       0.2924017738212866,
       0.9915962413403874
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Rising Pune Supergiants",
@@ -5343,7 +6224,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -5354,7 +6238,10 @@
     "credible_interval_95": [
       0.10926344381909811,
       0.6097425595724212
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 8.0,
+    "posterior_std": 0.1307440900921227
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -5365,29 +6252,38 @@
     "credible_interval_95": [
       0.03669256617608555,
       0.5787231970431952
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14433756729740643
   },
   {
     "team": "Chennai Super Kings",
     "venue": "Wankhede Stadium, Mumbai",
-    "matches": 12,
-    "wins": 6,
+    "matches": 10,
+    "wins": 5,
     "posterior_mean": 0.5,
     "credible_interval_95": [
-      0.25134548227030357,
-      0.7486545177296964
-    ]
+      0.23379359765934518,
+      0.7662064023406548
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.1386750490563073
   },
   {
     "team": "Delhi Capitals",
     "venue": "Wankhede Stadium, Mumbai",
-    "matches": 10,
+    "matches": 8,
     "wins": 3,
-    "posterior_mean": 0.3333333333333333,
+    "posterior_mean": 0.4,
     "credible_interval_95": [
-      0.10926344381909811,
-      0.6097425595724212
-    ]
+      0.1369956622651665,
+      0.7007049437914596
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 6.0,
+    "posterior_std": 0.14770978917519928
   },
   {
     "team": "Gujarat Titans",
@@ -5398,40 +6294,52 @@
     "credible_interval_95": [
       0.22277809550351213,
       0.8818827512429748
-    ]
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1749635530559413
   },
   {
     "team": "Kolkata Knight Riders",
     "venue": "Wankhede Stadium, Mumbai",
-    "matches": 9,
-    "wins": 4,
-    "posterior_mean": 0.45454545454545453,
+    "matches": 7,
+    "wins": 3,
+    "posterior_mean": 0.4444444444444444,
     "credible_interval_95": [
-      0.18708602844739855,
-      0.7376219233930549
-    ]
+      0.15701277048705795,
+      0.7551367836334484
+    ],
+    "posterior_alpha": 4.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15713484026367722
   },
   {
     "team": "Lucknow Super Giants",
     "venue": "Wankhede Stadium, Mumbai",
-    "matches": 6,
-    "wins": 3,
+    "matches": 4,
+    "wins": 2,
     "posterior_mean": 0.5,
     "credible_interval_95": [
-      0.184051567640083,
-      0.8159484323599169
-    ]
+      0.14663279963467313,
+      0.8533672003653268
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.1889822365046136
   },
   {
     "team": "Mumbai Indians",
     "venue": "Wankhede Stadium, Mumbai",
-    "matches": 24,
-    "wins": 15,
+    "matches": 11,
+    "wins": 7,
     "posterior_mean": 0.6153846153846154,
     "credible_interval_95": [
-      0.42520634955384945,
-      0.788745193534858
-    ]
+      0.34887550641881554,
+      0.8483477701915698
+    ],
+    "posterior_alpha": 8.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.13002373149669486
   },
   {
     "team": "Punjab Kings",
@@ -5442,18 +6350,24 @@
     "credible_interval_95": [
       0.21200850677886798,
       0.787991493221132
-    ]
+    ],
+    "posterior_alpha": 5.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15075567228888181
   },
   {
     "team": "Rajasthan Royals",
     "venue": "Wankhede Stadium, Mumbai",
-    "matches": 12,
-    "wins": 6,
-    "posterior_mean": 0.5,
+    "matches": 11,
+    "wins": 5,
+    "posterior_mean": 0.46153846153846156,
     "credible_interval_95": [
-      0.25134548227030357,
-      0.7486545177296964
-    ]
+      0.21094463823929666,
+      0.7233303143178942
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 7.0,
+    "posterior_std": 0.13323467750529824
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -5464,29 +6378,24 @@
     "credible_interval_95": [
       0.3491442055871758,
       0.9147665858627465
-    ]
-  },
-  {
-    "team": "Royal Challengers Bengaluru",
-    "venue": "Wankhede Stadium, Mumbai",
-    "matches": 2,
-    "wins": 1,
-    "posterior_mean": 0.5,
-    "credible_interval_95": [
-      0.09429932405024609,
-      0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 6.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.14907119849998599
   },
   {
     "team": "Sunrisers Hyderabad",
     "venue": "Wankhede Stadium, Mumbai",
-    "matches": 7,
+    "matches": 5,
     "wins": 1,
-    "posterior_mean": 0.2222222222222222,
+    "posterior_mean": 0.2857142857142857,
     "credible_interval_95": [
-      0.031854026249944226,
-      0.5265096708752065
-    ]
+      0.043271868292741676,
+      0.6412345789976748
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 5.0,
+    "posterior_std": 0.15971914124998499
   },
   {
     "team": "Chennai Super Kings",
@@ -5497,7 +6406,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Delhi Capitals",
@@ -5508,7 +6420,10 @@
     "credible_interval_95": [
       0.15811388300841897,
       0.9874208829065749
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 1.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Kolkata Knight Riders",
@@ -5519,7 +6434,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Mumbai Indians",
@@ -5530,7 +6448,10 @@
     "credible_interval_95": [
       0.19412044968324338,
       0.932414013511457
-    ]
+    ],
+    "posterior_alpha": 3.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.2
   },
   {
     "team": "Punjab Kings",
@@ -5541,7 +6462,10 @@
     "credible_interval_95": [
       0.01257911709342505,
       0.841886116991581
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.23570226039551584
   },
   {
     "team": "Rajasthan Royals",
@@ -5552,7 +6476,10 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   },
   {
     "team": "Royal Challengers Bangalore",
@@ -5563,7 +6490,10 @@
     "credible_interval_95": [
       0.008403758659612636,
       0.7075982261787133
-    ]
+    ],
+    "posterior_alpha": 1.0,
+    "posterior_beta": 3.0,
+    "posterior_std": 0.19364916731037085
   },
   {
     "team": "Sunrisers Hyderabad",
@@ -5574,6 +6504,9 @@
     "credible_interval_95": [
       0.09429932405024609,
       0.9057006759497539
-    ]
+    ],
+    "posterior_alpha": 2.0,
+    "posterior_beta": 2.0,
+    "posterior_std": 0.22360679774997896
   }
 ]

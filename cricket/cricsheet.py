@@ -9,8 +9,11 @@ import pandas as pd
 
 class SkipMatch(ValueError): pass
 
-def convert_match(data,match_id,strict_complete=True):
+def convert_match(data,match_id,strict_complete=True,min_year=2008,max_year=2024):
     info=data['info'];innings=data.get('innings',[]);outcome=info.get('outcome',{})
+    date=str(info['dates'][0]);year=int(date[:4]);source_season=str(info['season'])
+    if min_year is not None and year<min_year: raise SkipMatch('before_min_year')
+    if max_year is not None and year>max_year: raise SkipMatch('after_max_year')
     if info.get('match_type')!='T20' or info.get('overs')!=20 or info.get('balls_per_over',6)!=6:
         raise SkipMatch('nonstandard_format')
     if outcome.get('result') or not outcome.get('winner') or outcome.get('eliminator') or info.get('bowl_out'):
@@ -26,7 +29,7 @@ def convert_match(data,match_id,strict_complete=True):
     if any(i.get('miscounted_overs') for i in innings): raise SkipMatch('miscounted_overs')
     if any(i.get('declared') or i.get('forfeited') or i.get('absent_hurt') for i in innings):
         raise SkipMatch('unusual_innings_ending')
-    date=str(info['dates'][0]);year=int(date[:4]);source_season=str(info['season'])
+    # date=str(info['dates'][0]);year=int(date[:4]);source_season=str(info['season'])
     # IPL seasons such as 2007/08 actually occurred in calendar 2008.
     rows=[];summaries=[]
     for number,inn in enumerate(innings,1):
@@ -64,14 +67,14 @@ def convert_match(data,match_id,strict_complete=True):
             raise SkipMatch('incomplete_second_innings')
     return rows
 
-def convert_zip(source,output,report_path):
+def convert_zip(source,output,report_path,min_year=2008,max_year=2024):
     source=Path(source);records=[];excluded=[];accepted=[]
     with zipfile.ZipFile(source) as z:
         names=sorted(n for n in z.namelist() if n.endswith('.json') and not n.startswith('__MACOSX/'))
         for name in names:
             mid=Path(name).stem
             try:
-                rows=convert_match(json.loads(z.read(name)),mid)
+                rows=convert_match(json.loads(z.read(name)),mid,min_year=min_year,max_year=max_year)
                 records.extend(rows);accepted.append(mid)
             except SkipMatch as exc: excluded.append({'match_id':mid,'reason':str(exc)})
             except (KeyError,TypeError,ValueError) as exc:
